@@ -1,0 +1,137 @@
+,Sexo,Estado civil,Periodo,Total
+0,Hombres,Solteros/Solteras,2021,7585.5
+1,Hombres,Solteros/Solteras,2020,7462.4
+2,Hombres,Solteros/Solteras,2019,7329.9
+3,Hombres,Solteros/Solteras,2018,7083.3
+4,Hombres,Solteros/Solteras,2017,6988.7
+5,Hombres,Solteros/Solteras,2016,6959.8
+6,Hombres,Solteros/Solteras,2015,6952.1
+7,Hombres,Solteros/Solteras,2014,6890.1
+8,Hombres,Solteros/Solteras,2013,6882.3
+9,Hombres,Solteros/Solteras,2012,6953.7
+10,Hombres,Solteros/Solteras,2011,6968.5
+11,Hombres,Solteros/Solteras,2010,6954.4
+12,Hombres,Solteros/Solteras,2009,6991.6
+13,Hombres,Solteros/Solteras,2008,6964.9
+14,Hombres,Solteros/Solteras,2007,6915.8
+15,Hombres,Solteros/Solteras,2006,6740.7
+16,Hombres,Solteros/Solteras,2005,6617.7
+17,Hombres,Casados/Casadas,2021,9969.7
+18,Hombres,Casados/Casadas,2020,10087.4
+19,Hombres,Casados/Casadas,2019,10181.7
+20,Hombres,Casados/Casadas,2018,10208.5
+21,Hombres,Casados/Casadas,2017,10199.0
+22,Hombres,Casados/Casadas,2016,10205.3
+23,Hombres,Casados/Casadas,2015,10201.9
+24,Hombres,Casados/Casadas,2014,10291.3
+25,Hombres,Casados/Casadas,2013,10300.9
+26,Hombres,Casados/Casadas,2012,10524.5
+27,Hombres,Casados/Casadas,2011,10631.9
+28,Hombres,Casados/Casadas,2010,10700.7
+29,Hombres,Casados/Casadas,2009,10661.9
+30,Hombres,Casados/Casadas,2008,10678.6
+31,Hombres,Casados/Casadas,2007,10516.8
+32,Hombres,Casados/Casadas,2006,10374.5
+33,Hombres,Casados/Casadas,2005,10258.3
+34,Hombres,Viudos/Viudas,2021,575.6
+35,Hombres,Viudos/Viudas,2020,586.6
+36,Hombres,Viudos/Viudas,2019,557.0
+37,Hombres,Viudos/Viudas,2018,554.4
+38,Hombres,Viudos/Viudas,2017,582.4
+39,Hombres,Viudos/Viudas,2016,580.8
+40,Hombres,Viudos/Viudas,2015,586.2
+41,Hombres,Viudos/Viudas,2014,572.9
+42,Hombres,Viudos/Viudas,2013,604.2
+43,Hombres,Viudos/Viudas,2012,562.3
+44,Hombres,Viudos/Viudas,2011,540.1
+45,Hombres,Viudos/Viudas,2010,550.0
+46,Hombres,Viudos/Viudas,2009,576.7
+47,Hombres,Viudos/Viudas,2008,567.1
+48,Hombres,Viudos/Viudas,2007,559.6
+49,Hombres,Viudos/Viudas,2006,548.2
+50,Hombres,Viudos/Viudas,2005,534.4
+51,Hombres,Separados/Separadas o Divorciados/Divorciadas,2021,1161.8
+52,Hombres,Separados/Separadas o Divorciados/Divorciadas,2020,1132.8
+53,Hombres,Separados/Separadas o Divorciados/Divorciadas,2019,1101.7
+54,Hombres,Separados/Separadas o Divorciados/Divorciadas,2018,1125.3
+55,Hombres,Separados/Separadas o Divorciados/Divorciadas,2017,1060.8
+56,Hombres,Separados/Separadas o Divorciados/Divorciadas,2016,1031.4
+57,Hombres,Separados/Separadas o Divorciados/Divorciadas,2015,1001.0
+58,Hombres,Separados/Separadas o Divorciados/Divorciadas,2014,1019.3
+59,Hombres,Separados/Separadas o Divorciados/Divorciadas,2013,1009.1
+60,Hombres,Separados/Separadas o Divorciados/Divorciadas,2012,915.7
+61,Hombres,Separados/Separadas o Divorciados/Divorciadas,2011,901.3
+62,Hombres,Separados/Separadas o Divorciados/Divorciadas,2010,822.1
+63,Hombres,Separados/Separadas o Divorciados/Divorciadas,2009,777.2
+64,Hombres,Separados/Separadas o Divorciados/Divorciadas,2008,737.6
+65,Hombres,Separados/Separadas o Divorciados/Divorciadas,2007,729.9
+66,Hombres,Separados/Separadas o Divorciados/Divorciadas,2006,677.7
+67,Hombres,Separados/Separadas o Divorciados/Divorciadas,2005,626.8
+68,Mujeres,Solteros/Solteras,2021,6569.4
+69,Mujeres,Solteros/Solteras,2020,6418.3
+70,Mujeres,Solteros/Solteras,2019,6271.6
+71,Mujeres,Solteros/Solteras,2018,6022.3
+72,Mujeres,Solteros/Solteras,2017,5897.7
+73,Mujeres,Solteros/Solteras,2016,5819.6
+74,Mujeres,Solteros/Solteras,2015,5802.2
+75,Mujeres,Solteros/Solteras,2014,5753.4
+76,Mujeres,Solteros/Solteras,2013,5722.0
+77,Mujeres,Solteros/Solteras,2012,5697.8
+78,Mujeres,Solteros/Solteras,2011,5618.8
+79,Mujeres,Solteros/Solteras,2010,5588.6
+80,Mujeres,Solteros/Solteras,2009,5621.8
+81,Mujeres,Solteros/Solteras,2008,5591.8
+82,Mujeres,Solteros/Solteras,2007,5551.4
+83,Mujeres,Solteros/Solteras,2006,5523.9
+84,Mujeres,Solteros/Solteras,2005,5371.4
+85,Mujeres,Casados/Casadas,2021,9898.6
+86,Mujeres,Casados/Casadas,2020,10074.2
+87,Mujeres,Casados/Casadas,2019,10149.0
+88,Mujeres,Casados/Casadas,2018,10195.7
+89,Mujeres,Casados/Casadas,2017,10151.9
+90,Mujeres,Casados/Casadas,2016,10161.5
+91,Mujeres,Casados/Casadas,2015,10132.1
+92,Mujeres,Casados/Casadas,2014,10271.9
+93,Mujeres,Casados/Casadas,2013,10291.2
+94,Mujeres,Casados/Casadas,2012,10468.0
+95,Mujeres,Casados/Casadas,2011,10576.7
+96,Mujeres,Casados/Casadas,2010,10664.5
+97,Mujeres,Casados/Casadas,2009,10616.8
+98,Mujeres,Casados/Casadas,2008,10601.7
+99,Mujeres,Casados/Casadas,2007,10450.2
+100,Mujeres,Casados/Casadas,2006,10261.4
+101,Mujeres,Casados/Casadas,2005,10197.4
+102,Mujeres,Viudos/Viudas,2021,2342.4
+103,Mujeres,Viudos/Viudas,2020,2331.2
+104,Mujeres,Viudos/Viudas,2019,2363.8
+105,Mujeres,Viudos/Viudas,2018,2383.4
+106,Mujeres,Viudos/Viudas,2017,2431.9
+107,Mujeres,Viudos/Viudas,2016,2432.0
+108,Mujeres,Viudos/Viudas,2015,2437.3
+109,Mujeres,Viudos/Viudas,2014,2400.3
+110,Mujeres,Viudos/Viudas,2013,2424.0
+111,Mujeres,Viudos/Viudas,2012,2438.2
+112,Mujeres,Viudos/Viudas,2011,2434.7
+113,Mujeres,Viudos/Viudas,2010,2441.5
+114,Mujeres,Viudos/Viudas,2009,2426.5
+115,Mujeres,Viudos/Viudas,2008,2399.4
+116,Mujeres,Viudos/Viudas,2007,2395.3
+117,Mujeres,Viudos/Viudas,2006,2393.5
+118,Mujeres,Viudos/Viudas,2005,2377.3
+119,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2021,1603.9
+120,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2020,1542.6
+121,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2019,1472.6
+122,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2018,1446.6
+123,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2017,1404.2
+124,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2016,1394.5
+125,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2015,1376.7
+126,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2014,1324.0
+127,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2013,1309.4
+128,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2012,1223.0
+129,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2011,1209.9
+130,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2010,1080.0
+131,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2009,1040.5
+132,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2008,1005.5
+133,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2007,982.1
+134,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2006,868.6
+135,Mujeres,Separados/Separadas o Divorciados/Divorciadas,2005,813.0

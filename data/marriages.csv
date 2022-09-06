@@ -1,0 +1,2545 @@
+,Provincias,Periodo,Total,Sexo
+0,02 Albacete,2020,552.0,Mujer-Hombre
+1,02 Albacete,2019,1203.0,Mujer-Hombre
+2,02 Albacete,2018,1267.0,Mujer-Hombre
+3,02 Albacete,2017,1367.0,Mujer-Hombre
+4,02 Albacete,2016,1417.0,Mujer-Hombre
+5,02 Albacete,2015,1344.0,Mujer-Hombre
+6,02 Albacete,2014,1300.0,Mujer-Hombre
+7,02 Albacete,2013,1191.0,Mujer-Hombre
+8,02 Albacete,2012,1345.0,Mujer-Hombre
+9,02 Albacete,2011,1309.0,Mujer-Hombre
+10,02 Albacete,2010,1346.0,Mujer-Hombre
+11,02 Albacete,2009,1399.0,Mujer-Hombre
+12,02 Albacete,2008,1483.0,Mujer-Hombre
+13,02 Albacete,2007,1628.0,Mujer-Hombre
+14,02 Albacete,2006,1661.0,Mujer-Hombre
+15,02 Albacete,2005,1720.0,Mujer-Hombre
+16,03 Alicante/Alacant,2020,3828.0,Mujer-Hombre
+17,03 Alicante/Alacant,2019,6013.0,Mujer-Hombre
+18,03 Alicante/Alacant,2018,6273.0,Mujer-Hombre
+19,03 Alicante/Alacant,2017,6590.0,Mujer-Hombre
+20,03 Alicante/Alacant,2016,6576.0,Mujer-Hombre
+21,03 Alicante/Alacant,2015,5977.0,Mujer-Hombre
+22,03 Alicante/Alacant,2014,5754.0,Mujer-Hombre
+23,03 Alicante/Alacant,2013,5318.0,Mujer-Hombre
+24,03 Alicante/Alacant,2012,5538.0,Mujer-Hombre
+25,03 Alicante/Alacant,2011,5344.0,Mujer-Hombre
+26,03 Alicante/Alacant,2010,5466.0,Mujer-Hombre
+27,03 Alicante/Alacant,2009,5877.0,Mujer-Hombre
+28,03 Alicante/Alacant,2008,6921.0,Mujer-Hombre
+29,03 Alicante/Alacant,2007,7350.0,Mujer-Hombre
+30,03 Alicante/Alacant,2006,7606.0,Mujer-Hombre
+31,03 Alicante/Alacant,2005,7935.0,Mujer-Hombre
+32,04 Almería,2020,1143.0,Mujer-Hombre
+33,04 Almería,2019,2091.0,Mujer-Hombre
+34,04 Almería,2018,2139.0,Mujer-Hombre
+35,04 Almería,2017,2136.0,Mujer-Hombre
+36,04 Almería,2016,2216.0,Mujer-Hombre
+37,04 Almería,2015,2082.0,Mujer-Hombre
+38,04 Almería,2014,1977.0,Mujer-Hombre
+39,04 Almería,2013,1954.0,Mujer-Hombre
+40,04 Almería,2012,2293.0,Mujer-Hombre
+41,04 Almería,2011,2048.0,Mujer-Hombre
+42,04 Almería,2010,2128.0,Mujer-Hombre
+43,04 Almería,2009,2379.0,Mujer-Hombre
+44,04 Almería,2008,2759.0,Mujer-Hombre
+45,04 Almería,2007,2836.0,Mujer-Hombre
+46,04 Almería,2006,3015.0,Mujer-Hombre
+47,04 Almería,2005,2973.0,Mujer-Hombre
+48,01 Araba/Álava,2020,516.0,Mujer-Hombre
+49,01 Araba/Álava,2019,1004.0,Mujer-Hombre
+50,01 Araba/Álava,2018,1092.0,Mujer-Hombre
+51,01 Araba/Álava,2017,1067.0,Mujer-Hombre
+52,01 Araba/Álava,2016,1111.0,Mujer-Hombre
+53,01 Araba/Álava,2015,1187.0,Mujer-Hombre
+54,01 Araba/Álava,2014,1191.0,Mujer-Hombre
+55,01 Araba/Álava,2013,1080.0,Mujer-Hombre
+56,01 Araba/Álava,2012,1186.0,Mujer-Hombre
+57,01 Araba/Álava,2011,1140.0,Mujer-Hombre
+58,01 Araba/Álava,2010,1258.0,Mujer-Hombre
+59,01 Araba/Álava,2009,1205.0,Mujer-Hombre
+60,01 Araba/Álava,2008,1240.0,Mujer-Hombre
+61,01 Araba/Álava,2007,1216.0,Mujer-Hombre
+62,01 Araba/Álava,2006,1263.0,Mujer-Hombre
+63,01 Araba/Álava,2005,1277.0,Mujer-Hombre
+64,33 Asturias,2020,1807.0,Mujer-Hombre
+65,33 Asturias,2019,3255.0,Mujer-Hombre
+66,33 Asturias,2018,3425.0,Mujer-Hombre
+67,33 Asturias,2017,3569.0,Mujer-Hombre
+68,33 Asturias,2016,3679.0,Mujer-Hombre
+69,33 Asturias,2015,3483.0,Mujer-Hombre
+70,33 Asturias,2014,3498.0,Mujer-Hombre
+71,33 Asturias,2013,3327.0,Mujer-Hombre
+72,33 Asturias,2012,3968.0,Mujer-Hombre
+73,33 Asturias,2011,3884.0,Mujer-Hombre
+74,33 Asturias,2010,4233.0,Mujer-Hombre
+75,33 Asturias,2009,4485.0,Mujer-Hombre
+76,33 Asturias,2008,4775.0,Mujer-Hombre
+77,33 Asturias,2007,4857.0,Mujer-Hombre
+78,33 Asturias,2006,4810.0,Mujer-Hombre
+79,33 Asturias,2005,4905.0,Mujer-Hombre
+80,05 Ávila,2020,234.0,Mujer-Hombre
+81,05 Ávila,2019,437.0,Mujer-Hombre
+82,05 Ávila,2018,436.0,Mujer-Hombre
+83,05 Ávila,2017,435.0,Mujer-Hombre
+84,05 Ávila,2016,460.0,Mujer-Hombre
+85,05 Ávila,2015,434.0,Mujer-Hombre
+86,05 Ávila,2014,425.0,Mujer-Hombre
+87,05 Ávila,2013,433.0,Mujer-Hombre
+88,05 Ávila,2012,465.0,Mujer-Hombre
+89,05 Ávila,2011,466.0,Mujer-Hombre
+90,05 Ávila,2010,500.0,Mujer-Hombre
+91,05 Ávila,2009,531.0,Mujer-Hombre
+92,05 Ávila,2008,596.0,Mujer-Hombre
+93,05 Ávila,2007,579.0,Mujer-Hombre
+94,05 Ávila,2006,594.0,Mujer-Hombre
+95,05 Ávila,2005,588.0,Mujer-Hombre
+96,06 Badajoz,2020,996.0,Mujer-Hombre
+97,06 Badajoz,2019,2166.0,Mujer-Hombre
+98,06 Badajoz,2018,2156.0,Mujer-Hombre
+99,06 Badajoz,2017,2304.0,Mujer-Hombre
+100,06 Badajoz,2016,2311.0,Mujer-Hombre
+101,06 Badajoz,2015,2271.0,Mujer-Hombre
+102,06 Badajoz,2014,2160.0,Mujer-Hombre
+103,06 Badajoz,2013,2044.0,Mujer-Hombre
+104,06 Badajoz,2012,2452.0,Mujer-Hombre
+105,06 Badajoz,2011,2368.0,Mujer-Hombre
+106,06 Badajoz,2010,2682.0,Mujer-Hombre
+107,06 Badajoz,2009,2832.0,Mujer-Hombre
+108,06 Badajoz,2008,2917.0,Mujer-Hombre
+109,06 Badajoz,2007,2892.0,Mujer-Hombre
+110,06 Badajoz,2006,3083.0,Mujer-Hombre
+111,06 Badajoz,2005,3050.0,Mujer-Hombre
+112,"07 Balears, Illes",2020,2847.0,Mujer-Hombre
+113,"07 Balears, Illes",2019,4880.0,Mujer-Hombre
+114,"07 Balears, Illes",2018,4615.0,Mujer-Hombre
+115,"07 Balears, Illes",2017,4570.0,Mujer-Hombre
+116,"07 Balears, Illes",2016,4593.0,Mujer-Hombre
+117,"07 Balears, Illes",2015,4496.0,Mujer-Hombre
+118,"07 Balears, Illes",2014,4104.0,Mujer-Hombre
+119,"07 Balears, Illes",2013,3942.0,Mujer-Hombre
+120,"07 Balears, Illes",2012,3925.0,Mujer-Hombre
+121,"07 Balears, Illes",2011,3950.0,Mujer-Hombre
+122,"07 Balears, Illes",2010,3947.0,Mujer-Hombre
+123,"07 Balears, Illes",2009,4151.0,Mujer-Hombre
+124,"07 Balears, Illes",2008,4138.0,Mujer-Hombre
+125,"07 Balears, Illes",2007,4345.0,Mujer-Hombre
+126,"07 Balears, Illes",2006,4260.0,Mujer-Hombre
+127,"07 Balears, Illes",2005,4267.0,Mujer-Hombre
+128,08 Barcelona,2020,10954.0,Mujer-Hombre
+129,08 Barcelona,2019,19122.0,Mujer-Hombre
+130,08 Barcelona,2018,20014.0,Mujer-Hombre
+131,08 Barcelona,2017,21223.0,Mujer-Hombre
+132,08 Barcelona,2016,21230.0,Mujer-Hombre
+133,08 Barcelona,2015,19812.0,Mujer-Hombre
+134,08 Barcelona,2014,19181.0,Mujer-Hombre
+135,08 Barcelona,2013,18795.0,Mujer-Hombre
+136,08 Barcelona,2012,19757.0,Mujer-Hombre
+137,08 Barcelona,2011,19066.0,Mujer-Hombre
+138,08 Barcelona,2010,20162.0,Mujer-Hombre
+139,08 Barcelona,2009,20303.0,Mujer-Hombre
+140,08 Barcelona,2008,22430.0,Mujer-Hombre
+141,08 Barcelona,2007,22382.0,Mujer-Hombre
+142,08 Barcelona,2006,22831.0,Mujer-Hombre
+143,08 Barcelona,2005,24133.0,Mujer-Hombre
+144,48 Bizkaia,2020,1881.0,Mujer-Hombre
+145,48 Bizkaia,2019,3529.0,Mujer-Hombre
+146,48 Bizkaia,2018,3561.0,Mujer-Hombre
+147,48 Bizkaia,2017,3790.0,Mujer-Hombre
+148,48 Bizkaia,2016,3777.0,Mujer-Hombre
+149,48 Bizkaia,2015,3608.0,Mujer-Hombre
+150,48 Bizkaia,2014,3599.0,Mujer-Hombre
+151,48 Bizkaia,2013,3632.0,Mujer-Hombre
+152,48 Bizkaia,2012,4094.0,Mujer-Hombre
+153,48 Bizkaia,2011,4204.0,Mujer-Hombre
+154,48 Bizkaia,2010,4297.0,Mujer-Hombre
+155,48 Bizkaia,2009,4307.0,Mujer-Hombre
+156,48 Bizkaia,2008,4731.0,Mujer-Hombre
+157,48 Bizkaia,2007,4753.0,Mujer-Hombre
+158,48 Bizkaia,2006,4740.0,Mujer-Hombre
+159,48 Bizkaia,2005,4979.0,Mujer-Hombre
+160,09 Burgos,2020,514.0,Mujer-Hombre
+161,09 Burgos,2019,1051.0,Mujer-Hombre
+162,09 Burgos,2018,1050.0,Mujer-Hombre
+163,09 Burgos,2017,1129.0,Mujer-Hombre
+164,09 Burgos,2016,1082.0,Mujer-Hombre
+165,09 Burgos,2015,1098.0,Mujer-Hombre
+166,09 Burgos,2014,1043.0,Mujer-Hombre
+167,09 Burgos,2013,1047.0,Mujer-Hombre
+168,09 Burgos,2012,1192.0,Mujer-Hombre
+169,09 Burgos,2011,1137.0,Mujer-Hombre
+170,09 Burgos,2010,1287.0,Mujer-Hombre
+171,09 Burgos,2009,1245.0,Mujer-Hombre
+172,09 Burgos,2008,1365.0,Mujer-Hombre
+173,09 Burgos,2007,1447.0,Mujer-Hombre
+174,09 Burgos,2006,1407.0,Mujer-Hombre
+175,09 Burgos,2005,1430.0,Mujer-Hombre
+176,10 Cáceres,2020,552.0,Mujer-Hombre
+177,10 Cáceres,2019,1112.0,Mujer-Hombre
+178,10 Cáceres,2018,1110.0,Mujer-Hombre
+179,10 Cáceres,2017,1159.0,Mujer-Hombre
+180,10 Cáceres,2016,1274.0,Mujer-Hombre
+181,10 Cáceres,2015,1172.0,Mujer-Hombre
+182,10 Cáceres,2014,1138.0,Mujer-Hombre
+183,10 Cáceres,2013,1066.0,Mujer-Hombre
+184,10 Cáceres,2012,1192.0,Mujer-Hombre
+185,10 Cáceres,2011,1143.0,Mujer-Hombre
+186,10 Cáceres,2010,1167.0,Mujer-Hombre
+187,10 Cáceres,2009,1346.0,Mujer-Hombre
+188,10 Cáceres,2008,1481.0,Mujer-Hombre
+189,10 Cáceres,2007,1527.0,Mujer-Hombre
+190,10 Cáceres,2006,1588.0,Mujer-Hombre
+191,10 Cáceres,2005,1537.0,Mujer-Hombre
+192,11 Cádiz,2020,2408.0,Mujer-Hombre
+193,11 Cádiz,2019,4900.0,Mujer-Hombre
+194,11 Cádiz,2018,4446.0,Mujer-Hombre
+195,11 Cádiz,2017,4708.0,Mujer-Hombre
+196,11 Cádiz,2016,4703.0,Mujer-Hombre
+197,11 Cádiz,2015,4573.0,Mujer-Hombre
+198,11 Cádiz,2014,4251.0,Mujer-Hombre
+199,11 Cádiz,2013,3911.0,Mujer-Hombre
+200,11 Cádiz,2012,4383.0,Mujer-Hombre
+201,11 Cádiz,2011,4054.0,Mujer-Hombre
+202,11 Cádiz,2010,4263.0,Mujer-Hombre
+203,11 Cádiz,2009,4635.0,Mujer-Hombre
+204,11 Cádiz,2008,5587.0,Mujer-Hombre
+205,11 Cádiz,2007,5892.0,Mujer-Hombre
+206,11 Cádiz,2006,6253.0,Mujer-Hombre
+207,11 Cádiz,2005,6728.0,Mujer-Hombre
+208,39 Cantabria,2020,1111.0,Mujer-Hombre
+209,39 Cantabria,2019,1951.0,Mujer-Hombre
+210,39 Cantabria,2018,2067.0,Mujer-Hombre
+211,39 Cantabria,2017,2079.0,Mujer-Hombre
+212,39 Cantabria,2016,2228.0,Mujer-Hombre
+213,39 Cantabria,2015,2124.0,Mujer-Hombre
+214,39 Cantabria,2014,2069.0,Mujer-Hombre
+215,39 Cantabria,2013,1936.0,Mujer-Hombre
+216,39 Cantabria,2012,2326.0,Mujer-Hombre
+217,39 Cantabria,2011,2184.0,Mujer-Hombre
+218,39 Cantabria,2010,2500.0,Mujer-Hombre
+219,39 Cantabria,2009,2581.0,Mujer-Hombre
+220,39 Cantabria,2008,2936.0,Mujer-Hombre
+221,39 Cantabria,2007,2948.0,Mujer-Hombre
+222,39 Cantabria,2006,2822.0,Mujer-Hombre
+223,39 Cantabria,2005,2876.0,Mujer-Hombre
+224,12 Castellón/Castelló,2020,1123.0,Mujer-Hombre
+225,12 Castellón/Castelló,2019,2029.0,Mujer-Hombre
+226,12 Castellón/Castelló,2018,1892.0,Mujer-Hombre
+227,12 Castellón/Castelló,2017,2022.0,Mujer-Hombre
+228,12 Castellón/Castelló,2016,2007.0,Mujer-Hombre
+229,12 Castellón/Castelló,2015,1992.0,Mujer-Hombre
+230,12 Castellón/Castelló,2014,1922.0,Mujer-Hombre
+231,12 Castellón/Castelló,2013,1763.0,Mujer-Hombre
+232,12 Castellón/Castelló,2012,1880.0,Mujer-Hombre
+233,12 Castellón/Castelló,2011,1805.0,Mujer-Hombre
+234,12 Castellón/Castelló,2010,2037.0,Mujer-Hombre
+235,12 Castellón/Castelló,2009,2135.0,Mujer-Hombre
+236,12 Castellón/Castelló,2008,2484.0,Mujer-Hombre
+237,12 Castellón/Castelló,2007,2695.0,Mujer-Hombre
+238,12 Castellón/Castelló,2006,2638.0,Mujer-Hombre
+239,12 Castellón/Castelló,2005,2708.0,Mujer-Hombre
+240,13 Ciudad Real,2020,654.0,Mujer-Hombre
+241,13 Ciudad Real,2019,1643.0,Mujer-Hombre
+242,13 Ciudad Real,2018,1698.0,Mujer-Hombre
+243,13 Ciudad Real,2017,1659.0,Mujer-Hombre
+244,13 Ciudad Real,2016,1722.0,Mujer-Hombre
+245,13 Ciudad Real,2015,1651.0,Mujer-Hombre
+246,13 Ciudad Real,2014,1557.0,Mujer-Hombre
+247,13 Ciudad Real,2013,1527.0,Mujer-Hombre
+248,13 Ciudad Real,2012,1731.0,Mujer-Hombre
+249,13 Ciudad Real,2011,1633.0,Mujer-Hombre
+250,13 Ciudad Real,2010,1748.0,Mujer-Hombre
+251,13 Ciudad Real,2009,1918.0,Mujer-Hombre
+252,13 Ciudad Real,2008,2228.0,Mujer-Hombre
+253,13 Ciudad Real,2007,2321.0,Mujer-Hombre
+254,13 Ciudad Real,2006,2257.0,Mujer-Hombre
+255,13 Ciudad Real,2005,2330.0,Mujer-Hombre
+256,14 Córdoba,2020,1193.0,Mujer-Hombre
+257,14 Córdoba,2019,2750.0,Mujer-Hombre
+258,14 Córdoba,2018,2769.0,Mujer-Hombre
+259,14 Córdoba,2017,2841.0,Mujer-Hombre
+260,14 Córdoba,2016,2952.0,Mujer-Hombre
+261,14 Córdoba,2015,2701.0,Mujer-Hombre
+262,14 Córdoba,2014,2550.0,Mujer-Hombre
+263,14 Córdoba,2013,2336.0,Mujer-Hombre
+264,14 Córdoba,2012,2708.0,Mujer-Hombre
+265,14 Córdoba,2011,2760.0,Mujer-Hombre
+266,14 Córdoba,2010,2911.0,Mujer-Hombre
+267,14 Córdoba,2009,3290.0,Mujer-Hombre
+268,14 Córdoba,2008,3893.0,Mujer-Hombre
+269,14 Córdoba,2007,3971.0,Mujer-Hombre
+270,14 Córdoba,2006,4042.0,Mujer-Hombre
+271,14 Córdoba,2005,3979.0,Mujer-Hombre
+272,"15 Coruña, A",2020,2400.0,Mujer-Hombre
+273,"15 Coruña, A",2019,4034.0,Mujer-Hombre
+274,"15 Coruña, A",2018,3879.0,Mujer-Hombre
+275,"15 Coruña, A",2017,4055.0,Mujer-Hombre
+276,"15 Coruña, A",2016,4120.0,Mujer-Hombre
+277,"15 Coruña, A",2015,4120.0,Mujer-Hombre
+278,"15 Coruña, A",2014,3963.0,Mujer-Hombre
+279,"15 Coruña, A",2013,3789.0,Mujer-Hombre
+280,"15 Coruña, A",2012,4292.0,Mujer-Hombre
+281,"15 Coruña, A",2011,4077.0,Mujer-Hombre
+282,"15 Coruña, A",2010,4290.0,Mujer-Hombre
+283,"15 Coruña, A",2009,4397.0,Mujer-Hombre
+284,"15 Coruña, A",2008,4741.0,Mujer-Hombre
+285,"15 Coruña, A",2007,4749.0,Mujer-Hombre
+286,"15 Coruña, A",2006,4776.0,Mujer-Hombre
+287,"15 Coruña, A",2005,4683.0,Mujer-Hombre
+288,16 Cuenca,2020,243.0,Mujer-Hombre
+289,16 Cuenca,2019,547.0,Mujer-Hombre
+290,16 Cuenca,2018,567.0,Mujer-Hombre
+291,16 Cuenca,2017,489.0,Mujer-Hombre
+292,16 Cuenca,2016,544.0,Mujer-Hombre
+293,16 Cuenca,2015,582.0,Mujer-Hombre
+294,16 Cuenca,2014,566.0,Mujer-Hombre
+295,16 Cuenca,2013,553.0,Mujer-Hombre
+296,16 Cuenca,2012,609.0,Mujer-Hombre
+297,16 Cuenca,2011,557.0,Mujer-Hombre
+298,16 Cuenca,2010,592.0,Mujer-Hombre
+299,16 Cuenca,2009,572.0,Mujer-Hombre
+300,16 Cuenca,2008,688.0,Mujer-Hombre
+301,16 Cuenca,2007,699.0,Mujer-Hombre
+302,16 Cuenca,2006,699.0,Mujer-Hombre
+303,16 Cuenca,2005,738.0,Mujer-Hombre
+304,20 Gipuzkoa,2020,1332.0,Mujer-Hombre
+305,20 Gipuzkoa,2019,2496.0,Mujer-Hombre
+306,20 Gipuzkoa,2018,2484.0,Mujer-Hombre
+307,20 Gipuzkoa,2017,2581.0,Mujer-Hombre
+308,20 Gipuzkoa,2016,2492.0,Mujer-Hombre
+309,20 Gipuzkoa,2015,2450.0,Mujer-Hombre
+310,20 Gipuzkoa,2014,2504.0,Mujer-Hombre
+311,20 Gipuzkoa,2013,2477.0,Mujer-Hombre
+312,20 Gipuzkoa,2012,2659.0,Mujer-Hombre
+313,20 Gipuzkoa,2011,2742.0,Mujer-Hombre
+314,20 Gipuzkoa,2010,2825.0,Mujer-Hombre
+315,20 Gipuzkoa,2009,2981.0,Mujer-Hombre
+316,20 Gipuzkoa,2008,3068.0,Mujer-Hombre
+317,20 Gipuzkoa,2007,3093.0,Mujer-Hombre
+318,20 Gipuzkoa,2006,3191.0,Mujer-Hombre
+319,20 Gipuzkoa,2005,3300.0,Mujer-Hombre
+320,17 Girona,2020,1600.0,Mujer-Hombre
+321,17 Girona,2019,2820.0,Mujer-Hombre
+322,17 Girona,2018,2770.0,Mujer-Hombre
+323,17 Girona,2017,2810.0,Mujer-Hombre
+324,17 Girona,2016,2776.0,Mujer-Hombre
+325,17 Girona,2015,2838.0,Mujer-Hombre
+326,17 Girona,2014,2815.0,Mujer-Hombre
+327,17 Girona,2013,2597.0,Mujer-Hombre
+328,17 Girona,2012,2526.0,Mujer-Hombre
+329,17 Girona,2011,2534.0,Mujer-Hombre
+330,17 Girona,2010,2499.0,Mujer-Hombre
+331,17 Girona,2009,2674.0,Mujer-Hombre
+332,17 Girona,2008,2840.0,Mujer-Hombre
+333,17 Girona,2007,2865.0,Mujer-Hombre
+334,17 Girona,2006,2853.0,Mujer-Hombre
+335,17 Girona,2005,2826.0,Mujer-Hombre
+336,18 Granada,2020,1448.0,Mujer-Hombre
+337,18 Granada,2019,3078.0,Mujer-Hombre
+338,18 Granada,2018,2986.0,Mujer-Hombre
+339,18 Granada,2017,3125.0,Mujer-Hombre
+340,18 Granada,2016,3183.0,Mujer-Hombre
+341,18 Granada,2015,3137.0,Mujer-Hombre
+342,18 Granada,2014,3099.0,Mujer-Hombre
+343,18 Granada,2013,2747.0,Mujer-Hombre
+344,18 Granada,2012,3020.0,Mujer-Hombre
+345,18 Granada,2011,2814.0,Mujer-Hombre
+346,18 Granada,2010,2976.0,Mujer-Hombre
+347,18 Granada,2009,3201.0,Mujer-Hombre
+348,18 Granada,2008,3783.0,Mujer-Hombre
+349,18 Granada,2007,4177.0,Mujer-Hombre
+350,18 Granada,2006,4084.0,Mujer-Hombre
+351,18 Granada,2005,4281.0,Mujer-Hombre
+352,19 Guadalajara,2020,520.0,Mujer-Hombre
+353,19 Guadalajara,2019,953.0,Mujer-Hombre
+354,19 Guadalajara,2018,976.0,Mujer-Hombre
+355,19 Guadalajara,2017,939.0,Mujer-Hombre
+356,19 Guadalajara,2016,999.0,Mujer-Hombre
+357,19 Guadalajara,2015,1011.0,Mujer-Hombre
+358,19 Guadalajara,2014,928.0,Mujer-Hombre
+359,19 Guadalajara,2013,925.0,Mujer-Hombre
+360,19 Guadalajara,2012,1069.0,Mujer-Hombre
+361,19 Guadalajara,2011,1001.0,Mujer-Hombre
+362,19 Guadalajara,2010,1083.0,Mujer-Hombre
+363,19 Guadalajara,2009,1032.0,Mujer-Hombre
+364,19 Guadalajara,2008,1199.0,Mujer-Hombre
+365,19 Guadalajara,2007,1244.0,Mujer-Hombre
+366,19 Guadalajara,2006,1182.0,Mujer-Hombre
+367,19 Guadalajara,2005,1142.0,Mujer-Hombre
+368,21 Huelva,2020,995.0,Mujer-Hombre
+369,21 Huelva,2019,1811.0,Mujer-Hombre
+370,21 Huelva,2018,1647.0,Mujer-Hombre
+371,21 Huelva,2017,1666.0,Mujer-Hombre
+372,21 Huelva,2016,1856.0,Mujer-Hombre
+373,21 Huelva,2015,1723.0,Mujer-Hombre
+374,21 Huelva,2014,1671.0,Mujer-Hombre
+375,21 Huelva,2013,1558.0,Mujer-Hombre
+376,21 Huelva,2012,1863.0,Mujer-Hombre
+377,21 Huelva,2011,1695.0,Mujer-Hombre
+378,21 Huelva,2010,1750.0,Mujer-Hombre
+379,21 Huelva,2009,1810.0,Mujer-Hombre
+380,21 Huelva,2008,2384.0,Mujer-Hombre
+381,21 Huelva,2007,2469.0,Mujer-Hombre
+382,21 Huelva,2006,2539.0,Mujer-Hombre
+383,21 Huelva,2005,2645.0,Mujer-Hombre
+384,22 Huesca,2020,355.0,Mujer-Hombre
+385,22 Huesca,2019,694.0,Mujer-Hombre
+386,22 Huesca,2018,625.0,Mujer-Hombre
+387,22 Huesca,2017,615.0,Mujer-Hombre
+388,22 Huesca,2016,686.0,Mujer-Hombre
+389,22 Huesca,2015,605.0,Mujer-Hombre
+390,22 Huesca,2014,674.0,Mujer-Hombre
+391,22 Huesca,2013,643.0,Mujer-Hombre
+392,22 Huesca,2012,766.0,Mujer-Hombre
+393,22 Huesca,2011,626.0,Mujer-Hombre
+394,22 Huesca,2010,670.0,Mujer-Hombre
+395,22 Huesca,2009,694.0,Mujer-Hombre
+396,22 Huesca,2008,732.0,Mujer-Hombre
+397,22 Huesca,2007,796.0,Mujer-Hombre
+398,22 Huesca,2006,819.0,Mujer-Hombre
+399,22 Huesca,2005,797.0,Mujer-Hombre
+400,23 Jaén,2020,718.0,Mujer-Hombre
+401,23 Jaén,2019,2182.0,Mujer-Hombre
+402,23 Jaén,2018,2259.0,Mujer-Hombre
+403,23 Jaén,2017,2274.0,Mujer-Hombre
+404,23 Jaén,2016,2244.0,Mujer-Hombre
+405,23 Jaén,2015,2143.0,Mujer-Hombre
+406,23 Jaén,2014,2052.0,Mujer-Hombre
+407,23 Jaén,2013,1818.0,Mujer-Hombre
+408,23 Jaén,2012,2226.0,Mujer-Hombre
+409,23 Jaén,2011,2175.0,Mujer-Hombre
+410,23 Jaén,2010,2198.0,Mujer-Hombre
+411,23 Jaén,2009,2449.0,Mujer-Hombre
+412,23 Jaén,2008,2959.0,Mujer-Hombre
+413,23 Jaén,2007,3108.0,Mujer-Hombre
+414,23 Jaén,2006,3186.0,Mujer-Hombre
+415,23 Jaén,2005,3198.0,Mujer-Hombre
+416,24 León,2020,690.0,Mujer-Hombre
+417,24 León,2019,1251.0,Mujer-Hombre
+418,24 León,2018,1343.0,Mujer-Hombre
+419,24 León,2017,1412.0,Mujer-Hombre
+420,24 León,2016,1380.0,Mujer-Hombre
+421,24 León,2015,1294.0,Mujer-Hombre
+422,24 León,2014,1430.0,Mujer-Hombre
+423,24 León,2013,1367.0,Mujer-Hombre
+424,24 León,2012,1586.0,Mujer-Hombre
+425,24 León,2011,1448.0,Mujer-Hombre
+426,24 León,2010,1518.0,Mujer-Hombre
+427,24 León,2009,1517.0,Mujer-Hombre
+428,24 León,2008,1646.0,Mujer-Hombre
+429,24 León,2007,1760.0,Mujer-Hombre
+430,24 León,2006,1623.0,Mujer-Hombre
+431,24 León,2005,1727.0,Mujer-Hombre
+432,25 Lleida,2020,827.0,Mujer-Hombre
+433,25 Lleida,2019,1349.0,Mujer-Hombre
+434,25 Lleida,2018,1334.0,Mujer-Hombre
+435,25 Lleida,2017,1411.0,Mujer-Hombre
+436,25 Lleida,2016,1442.0,Mujer-Hombre
+437,25 Lleida,2015,1311.0,Mujer-Hombre
+438,25 Lleida,2014,1413.0,Mujer-Hombre
+439,25 Lleida,2013,1330.0,Mujer-Hombre
+440,25 Lleida,2012,1443.0,Mujer-Hombre
+441,25 Lleida,2011,1433.0,Mujer-Hombre
+442,25 Lleida,2010,1560.0,Mujer-Hombre
+443,25 Lleida,2009,1582.0,Mujer-Hombre
+444,25 Lleida,2008,1785.0,Mujer-Hombre
+445,25 Lleida,2007,1821.0,Mujer-Hombre
+446,25 Lleida,2006,1778.0,Mujer-Hombre
+447,25 Lleida,2005,1726.0,Mujer-Hombre
+448,27 Lugo,2020,633.0,Mujer-Hombre
+449,27 Lugo,2019,998.0,Mujer-Hombre
+450,27 Lugo,2018,1018.0,Mujer-Hombre
+451,27 Lugo,2017,1053.0,Mujer-Hombre
+452,27 Lugo,2016,1045.0,Mujer-Hombre
+453,27 Lugo,2015,975.0,Mujer-Hombre
+454,27 Lugo,2014,977.0,Mujer-Hombre
+455,27 Lugo,2013,924.0,Mujer-Hombre
+456,27 Lugo,2012,1026.0,Mujer-Hombre
+457,27 Lugo,2011,1027.0,Mujer-Hombre
+458,27 Lugo,2010,1069.0,Mujer-Hombre
+459,27 Lugo,2009,1080.0,Mujer-Hombre
+460,27 Lugo,2008,1122.0,Mujer-Hombre
+461,27 Lugo,2007,1141.0,Mujer-Hombre
+462,27 Lugo,2006,1113.0,Mujer-Hombre
+463,27 Lugo,2005,1075.0,Mujer-Hombre
+464,28 Madrid,2020,12394.0,Mujer-Hombre
+465,28 Madrid,2019,23538.0,Mujer-Hombre
+466,28 Madrid,2018,23797.0,Mujer-Hombre
+467,28 Madrid,2017,25039.0,Mujer-Hombre
+468,28 Madrid,2016,25215.0,Mujer-Hombre
+469,28 Madrid,2015,24848.0,Mujer-Hombre
+470,28 Madrid,2014,23222.0,Mujer-Hombre
+471,28 Madrid,2013,23878.0,Mujer-Hombre
+472,28 Madrid,2012,24526.0,Mujer-Hombre
+473,28 Madrid,2011,24306.0,Mujer-Hombre
+474,28 Madrid,2010,24603.0,Mujer-Hombre
+475,28 Madrid,2009,24505.0,Mujer-Hombre
+476,28 Madrid,2008,26583.0,Mujer-Hombre
+477,28 Madrid,2007,28000.0,Mujer-Hombre
+478,28 Madrid,2006,27684.0,Mujer-Hombre
+479,28 Madrid,2005,28387.0,Mujer-Hombre
+480,29 Málaga,2020,3055.0,Mujer-Hombre
+481,29 Málaga,2019,5537.0,Mujer-Hombre
+482,29 Málaga,2018,5446.0,Mujer-Hombre
+483,29 Málaga,2017,5720.0,Mujer-Hombre
+484,29 Málaga,2016,5554.0,Mujer-Hombre
+485,29 Málaga,2015,5551.0,Mujer-Hombre
+486,29 Málaga,2014,5392.0,Mujer-Hombre
+487,29 Málaga,2013,5036.0,Mujer-Hombre
+488,29 Málaga,2012,5355.0,Mujer-Hombre
+489,29 Málaga,2011,5156.0,Mujer-Hombre
+490,29 Málaga,2010,5591.0,Mujer-Hombre
+491,29 Málaga,2009,5868.0,Mujer-Hombre
+492,29 Málaga,2008,6994.0,Mujer-Hombre
+493,29 Málaga,2007,7238.0,Mujer-Hombre
+494,29 Málaga,2006,7463.0,Mujer-Hombre
+495,29 Málaga,2005,7349.0,Mujer-Hombre
+496,30 Murcia,2020,2601.0,Mujer-Hombre
+497,30 Murcia,2019,4955.0,Mujer-Hombre
+498,30 Murcia,2018,5079.0,Mujer-Hombre
+499,30 Murcia,2017,5094.0,Mujer-Hombre
+500,30 Murcia,2016,5067.0,Mujer-Hombre
+501,30 Murcia,2015,4815.0,Mujer-Hombre
+502,30 Murcia,2014,4846.0,Mujer-Hombre
+503,30 Murcia,2013,4375.0,Mujer-Hombre
+504,30 Murcia,2012,4867.0,Mujer-Hombre
+505,30 Murcia,2011,4656.0,Mujer-Hombre
+506,30 Murcia,2010,4996.0,Mujer-Hombre
+507,30 Murcia,2009,5125.0,Mujer-Hombre
+508,30 Murcia,2008,5765.0,Mujer-Hombre
+509,30 Murcia,2007,6647.0,Mujer-Hombre
+510,30 Murcia,2006,6484.0,Mujer-Hombre
+511,30 Murcia,2005,6668.0,Mujer-Hombre
+512,31 Navarra,2020,1279.0,Mujer-Hombre
+513,31 Navarra,2019,2050.0,Mujer-Hombre
+514,31 Navarra,2018,2050.0,Mujer-Hombre
+515,31 Navarra,2017,2295.0,Mujer-Hombre
+516,31 Navarra,2016,2383.0,Mujer-Hombre
+517,31 Navarra,2015,2616.0,Mujer-Hombre
+518,31 Navarra,2014,2301.0,Mujer-Hombre
+519,31 Navarra,2013,2097.0,Mujer-Hombre
+520,31 Navarra,2012,2232.0,Mujer-Hombre
+521,31 Navarra,2011,2218.0,Mujer-Hombre
+522,31 Navarra,2010,2285.0,Mujer-Hombre
+523,31 Navarra,2009,2492.0,Mujer-Hombre
+524,31 Navarra,2008,2681.0,Mujer-Hombre
+525,31 Navarra,2007,2705.0,Mujer-Hombre
+526,31 Navarra,2006,2727.0,Mujer-Hombre
+527,31 Navarra,2005,2671.0,Mujer-Hombre
+528,32 Ourense,2020,496.0,Mujer-Hombre
+529,32 Ourense,2019,860.0,Mujer-Hombre
+530,32 Ourense,2018,737.0,Mujer-Hombre
+531,32 Ourense,2017,819.0,Mujer-Hombre
+532,32 Ourense,2016,825.0,Mujer-Hombre
+533,32 Ourense,2015,825.0,Mujer-Hombre
+534,32 Ourense,2014,846.0,Mujer-Hombre
+535,32 Ourense,2013,861.0,Mujer-Hombre
+536,32 Ourense,2012,917.0,Mujer-Hombre
+537,32 Ourense,2011,881.0,Mujer-Hombre
+538,32 Ourense,2010,908.0,Mujer-Hombre
+539,32 Ourense,2009,936.0,Mujer-Hombre
+540,32 Ourense,2008,1062.0,Mujer-Hombre
+541,32 Ourense,2007,1263.0,Mujer-Hombre
+542,32 Ourense,2006,1147.0,Mujer-Hombre
+543,32 Ourense,2005,1119.0,Mujer-Hombre
+544,34 Palencia,2020,190.0,Mujer-Hombre
+545,34 Palencia,2019,443.0,Mujer-Hombre
+546,34 Palencia,2018,477.0,Mujer-Hombre
+547,34 Palencia,2017,500.0,Mujer-Hombre
+548,34 Palencia,2016,531.0,Mujer-Hombre
+549,34 Palencia,2015,492.0,Mujer-Hombre
+550,34 Palencia,2014,495.0,Mujer-Hombre
+551,34 Palencia,2013,440.0,Mujer-Hombre
+552,34 Palencia,2012,550.0,Mujer-Hombre
+553,34 Palencia,2011,480.0,Mujer-Hombre
+554,34 Palencia,2010,542.0,Mujer-Hombre
+555,34 Palencia,2009,525.0,Mujer-Hombre
+556,34 Palencia,2008,596.0,Mujer-Hombre
+557,34 Palencia,2007,621.0,Mujer-Hombre
+558,34 Palencia,2006,671.0,Mujer-Hombre
+559,34 Palencia,2005,695.0,Mujer-Hombre
+560,"35 Palmas, Las",2020,2399.0,Mujer-Hombre
+561,"35 Palmas, Las",2019,3913.0,Mujer-Hombre
+562,"35 Palmas, Las",2018,3884.0,Mujer-Hombre
+563,"35 Palmas, Las",2017,3787.0,Mujer-Hombre
+564,"35 Palmas, Las",2016,3744.0,Mujer-Hombre
+565,"35 Palmas, Las",2015,3487.0,Mujer-Hombre
+566,"35 Palmas, Las",2014,3337.0,Mujer-Hombre
+567,"35 Palmas, Las",2013,3283.0,Mujer-Hombre
+568,"35 Palmas, Las",2012,2996.0,Mujer-Hombre
+569,"35 Palmas, Las",2011,2756.0,Mujer-Hombre
+570,"35 Palmas, Las",2010,2704.0,Mujer-Hombre
+571,"35 Palmas, Las",2009,2926.0,Mujer-Hombre
+572,"35 Palmas, Las",2008,3153.0,Mujer-Hombre
+573,"35 Palmas, Las",2007,3274.0,Mujer-Hombre
+574,"35 Palmas, Las",2006,3340.0,Mujer-Hombre
+575,"35 Palmas, Las",2005,3339.0,Mujer-Hombre
+576,36 Pontevedra,2020,1987.0,Mujer-Hombre
+577,36 Pontevedra,2019,3303.0,Mujer-Hombre
+578,36 Pontevedra,2018,2879.0,Mujer-Hombre
+579,36 Pontevedra,2017,3223.0,Mujer-Hombre
+580,36 Pontevedra,2016,3256.0,Mujer-Hombre
+581,36 Pontevedra,2015,3224.0,Mujer-Hombre
+582,36 Pontevedra,2014,2934.0,Mujer-Hombre
+583,36 Pontevedra,2013,2917.0,Mujer-Hombre
+584,36 Pontevedra,2012,3185.0,Mujer-Hombre
+585,36 Pontevedra,2011,3179.0,Mujer-Hombre
+586,36 Pontevedra,2010,3440.0,Mujer-Hombre
+587,36 Pontevedra,2009,3440.0,Mujer-Hombre
+588,36 Pontevedra,2008,3868.0,Mujer-Hombre
+589,36 Pontevedra,2007,3958.0,Mujer-Hombre
+590,36 Pontevedra,2006,4036.0,Mujer-Hombre
+591,36 Pontevedra,2005,4061.0,Mujer-Hombre
+592,"26 Rioja, La",2020,600.0,Mujer-Hombre
+593,"26 Rioja, La",2019,1093.0,Mujer-Hombre
+594,"26 Rioja, La",2018,1117.0,Mujer-Hombre
+595,"26 Rioja, La",2017,1035.0,Mujer-Hombre
+596,"26 Rioja, La",2016,1133.0,Mujer-Hombre
+597,"26 Rioja, La",2015,1063.0,Mujer-Hombre
+598,"26 Rioja, La",2014,1114.0,Mujer-Hombre
+599,"26 Rioja, La",2013,994.0,Mujer-Hombre
+600,"26 Rioja, La",2012,1111.0,Mujer-Hombre
+601,"26 Rioja, La",2011,1069.0,Mujer-Hombre
+602,"26 Rioja, La",2010,1126.0,Mujer-Hombre
+603,"26 Rioja, La",2009,1205.0,Mujer-Hombre
+604,"26 Rioja, La",2008,1323.0,Mujer-Hombre
+605,"26 Rioja, La",2007,1354.0,Mujer-Hombre
+606,"26 Rioja, La",2006,1373.0,Mujer-Hombre
+607,"26 Rioja, La",2005,1407.0,Mujer-Hombre
+608,37 Salamanca,2020,367.0,Mujer-Hombre
+609,37 Salamanca,2019,944.0,Mujer-Hombre
+610,37 Salamanca,2018,974.0,Mujer-Hombre
+611,37 Salamanca,2017,1080.0,Mujer-Hombre
+612,37 Salamanca,2016,1041.0,Mujer-Hombre
+613,37 Salamanca,2015,1044.0,Mujer-Hombre
+614,37 Salamanca,2014,1081.0,Mujer-Hombre
+615,37 Salamanca,2013,1069.0,Mujer-Hombre
+616,37 Salamanca,2012,1139.0,Mujer-Hombre
+617,37 Salamanca,2011,935.0,Mujer-Hombre
+618,37 Salamanca,2010,1075.0,Mujer-Hombre
+619,37 Salamanca,2009,1211.0,Mujer-Hombre
+620,37 Salamanca,2008,1324.0,Mujer-Hombre
+621,37 Salamanca,2007,1370.0,Mujer-Hombre
+622,37 Salamanca,2006,1336.0,Mujer-Hombre
+623,37 Salamanca,2005,1408.0,Mujer-Hombre
+624,38 Santa Cruz de Tenerife,2020,2209.0,Mujer-Hombre
+625,38 Santa Cruz de Tenerife,2019,3475.0,Mujer-Hombre
+626,38 Santa Cruz de Tenerife,2018,3514.0,Mujer-Hombre
+627,38 Santa Cruz de Tenerife,2017,3449.0,Mujer-Hombre
+628,38 Santa Cruz de Tenerife,2016,3314.0,Mujer-Hombre
+629,38 Santa Cruz de Tenerife,2015,3176.0,Mujer-Hombre
+630,38 Santa Cruz de Tenerife,2014,2992.0,Mujer-Hombre
+631,38 Santa Cruz de Tenerife,2013,2697.0,Mujer-Hombre
+632,38 Santa Cruz de Tenerife,2012,2683.0,Mujer-Hombre
+633,38 Santa Cruz de Tenerife,2011,2676.0,Mujer-Hombre
+634,38 Santa Cruz de Tenerife,2010,2753.0,Mujer-Hombre
+635,38 Santa Cruz de Tenerife,2009,2990.0,Mujer-Hombre
+636,38 Santa Cruz de Tenerife,2008,3185.0,Mujer-Hombre
+637,38 Santa Cruz de Tenerife,2007,3129.0,Mujer-Hombre
+638,38 Santa Cruz de Tenerife,2006,3456.0,Mujer-Hombre
+639,38 Santa Cruz de Tenerife,2005,3401.0,Mujer-Hombre
+640,40 Segovia,2020,228.0,Mujer-Hombre
+641,40 Segovia,2019,532.0,Mujer-Hombre
+642,40 Segovia,2018,481.0,Mujer-Hombre
+643,40 Segovia,2017,549.0,Mujer-Hombre
+644,40 Segovia,2016,484.0,Mujer-Hombre
+645,40 Segovia,2015,520.0,Mujer-Hombre
+646,40 Segovia,2014,452.0,Mujer-Hombre
+647,40 Segovia,2013,439.0,Mujer-Hombre
+648,40 Segovia,2012,481.0,Mujer-Hombre
+649,40 Segovia,2011,513.0,Mujer-Hombre
+650,40 Segovia,2010,534.0,Mujer-Hombre
+651,40 Segovia,2009,566.0,Mujer-Hombre
+652,40 Segovia,2008,664.0,Mujer-Hombre
+653,40 Segovia,2007,594.0,Mujer-Hombre
+654,40 Segovia,2006,586.0,Mujer-Hombre
+655,40 Segovia,2005,604.0,Mujer-Hombre
+656,41 Sevilla,2020,3663.0,Mujer-Hombre
+657,41 Sevilla,2019,7601.0,Mujer-Hombre
+658,41 Sevilla,2018,7346.0,Mujer-Hombre
+659,41 Sevilla,2017,7284.0,Mujer-Hombre
+660,41 Sevilla,2016,7681.0,Mujer-Hombre
+661,41 Sevilla,2015,7456.0,Mujer-Hombre
+662,41 Sevilla,2014,7105.0,Mujer-Hombre
+663,41 Sevilla,2013,6643.0,Mujer-Hombre
+664,41 Sevilla,2012,7312.0,Mujer-Hombre
+665,41 Sevilla,2011,7110.0,Mujer-Hombre
+666,41 Sevilla,2010,7528.0,Mujer-Hombre
+667,41 Sevilla,2009,8150.0,Mujer-Hombre
+668,41 Sevilla,2008,9565.0,Mujer-Hombre
+669,41 Sevilla,2007,10365.0,Mujer-Hombre
+670,41 Sevilla,2006,10574.0,Mujer-Hombre
+671,41 Sevilla,2005,10885.0,Mujer-Hombre
+672,42 Soria,2020,147.0,Mujer-Hombre
+673,42 Soria,2019,269.0,Mujer-Hombre
+674,42 Soria,2018,273.0,Mujer-Hombre
+675,42 Soria,2017,262.0,Mujer-Hombre
+676,42 Soria,2016,270.0,Mujer-Hombre
+677,42 Soria,2015,240.0,Mujer-Hombre
+678,42 Soria,2014,253.0,Mujer-Hombre
+679,42 Soria,2013,233.0,Mujer-Hombre
+680,42 Soria,2012,277.0,Mujer-Hombre
+681,42 Soria,2011,250.0,Mujer-Hombre
+682,42 Soria,2010,273.0,Mujer-Hombre
+683,42 Soria,2009,290.0,Mujer-Hombre
+684,42 Soria,2008,254.0,Mujer-Hombre
+685,42 Soria,2007,288.0,Mujer-Hombre
+686,42 Soria,2006,308.0,Mujer-Hombre
+687,42 Soria,2005,290.0,Mujer-Hombre
+688,43 Tarragona,2020,1726.0,Mujer-Hombre
+689,43 Tarragona,2019,2725.0,Mujer-Hombre
+690,43 Tarragona,2018,2633.0,Mujer-Hombre
+691,43 Tarragona,2017,2861.0,Mujer-Hombre
+692,43 Tarragona,2016,2948.0,Mujer-Hombre
+693,43 Tarragona,2015,2832.0,Mujer-Hombre
+694,43 Tarragona,2014,2705.0,Mujer-Hombre
+695,43 Tarragona,2013,2620.0,Mujer-Hombre
+696,43 Tarragona,2012,2783.0,Mujer-Hombre
+697,43 Tarragona,2011,2714.0,Mujer-Hombre
+698,43 Tarragona,2010,2955.0,Mujer-Hombre
+699,43 Tarragona,2009,3028.0,Mujer-Hombre
+700,43 Tarragona,2008,3454.0,Mujer-Hombre
+701,43 Tarragona,2007,3477.0,Mujer-Hombre
+702,43 Tarragona,2006,3508.0,Mujer-Hombre
+703,43 Tarragona,2005,3482.0,Mujer-Hombre
+704,44 Teruel,2020,257.0,Mujer-Hombre
+705,44 Teruel,2019,367.0,Mujer-Hombre
+706,44 Teruel,2018,377.0,Mujer-Hombre
+707,44 Teruel,2017,397.0,Mujer-Hombre
+708,44 Teruel,2016,386.0,Mujer-Hombre
+709,44 Teruel,2015,377.0,Mujer-Hombre
+710,44 Teruel,2014,430.0,Mujer-Hombre
+711,44 Teruel,2013,407.0,Mujer-Hombre
+712,44 Teruel,2012,421.0,Mujer-Hombre
+713,44 Teruel,2011,397.0,Mujer-Hombre
+714,44 Teruel,2010,415.0,Mujer-Hombre
+715,44 Teruel,2009,428.0,Mujer-Hombre
+716,44 Teruel,2008,453.0,Mujer-Hombre
+717,44 Teruel,2007,481.0,Mujer-Hombre
+718,44 Teruel,2006,489.0,Mujer-Hombre
+719,44 Teruel,2005,532.0,Mujer-Hombre
+720,45 Toledo,2020,1185.0,Mujer-Hombre
+721,45 Toledo,2019,2496.0,Mujer-Hombre
+722,45 Toledo,2018,2520.0,Mujer-Hombre
+723,45 Toledo,2017,2579.0,Mujer-Hombre
+724,45 Toledo,2016,2597.0,Mujer-Hombre
+725,45 Toledo,2015,2423.0,Mujer-Hombre
+726,45 Toledo,2014,2438.0,Mujer-Hombre
+727,45 Toledo,2013,2302.0,Mujer-Hombre
+728,45 Toledo,2012,2663.0,Mujer-Hombre
+729,45 Toledo,2011,2627.0,Mujer-Hombre
+730,45 Toledo,2010,2603.0,Mujer-Hombre
+731,45 Toledo,2009,2847.0,Mujer-Hombre
+732,45 Toledo,2008,3291.0,Mujer-Hombre
+733,45 Toledo,2007,3091.0,Mujer-Hombre
+734,45 Toledo,2006,3034.0,Mujer-Hombre
+735,45 Toledo,2005,3063.0,Mujer-Hombre
+736,46 Valencia/València,2020,5279.0,Mujer-Hombre
+737,46 Valencia/València,2019,8937.0,Mujer-Hombre
+738,46 Valencia/València,2018,9328.0,Mujer-Hombre
+739,46 Valencia/València,2017,9450.0,Mujer-Hombre
+740,46 Valencia/València,2016,9834.0,Mujer-Hombre
+741,46 Valencia/València,2015,9589.0,Mujer-Hombre
+742,46 Valencia/València,2014,9281.0,Mujer-Hombre
+743,46 Valencia/València,2013,8989.0,Mujer-Hombre
+744,46 Valencia/València,2012,9437.0,Mujer-Hombre
+745,46 Valencia/València,2011,9285.0,Mujer-Hombre
+746,46 Valencia/València,2010,9676.0,Mujer-Hombre
+747,46 Valencia/València,2009,10130.0,Mujer-Hombre
+748,46 Valencia/València,2008,11407.0,Mujer-Hombre
+749,46 Valencia/València,2007,12165.0,Mujer-Hombre
+750,46 Valencia/València,2006,12652.0,Mujer-Hombre
+751,46 Valencia/València,2005,13391.0,Mujer-Hombre
+752,47 Valladolid,2020,751.0,Mujer-Hombre
+753,47 Valladolid,2019,1642.0,Mujer-Hombre
+754,47 Valladolid,2018,1642.0,Mujer-Hombre
+755,47 Valladolid,2017,1806.0,Mujer-Hombre
+756,47 Valladolid,2016,1764.0,Mujer-Hombre
+757,47 Valladolid,2015,1784.0,Mujer-Hombre
+758,47 Valladolid,2014,1805.0,Mujer-Hombre
+759,47 Valladolid,2013,1770.0,Mujer-Hombre
+760,47 Valladolid,2012,1975.0,Mujer-Hombre
+761,47 Valladolid,2011,1911.0,Mujer-Hombre
+762,47 Valladolid,2010,1999.0,Mujer-Hombre
+763,47 Valladolid,2009,2147.0,Mujer-Hombre
+764,47 Valladolid,2008,2342.0,Mujer-Hombre
+765,47 Valladolid,2007,2553.0,Mujer-Hombre
+766,47 Valladolid,2006,2504.0,Mujer-Hombre
+767,47 Valladolid,2005,2499.0,Mujer-Hombre
+768,49 Zamora,2020,186.0,Mujer-Hombre
+769,49 Zamora,2019,395.0,Mujer-Hombre
+770,49 Zamora,2018,416.0,Mujer-Hombre
+771,49 Zamora,2017,402.0,Mujer-Hombre
+772,49 Zamora,2016,447.0,Mujer-Hombre
+773,49 Zamora,2015,425.0,Mujer-Hombre
+774,49 Zamora,2014,422.0,Mujer-Hombre
+775,49 Zamora,2013,386.0,Mujer-Hombre
+776,49 Zamora,2012,477.0,Mujer-Hombre
+777,49 Zamora,2011,464.0,Mujer-Hombre
+778,49 Zamora,2010,480.0,Mujer-Hombre
+779,49 Zamora,2009,537.0,Mujer-Hombre
+780,49 Zamora,2008,551.0,Mujer-Hombre
+781,49 Zamora,2007,597.0,Mujer-Hombre
+782,49 Zamora,2006,565.0,Mujer-Hombre
+783,49 Zamora,2005,597.0,Mujer-Hombre
+784,50 Zaragoza,2020,1625.0,Mujer-Hombre
+785,50 Zaragoza,2019,2832.0,Mujer-Hombre
+786,50 Zaragoza,2018,3089.0,Mujer-Hombre
+787,50 Zaragoza,2017,3214.0,Mujer-Hombre
+788,50 Zaragoza,2016,3297.0,Mujer-Hombre
+789,50 Zaragoza,2015,3263.0,Mujer-Hombre
+790,50 Zaragoza,2014,3059.0,Mujer-Hombre
+791,50 Zaragoza,2013,3273.0,Mujer-Hombre
+792,50 Zaragoza,2012,3478.0,Mujer-Hombre
+793,50 Zaragoza,2011,3245.0,Mujer-Hombre
+794,50 Zaragoza,2010,3352.0,Mujer-Hombre
+795,50 Zaragoza,2009,3597.0,Mujer-Hombre
+796,50 Zaragoza,2008,3861.0,Mujer-Hombre
+797,50 Zaragoza,2007,4031.0,Mujer-Hombre
+798,50 Zaragoza,2006,4192.0,Mujer-Hombre
+799,50 Zaragoza,2005,4347.0,Mujer-Hombre
+800,51 Ceuta,2020,253.0,Mujer-Hombre
+801,51 Ceuta,2019,502.0,Mujer-Hombre
+802,51 Ceuta,2018,429.0,Mujer-Hombre
+803,51 Ceuta,2017,445.0,Mujer-Hombre
+804,51 Ceuta,2016,494.0,Mujer-Hombre
+805,51 Ceuta,2015,423.0,Mujer-Hombre
+806,51 Ceuta,2014,394.0,Mujer-Hombre
+807,51 Ceuta,2013,383.0,Mujer-Hombre
+808,51 Ceuta,2012,407.0,Mujer-Hombre
+809,51 Ceuta,2011,445.0,Mujer-Hombre
+810,51 Ceuta,2010,397.0,Mujer-Hombre
+811,51 Ceuta,2009,397.0,Mujer-Hombre
+812,51 Ceuta,2008,366.0,Mujer-Hombre
+813,51 Ceuta,2007,373.0,Mujer-Hombre
+814,51 Ceuta,2006,325.0,Mujer-Hombre
+815,51 Ceuta,2005,361.0,Mujer-Hombre
+816,52 Melilla,2020,157.0,Mujer-Hombre
+817,52 Melilla,2019,306.0,Mujer-Hombre
+818,52 Melilla,2018,313.0,Mujer-Hombre
+819,52 Melilla,2017,362.0,Mujer-Hombre
+820,52 Melilla,2016,395.0,Mujer-Hombre
+821,52 Melilla,2015,288.0,Mujer-Hombre
+822,52 Melilla,2014,319.0,Mujer-Hombre
+823,52 Melilla,2013,311.0,Mujer-Hombre
+824,52 Melilla,2012,381.0,Mujer-Hombre
+825,52 Melilla,2011,323.0,Mujer-Hombre
+826,52 Melilla,2010,444.0,Mujer-Hombre
+827,52 Melilla,2009,409.0,Mujer-Hombre
+828,52 Melilla,2008,470.0,Mujer-Hombre
+829,52 Melilla,2007,525.0,Mujer-Hombre
+830,52 Melilla,2006,399.0,Mujer-Hombre
+831,52 Melilla,2005,323.0,Mujer-Hombre
+832,No residente,2020,373.0,Mujer-Hombre
+833,No residente,2019,1325.0,Mujer-Hombre
+834,No residente,2018,2044.0,Mujer-Hombre
+835,No residente,2017,2259.0,Mujer-Hombre
+836,No residente,2016,2258.0,Mujer-Hombre
+837,No residente,2015,2217.0,Mujer-Hombre
+838,No residente,2014,2245.0,Mujer-Hombre
+839,No residente,2013,1942.0,Mujer-Hombre
+840,No residente,2012,1928.0,Mujer-Hombre
+841,No residente,2011,1578.0,Mujer-Hombre
+842,No residente,2010,1606.0,Mujer-Hombre
+843,No residente,2009,1705.0,Mujer-Hombre
+844,No residente,2008,1899.0,Mujer-Hombre
+845,No residente,2007,1919.0,Mujer-Hombre
+846,No residente,2006,1887.0,Mujer-Hombre
+847,No residente,2005,1714.0,Mujer-Hombre
+848,02 Albacete,2020,9.0,Mujeres
+849,02 Albacete,2019,17.0,Mujeres
+850,02 Albacete,2018,17.0,Mujeres
+851,02 Albacete,2017,7.0,Mujeres
+852,02 Albacete,2016,6.0,Mujeres
+853,02 Albacete,2015,5.0,Mujeres
+854,02 Albacete,2014,8.0,Mujeres
+855,02 Albacete,2013,11.0,Mujeres
+856,02 Albacete,2012,1.0,Mujeres
+857,02 Albacete,2011,5.0,Mujeres
+858,02 Albacete,2010,2.0,Mujeres
+859,02 Albacete,2009,7.0,Mujeres
+860,02 Albacete,2008,4.0,Mujeres
+861,02 Albacete,2007,2.0,Mujeres
+862,02 Albacete,2006,4.0,Mujeres
+863,02 Albacete,2005,,Mujeres
+864,03 Alicante/Alacant,2020,76.0,Mujeres
+865,03 Alicante/Alacant,2019,117.0,Mujeres
+866,03 Alicante/Alacant,2018,123.0,Mujeres
+867,03 Alicante/Alacant,2017,115.0,Mujeres
+868,03 Alicante/Alacant,2016,87.0,Mujeres
+869,03 Alicante/Alacant,2015,79.0,Mujeres
+870,03 Alicante/Alacant,2014,84.0,Mujeres
+871,03 Alicante/Alacant,2013,68.0,Mujeres
+872,03 Alicante/Alacant,2012,58.0,Mujeres
+873,03 Alicante/Alacant,2011,70.0,Mujeres
+874,03 Alicante/Alacant,2010,39.0,Mujeres
+875,03 Alicante/Alacant,2009,47.0,Mujeres
+876,03 Alicante/Alacant,2008,60.0,Mujeres
+877,03 Alicante/Alacant,2007,39.0,Mujeres
+878,03 Alicante/Alacant,2006,72.0,Mujeres
+879,03 Alicante/Alacant,2005,16.0,Mujeres
+880,04 Almería,2020,21.0,Mujeres
+881,04 Almería,2019,28.0,Mujeres
+882,04 Almería,2018,24.0,Mujeres
+883,04 Almería,2017,21.0,Mujeres
+884,04 Almería,2016,15.0,Mujeres
+885,04 Almería,2015,25.0,Mujeres
+886,04 Almería,2014,11.0,Mujeres
+887,04 Almería,2013,17.0,Mujeres
+888,04 Almería,2012,15.0,Mujeres
+889,04 Almería,2011,19.0,Mujeres
+890,04 Almería,2010,16.0,Mujeres
+891,04 Almería,2009,6.0,Mujeres
+892,04 Almería,2008,14.0,Mujeres
+893,04 Almería,2007,9.0,Mujeres
+894,04 Almería,2006,12.0,Mujeres
+895,04 Almería,2005,1.0,Mujeres
+896,01 Araba/Álava,2020,14.0,Mujeres
+897,01 Araba/Álava,2019,15.0,Mujeres
+898,01 Araba/Álava,2018,15.0,Mujeres
+899,01 Araba/Álava,2017,16.0,Mujeres
+900,01 Araba/Álava,2016,13.0,Mujeres
+901,01 Araba/Álava,2015,12.0,Mujeres
+902,01 Araba/Álava,2014,16.0,Mujeres
+903,01 Araba/Álava,2013,5.0,Mujeres
+904,01 Araba/Álava,2012,6.0,Mujeres
+905,01 Araba/Álava,2011,10.0,Mujeres
+906,01 Araba/Álava,2010,5.0,Mujeres
+907,01 Araba/Álava,2009,10.0,Mujeres
+908,01 Araba/Álava,2008,3.0,Mujeres
+909,01 Araba/Álava,2007,3.0,Mujeres
+910,01 Araba/Álava,2006,8.0,Mujeres
+911,01 Araba/Álava,2005,2.0,Mujeres
+912,33 Asturias,2020,14.0,Mujeres
+913,33 Asturias,2019,34.0,Mujeres
+914,33 Asturias,2018,21.0,Mujeres
+915,33 Asturias,2017,29.0,Mujeres
+916,33 Asturias,2016,18.0,Mujeres
+917,33 Asturias,2015,22.0,Mujeres
+918,33 Asturias,2014,26.0,Mujeres
+919,33 Asturias,2013,14.0,Mujeres
+920,33 Asturias,2012,19.0,Mujeres
+921,33 Asturias,2011,23.0,Mujeres
+922,33 Asturias,2010,20.0,Mujeres
+923,33 Asturias,2009,16.0,Mujeres
+924,33 Asturias,2008,27.0,Mujeres
+925,33 Asturias,2007,22.0,Mujeres
+926,33 Asturias,2006,20.0,Mujeres
+927,33 Asturias,2005,7.0,Mujeres
+928,05 Ávila,2020,1.0,Mujeres
+929,05 Ávila,2019,3.0,Mujeres
+930,05 Ávila,2018,5.0,Mujeres
+931,05 Ávila,2017,2.0,Mujeres
+932,05 Ávila,2016,3.0,Mujeres
+933,05 Ávila,2015,2.0,Mujeres
+934,05 Ávila,2014,1.0,Mujeres
+935,05 Ávila,2013,3.0,Mujeres
+936,05 Ávila,2012,2.0,Mujeres
+937,05 Ávila,2011,4.0,Mujeres
+938,05 Ávila,2010,7.0,Mujeres
+939,05 Ávila,2009,,Mujeres
+940,05 Ávila,2008,1.0,Mujeres
+941,05 Ávila,2007,1.0,Mujeres
+942,05 Ávila,2006,2.0,Mujeres
+943,05 Ávila,2005,1.0,Mujeres
+944,06 Badajoz,2020,19.0,Mujeres
+945,06 Badajoz,2019,30.0,Mujeres
+946,06 Badajoz,2018,22.0,Mujeres
+947,06 Badajoz,2017,23.0,Mujeres
+948,06 Badajoz,2016,25.0,Mujeres
+949,06 Badajoz,2015,11.0,Mujeres
+950,06 Badajoz,2014,13.0,Mujeres
+951,06 Badajoz,2013,10.0,Mujeres
+952,06 Badajoz,2012,24.0,Mujeres
+953,06 Badajoz,2011,14.0,Mujeres
+954,06 Badajoz,2010,15.0,Mujeres
+955,06 Badajoz,2009,6.0,Mujeres
+956,06 Badajoz,2008,6.0,Mujeres
+957,06 Badajoz,2007,2.0,Mujeres
+958,06 Badajoz,2006,3.0,Mujeres
+959,06 Badajoz,2005,3.0,Mujeres
+960,"07 Balears, Illes",2020,56.0,Mujeres
+961,"07 Balears, Illes",2019,88.0,Mujeres
+962,"07 Balears, Illes",2018,84.0,Mujeres
+963,"07 Balears, Illes",2017,96.0,Mujeres
+964,"07 Balears, Illes",2016,80.0,Mujeres
+965,"07 Balears, Illes",2015,66.0,Mujeres
+966,"07 Balears, Illes",2014,60.0,Mujeres
+967,"07 Balears, Illes",2013,54.0,Mujeres
+968,"07 Balears, Illes",2012,50.0,Mujeres
+969,"07 Balears, Illes",2011,43.0,Mujeres
+970,"07 Balears, Illes",2010,42.0,Mujeres
+971,"07 Balears, Illes",2009,38.0,Mujeres
+972,"07 Balears, Illes",2008,36.0,Mujeres
+973,"07 Balears, Illes",2007,42.0,Mujeres
+974,"07 Balears, Illes",2006,53.0,Mujeres
+975,"07 Balears, Illes",2005,9.0,Mujeres
+976,08 Barcelona,2020,251.0,Mujeres
+977,08 Barcelona,2019,400.0,Mujeres
+978,08 Barcelona,2018,426.0,Mujeres
+979,08 Barcelona,2017,439.0,Mujeres
+980,08 Barcelona,2016,381.0,Mujeres
+981,08 Barcelona,2015,289.0,Mujeres
+982,08 Barcelona,2014,283.0,Mujeres
+983,08 Barcelona,2013,253.0,Mujeres
+984,08 Barcelona,2012,302.0,Mujeres
+985,08 Barcelona,2011,298.0,Mujeres
+986,08 Barcelona,2010,253.0,Mujeres
+987,08 Barcelona,2009,255.0,Mujeres
+988,08 Barcelona,2008,222.0,Mujeres
+989,08 Barcelona,2007,213.0,Mujeres
+990,08 Barcelona,2006,290.0,Mujeres
+991,08 Barcelona,2005,74.0,Mujeres
+992,48 Bizkaia,2020,49.0,Mujeres
+993,48 Bizkaia,2019,59.0,Mujeres
+994,48 Bizkaia,2018,55.0,Mujeres
+995,48 Bizkaia,2017,48.0,Mujeres
+996,48 Bizkaia,2016,45.0,Mujeres
+997,48 Bizkaia,2015,44.0,Mujeres
+998,48 Bizkaia,2014,37.0,Mujeres
+999,48 Bizkaia,2013,34.0,Mujeres
+1000,48 Bizkaia,2012,28.0,Mujeres
+1001,48 Bizkaia,2011,25.0,Mujeres
+1002,48 Bizkaia,2010,29.0,Mujeres
+1003,48 Bizkaia,2009,21.0,Mujeres
+1004,48 Bizkaia,2008,27.0,Mujeres
+1005,48 Bizkaia,2007,23.0,Mujeres
+1006,48 Bizkaia,2006,31.0,Mujeres
+1007,48 Bizkaia,2005,6.0,Mujeres
+1008,09 Burgos,2020,5.0,Mujeres
+1009,09 Burgos,2019,10.0,Mujeres
+1010,09 Burgos,2018,5.0,Mujeres
+1011,09 Burgos,2017,10.0,Mujeres
+1012,09 Burgos,2016,7.0,Mujeres
+1013,09 Burgos,2015,4.0,Mujeres
+1014,09 Burgos,2014,3.0,Mujeres
+1015,09 Burgos,2013,5.0,Mujeres
+1016,09 Burgos,2012,5.0,Mujeres
+1017,09 Burgos,2011,6.0,Mujeres
+1018,09 Burgos,2010,3.0,Mujeres
+1019,09 Burgos,2009,5.0,Mujeres
+1020,09 Burgos,2008,5.0,Mujeres
+1021,09 Burgos,2007,8.0,Mujeres
+1022,09 Burgos,2006,4.0,Mujeres
+1023,09 Burgos,2005,2.0,Mujeres
+1024,10 Cáceres,2020,5.0,Mujeres
+1025,10 Cáceres,2019,13.0,Mujeres
+1026,10 Cáceres,2018,7.0,Mujeres
+1027,10 Cáceres,2017,8.0,Mujeres
+1028,10 Cáceres,2016,7.0,Mujeres
+1029,10 Cáceres,2015,1.0,Mujeres
+1030,10 Cáceres,2014,10.0,Mujeres
+1031,10 Cáceres,2013,4.0,Mujeres
+1032,10 Cáceres,2012,5.0,Mujeres
+1033,10 Cáceres,2011,5.0,Mujeres
+1034,10 Cáceres,2010,6.0,Mujeres
+1035,10 Cáceres,2009,4.0,Mujeres
+1036,10 Cáceres,2008,1.0,Mujeres
+1037,10 Cáceres,2007,,Mujeres
+1038,10 Cáceres,2006,4.0,Mujeres
+1039,10 Cáceres,2005,3.0,Mujeres
+1040,11 Cádiz,2020,47.0,Mujeres
+1041,11 Cádiz,2019,70.0,Mujeres
+1042,11 Cádiz,2018,48.0,Mujeres
+1043,11 Cádiz,2017,74.0,Mujeres
+1044,11 Cádiz,2016,59.0,Mujeres
+1045,11 Cádiz,2015,60.0,Mujeres
+1046,11 Cádiz,2014,47.0,Mujeres
+1047,11 Cádiz,2013,24.0,Mujeres
+1048,11 Cádiz,2012,37.0,Mujeres
+1049,11 Cádiz,2011,30.0,Mujeres
+1050,11 Cádiz,2010,17.0,Mujeres
+1051,11 Cádiz,2009,24.0,Mujeres
+1052,11 Cádiz,2008,22.0,Mujeres
+1053,11 Cádiz,2007,19.0,Mujeres
+1054,11 Cádiz,2006,21.0,Mujeres
+1055,11 Cádiz,2005,12.0,Mujeres
+1056,39 Cantabria,2020,16.0,Mujeres
+1057,39 Cantabria,2019,28.0,Mujeres
+1058,39 Cantabria,2018,21.0,Mujeres
+1059,39 Cantabria,2017,23.0,Mujeres
+1060,39 Cantabria,2016,18.0,Mujeres
+1061,39 Cantabria,2015,11.0,Mujeres
+1062,39 Cantabria,2014,17.0,Mujeres
+1063,39 Cantabria,2013,11.0,Mujeres
+1064,39 Cantabria,2012,11.0,Mujeres
+1065,39 Cantabria,2011,11.0,Mujeres
+1066,39 Cantabria,2010,11.0,Mujeres
+1067,39 Cantabria,2009,7.0,Mujeres
+1068,39 Cantabria,2008,8.0,Mujeres
+1069,39 Cantabria,2007,9.0,Mujeres
+1070,39 Cantabria,2006,11.0,Mujeres
+1071,39 Cantabria,2005,3.0,Mujeres
+1072,12 Castellón/Castelló,2020,19.0,Mujeres
+1073,12 Castellón/Castelló,2019,27.0,Mujeres
+1074,12 Castellón/Castelló,2018,18.0,Mujeres
+1075,12 Castellón/Castelló,2017,17.0,Mujeres
+1076,12 Castellón/Castelló,2016,25.0,Mujeres
+1077,12 Castellón/Castelló,2015,20.0,Mujeres
+1078,12 Castellón/Castelló,2014,9.0,Mujeres
+1079,12 Castellón/Castelló,2013,13.0,Mujeres
+1080,12 Castellón/Castelló,2012,13.0,Mujeres
+1081,12 Castellón/Castelló,2011,18.0,Mujeres
+1082,12 Castellón/Castelló,2010,16.0,Mujeres
+1083,12 Castellón/Castelló,2009,10.0,Mujeres
+1084,12 Castellón/Castelló,2008,12.0,Mujeres
+1085,12 Castellón/Castelló,2007,16.0,Mujeres
+1086,12 Castellón/Castelló,2006,8.0,Mujeres
+1087,12 Castellón/Castelló,2005,3.0,Mujeres
+1088,13 Ciudad Real,2020,9.0,Mujeres
+1089,13 Ciudad Real,2019,15.0,Mujeres
+1090,13 Ciudad Real,2018,13.0,Mujeres
+1091,13 Ciudad Real,2017,10.0,Mujeres
+1092,13 Ciudad Real,2016,12.0,Mujeres
+1093,13 Ciudad Real,2015,10.0,Mujeres
+1094,13 Ciudad Real,2014,6.0,Mujeres
+1095,13 Ciudad Real,2013,5.0,Mujeres
+1096,13 Ciudad Real,2012,5.0,Mujeres
+1097,13 Ciudad Real,2011,3.0,Mujeres
+1098,13 Ciudad Real,2010,3.0,Mujeres
+1099,13 Ciudad Real,2009,6.0,Mujeres
+1100,13 Ciudad Real,2008,8.0,Mujeres
+1101,13 Ciudad Real,2007,2.0,Mujeres
+1102,13 Ciudad Real,2006,4.0,Mujeres
+1103,13 Ciudad Real,2005,,Mujeres
+1104,14 Córdoba,2020,14.0,Mujeres
+1105,14 Córdoba,2019,32.0,Mujeres
+1106,14 Córdoba,2018,30.0,Mujeres
+1107,14 Córdoba,2017,24.0,Mujeres
+1108,14 Córdoba,2016,29.0,Mujeres
+1109,14 Córdoba,2015,25.0,Mujeres
+1110,14 Córdoba,2014,19.0,Mujeres
+1111,14 Córdoba,2013,16.0,Mujeres
+1112,14 Córdoba,2012,14.0,Mujeres
+1113,14 Córdoba,2011,18.0,Mujeres
+1114,14 Córdoba,2010,15.0,Mujeres
+1115,14 Córdoba,2009,6.0,Mujeres
+1116,14 Córdoba,2008,15.0,Mujeres
+1117,14 Córdoba,2007,11.0,Mujeres
+1118,14 Córdoba,2006,13.0,Mujeres
+1119,14 Córdoba,2005,4.0,Mujeres
+1120,"15 Coruña, A",2020,22.0,Mujeres
+1121,"15 Coruña, A",2019,30.0,Mujeres
+1122,"15 Coruña, A",2018,31.0,Mujeres
+1123,"15 Coruña, A",2017,31.0,Mujeres
+1124,"15 Coruña, A",2016,36.0,Mujeres
+1125,"15 Coruña, A",2015,28.0,Mujeres
+1126,"15 Coruña, A",2014,29.0,Mujeres
+1127,"15 Coruña, A",2013,19.0,Mujeres
+1128,"15 Coruña, A",2012,19.0,Mujeres
+1129,"15 Coruña, A",2011,17.0,Mujeres
+1130,"15 Coruña, A",2010,24.0,Mujeres
+1131,"15 Coruña, A",2009,10.0,Mujeres
+1132,"15 Coruña, A",2008,7.0,Mujeres
+1133,"15 Coruña, A",2007,15.0,Mujeres
+1134,"15 Coruña, A",2006,13.0,Mujeres
+1135,"15 Coruña, A",2005,11.0,Mujeres
+1136,16 Cuenca,2020,2.0,Mujeres
+1137,16 Cuenca,2019,3.0,Mujeres
+1138,16 Cuenca,2018,4.0,Mujeres
+1139,16 Cuenca,2017,6.0,Mujeres
+1140,16 Cuenca,2016,1.0,Mujeres
+1141,16 Cuenca,2015,2.0,Mujeres
+1142,16 Cuenca,2014,2.0,Mujeres
+1143,16 Cuenca,2013,2.0,Mujeres
+1144,16 Cuenca,2012,4.0,Mujeres
+1145,16 Cuenca,2011,1.0,Mujeres
+1146,16 Cuenca,2010,3.0,Mujeres
+1147,16 Cuenca,2009,,Mujeres
+1148,16 Cuenca,2008,1.0,Mujeres
+1149,16 Cuenca,2007,,Mujeres
+1150,16 Cuenca,2006,1.0,Mujeres
+1151,16 Cuenca,2005,,Mujeres
+1152,20 Gipuzkoa,2020,28.0,Mujeres
+1153,20 Gipuzkoa,2019,42.0,Mujeres
+1154,20 Gipuzkoa,2018,41.0,Mujeres
+1155,20 Gipuzkoa,2017,45.0,Mujeres
+1156,20 Gipuzkoa,2016,36.0,Mujeres
+1157,20 Gipuzkoa,2015,32.0,Mujeres
+1158,20 Gipuzkoa,2014,22.0,Mujeres
+1159,20 Gipuzkoa,2013,19.0,Mujeres
+1160,20 Gipuzkoa,2012,31.0,Mujeres
+1161,20 Gipuzkoa,2011,15.0,Mujeres
+1162,20 Gipuzkoa,2010,18.0,Mujeres
+1163,20 Gipuzkoa,2009,17.0,Mujeres
+1164,20 Gipuzkoa,2008,21.0,Mujeres
+1165,20 Gipuzkoa,2007,15.0,Mujeres
+1166,20 Gipuzkoa,2006,21.0,Mujeres
+1167,20 Gipuzkoa,2005,7.0,Mujeres
+1168,17 Girona,2020,29.0,Mujeres
+1169,17 Girona,2019,48.0,Mujeres
+1170,17 Girona,2018,41.0,Mujeres
+1171,17 Girona,2017,48.0,Mujeres
+1172,17 Girona,2016,40.0,Mujeres
+1173,17 Girona,2015,30.0,Mujeres
+1174,17 Girona,2014,39.0,Mujeres
+1175,17 Girona,2013,21.0,Mujeres
+1176,17 Girona,2012,22.0,Mujeres
+1177,17 Girona,2011,21.0,Mujeres
+1178,17 Girona,2010,20.0,Mujeres
+1179,17 Girona,2009,22.0,Mujeres
+1180,17 Girona,2008,26.0,Mujeres
+1181,17 Girona,2007,17.0,Mujeres
+1182,17 Girona,2006,21.0,Mujeres
+1183,17 Girona,2005,6.0,Mujeres
+1184,18 Granada,2020,30.0,Mujeres
+1185,18 Granada,2019,50.0,Mujeres
+1186,18 Granada,2018,42.0,Mujeres
+1187,18 Granada,2017,45.0,Mujeres
+1188,18 Granada,2016,37.0,Mujeres
+1189,18 Granada,2015,33.0,Mujeres
+1190,18 Granada,2014,27.0,Mujeres
+1191,18 Granada,2013,29.0,Mujeres
+1192,18 Granada,2012,21.0,Mujeres
+1193,18 Granada,2011,23.0,Mujeres
+1194,18 Granada,2010,24.0,Mujeres
+1195,18 Granada,2009,17.0,Mujeres
+1196,18 Granada,2008,28.0,Mujeres
+1197,18 Granada,2007,14.0,Mujeres
+1198,18 Granada,2006,17.0,Mujeres
+1199,18 Granada,2005,3.0,Mujeres
+1200,19 Guadalajara,2020,12.0,Mujeres
+1201,19 Guadalajara,2019,15.0,Mujeres
+1202,19 Guadalajara,2018,10.0,Mujeres
+1203,19 Guadalajara,2017,8.0,Mujeres
+1204,19 Guadalajara,2016,9.0,Mujeres
+1205,19 Guadalajara,2015,10.0,Mujeres
+1206,19 Guadalajara,2014,6.0,Mujeres
+1207,19 Guadalajara,2013,12.0,Mujeres
+1208,19 Guadalajara,2012,4.0,Mujeres
+1209,19 Guadalajara,2011,9.0,Mujeres
+1210,19 Guadalajara,2010,10.0,Mujeres
+1211,19 Guadalajara,2009,7.0,Mujeres
+1212,19 Guadalajara,2008,5.0,Mujeres
+1213,19 Guadalajara,2007,4.0,Mujeres
+1214,19 Guadalajara,2006,10.0,Mujeres
+1215,19 Guadalajara,2005,1.0,Mujeres
+1216,21 Huelva,2020,16.0,Mujeres
+1217,21 Huelva,2019,31.0,Mujeres
+1218,21 Huelva,2018,22.0,Mujeres
+1219,21 Huelva,2017,27.0,Mujeres
+1220,21 Huelva,2016,19.0,Mujeres
+1221,21 Huelva,2015,17.0,Mujeres
+1222,21 Huelva,2014,12.0,Mujeres
+1223,21 Huelva,2013,12.0,Mujeres
+1224,21 Huelva,2012,21.0,Mujeres
+1225,21 Huelva,2011,19.0,Mujeres
+1226,21 Huelva,2010,11.0,Mujeres
+1227,21 Huelva,2009,3.0,Mujeres
+1228,21 Huelva,2008,11.0,Mujeres
+1229,21 Huelva,2007,8.0,Mujeres
+1230,21 Huelva,2006,5.0,Mujeres
+1231,21 Huelva,2005,4.0,Mujeres
+1232,22 Huesca,2020,2.0,Mujeres
+1233,22 Huesca,2019,6.0,Mujeres
+1234,22 Huesca,2018,1.0,Mujeres
+1235,22 Huesca,2017,6.0,Mujeres
+1236,22 Huesca,2016,1.0,Mujeres
+1237,22 Huesca,2015,2.0,Mujeres
+1238,22 Huesca,2014,4.0,Mujeres
+1239,22 Huesca,2013,2.0,Mujeres
+1240,22 Huesca,2012,2.0,Mujeres
+1241,22 Huesca,2011,4.0,Mujeres
+1242,22 Huesca,2010,3.0,Mujeres
+1243,22 Huesca,2009,2.0,Mujeres
+1244,22 Huesca,2008,1.0,Mujeres
+1245,22 Huesca,2007,,Mujeres
+1246,22 Huesca,2006,2.0,Mujeres
+1247,22 Huesca,2005,,Mujeres
+1248,23 Jaén,2020,10.0,Mujeres
+1249,23 Jaén,2019,25.0,Mujeres
+1250,23 Jaén,2018,21.0,Mujeres
+1251,23 Jaén,2017,18.0,Mujeres
+1252,23 Jaén,2016,12.0,Mujeres
+1253,23 Jaén,2015,7.0,Mujeres
+1254,23 Jaén,2014,8.0,Mujeres
+1255,23 Jaén,2013,7.0,Mujeres
+1256,23 Jaén,2012,7.0,Mujeres
+1257,23 Jaén,2011,7.0,Mujeres
+1258,23 Jaén,2010,3.0,Mujeres
+1259,23 Jaén,2009,5.0,Mujeres
+1260,23 Jaén,2008,2.0,Mujeres
+1261,23 Jaén,2007,2.0,Mujeres
+1262,23 Jaén,2006,3.0,Mujeres
+1263,23 Jaén,2005,2.0,Mujeres
+1264,24 León,2020,6.0,Mujeres
+1265,24 León,2019,8.0,Mujeres
+1266,24 León,2018,9.0,Mujeres
+1267,24 León,2017,9.0,Mujeres
+1268,24 León,2016,9.0,Mujeres
+1269,24 León,2015,8.0,Mujeres
+1270,24 León,2014,7.0,Mujeres
+1271,24 León,2013,3.0,Mujeres
+1272,24 León,2012,7.0,Mujeres
+1273,24 León,2011,4.0,Mujeres
+1274,24 León,2010,8.0,Mujeres
+1275,24 León,2009,5.0,Mujeres
+1276,24 León,2008,4.0,Mujeres
+1277,24 León,2007,2.0,Mujeres
+1278,24 León,2006,4.0,Mujeres
+1279,24 León,2005,2.0,Mujeres
+1280,25 Lleida,2020,12.0,Mujeres
+1281,25 Lleida,2019,13.0,Mujeres
+1282,25 Lleida,2018,8.0,Mujeres
+1283,25 Lleida,2017,10.0,Mujeres
+1284,25 Lleida,2016,10.0,Mujeres
+1285,25 Lleida,2015,14.0,Mujeres
+1286,25 Lleida,2014,10.0,Mujeres
+1287,25 Lleida,2013,5.0,Mujeres
+1288,25 Lleida,2012,10.0,Mujeres
+1289,25 Lleida,2011,11.0,Mujeres
+1290,25 Lleida,2010,6.0,Mujeres
+1291,25 Lleida,2009,11.0,Mujeres
+1292,25 Lleida,2008,7.0,Mujeres
+1293,25 Lleida,2007,6.0,Mujeres
+1294,25 Lleida,2006,11.0,Mujeres
+1295,25 Lleida,2005,2.0,Mujeres
+1296,27 Lugo,2020,5.0,Mujeres
+1297,27 Lugo,2019,4.0,Mujeres
+1298,27 Lugo,2018,7.0,Mujeres
+1299,27 Lugo,2017,7.0,Mujeres
+1300,27 Lugo,2016,3.0,Mujeres
+1301,27 Lugo,2015,1.0,Mujeres
+1302,27 Lugo,2014,3.0,Mujeres
+1303,27 Lugo,2013,3.0,Mujeres
+1304,27 Lugo,2012,3.0,Mujeres
+1305,27 Lugo,2011,4.0,Mujeres
+1306,27 Lugo,2010,2.0,Mujeres
+1307,27 Lugo,2009,3.0,Mujeres
+1308,27 Lugo,2008,,Mujeres
+1309,27 Lugo,2007,1.0,Mujeres
+1310,27 Lugo,2006,2.0,Mujeres
+1311,27 Lugo,2005,,Mujeres
+1312,28 Madrid,2020,247.0,Mujeres
+1313,28 Madrid,2019,482.0,Mujeres
+1314,28 Madrid,2018,456.0,Mujeres
+1315,28 Madrid,2017,347.0,Mujeres
+1316,28 Madrid,2016,329.0,Mujeres
+1317,28 Madrid,2015,311.0,Mujeres
+1318,28 Madrid,2014,241.0,Mujeres
+1319,28 Madrid,2013,268.0,Mujeres
+1320,28 Madrid,2012,250.0,Mujeres
+1321,28 Madrid,2011,246.0,Mujeres
+1322,28 Madrid,2010,193.0,Mujeres
+1323,28 Madrid,2009,156.0,Mujeres
+1324,28 Madrid,2008,203.0,Mujeres
+1325,28 Madrid,2007,186.0,Mujeres
+1326,28 Madrid,2006,236.0,Mujeres
+1327,28 Madrid,2005,58.0,Mujeres
+1328,29 Málaga,2020,77.0,Mujeres
+1329,29 Málaga,2019,125.0,Mujeres
+1330,29 Málaga,2018,108.0,Mujeres
+1331,29 Málaga,2017,84.0,Mujeres
+1332,29 Málaga,2016,83.0,Mujeres
+1333,29 Málaga,2015,65.0,Mujeres
+1334,29 Málaga,2014,49.0,Mujeres
+1335,29 Málaga,2013,48.0,Mujeres
+1336,29 Málaga,2012,48.0,Mujeres
+1337,29 Málaga,2011,35.0,Mujeres
+1338,29 Málaga,2010,49.0,Mujeres
+1339,29 Málaga,2009,35.0,Mujeres
+1340,29 Málaga,2008,40.0,Mujeres
+1341,29 Málaga,2007,45.0,Mujeres
+1342,29 Málaga,2006,55.0,Mujeres
+1343,29 Málaga,2005,10.0,Mujeres
+1344,30 Murcia,2020,51.0,Mujeres
+1345,30 Murcia,2019,74.0,Mujeres
+1346,30 Murcia,2018,84.0,Mujeres
+1347,30 Murcia,2017,64.0,Mujeres
+1348,30 Murcia,2016,54.0,Mujeres
+1349,30 Murcia,2015,46.0,Mujeres
+1350,30 Murcia,2014,44.0,Mujeres
+1351,30 Murcia,2013,35.0,Mujeres
+1352,30 Murcia,2012,46.0,Mujeres
+1353,30 Murcia,2011,37.0,Mujeres
+1354,30 Murcia,2010,40.0,Mujeres
+1355,30 Murcia,2009,24.0,Mujeres
+1356,30 Murcia,2008,17.0,Mujeres
+1357,30 Murcia,2007,22.0,Mujeres
+1358,30 Murcia,2006,22.0,Mujeres
+1359,30 Murcia,2005,4.0,Mujeres
+1360,31 Navarra,2020,16.0,Mujeres
+1361,31 Navarra,2019,34.0,Mujeres
+1362,31 Navarra,2018,34.0,Mujeres
+1363,31 Navarra,2017,18.0,Mujeres
+1364,31 Navarra,2016,28.0,Mujeres
+1365,31 Navarra,2015,29.0,Mujeres
+1366,31 Navarra,2014,10.0,Mujeres
+1367,31 Navarra,2013,10.0,Mujeres
+1368,31 Navarra,2012,18.0,Mujeres
+1369,31 Navarra,2011,13.0,Mujeres
+1370,31 Navarra,2010,20.0,Mujeres
+1371,31 Navarra,2009,15.0,Mujeres
+1372,31 Navarra,2008,19.0,Mujeres
+1373,31 Navarra,2007,12.0,Mujeres
+1374,31 Navarra,2006,13.0,Mujeres
+1375,31 Navarra,2005,2.0,Mujeres
+1376,32 Ourense,2020,5.0,Mujeres
+1377,32 Ourense,2019,6.0,Mujeres
+1378,32 Ourense,2018,6.0,Mujeres
+1379,32 Ourense,2017,5.0,Mujeres
+1380,32 Ourense,2016,6.0,Mujeres
+1381,32 Ourense,2015,5.0,Mujeres
+1382,32 Ourense,2014,2.0,Mujeres
+1383,32 Ourense,2013,,Mujeres
+1384,32 Ourense,2012,1.0,Mujeres
+1385,32 Ourense,2011,1.0,Mujeres
+1386,32 Ourense,2010,2.0,Mujeres
+1387,32 Ourense,2009,5.0,Mujeres
+1388,32 Ourense,2008,2.0,Mujeres
+1389,32 Ourense,2007,,Mujeres
+1390,32 Ourense,2006,2.0,Mujeres
+1391,32 Ourense,2005,,Mujeres
+1392,34 Palencia,2020,2.0,Mujeres
+1393,34 Palencia,2019,4.0,Mujeres
+1394,34 Palencia,2018,2.0,Mujeres
+1395,34 Palencia,2017,4.0,Mujeres
+1396,34 Palencia,2016,4.0,Mujeres
+1397,34 Palencia,2015,1.0,Mujeres
+1398,34 Palencia,2014,,Mujeres
+1399,34 Palencia,2013,2.0,Mujeres
+1400,34 Palencia,2012,3.0,Mujeres
+1401,34 Palencia,2011,3.0,Mujeres
+1402,34 Palencia,2010,2.0,Mujeres
+1403,34 Palencia,2009,,Mujeres
+1404,34 Palencia,2008,,Mujeres
+1405,34 Palencia,2007,1.0,Mujeres
+1406,34 Palencia,2006,1.0,Mujeres
+1407,34 Palencia,2005,,Mujeres
+1408,"35 Palmas, Las",2020,63.0,Mujeres
+1409,"35 Palmas, Las",2019,122.0,Mujeres
+1410,"35 Palmas, Las",2018,103.0,Mujeres
+1411,"35 Palmas, Las",2017,86.0,Mujeres
+1412,"35 Palmas, Las",2016,95.0,Mujeres
+1413,"35 Palmas, Las",2015,86.0,Mujeres
+1414,"35 Palmas, Las",2014,67.0,Mujeres
+1415,"35 Palmas, Las",2013,69.0,Mujeres
+1416,"35 Palmas, Las",2012,57.0,Mujeres
+1417,"35 Palmas, Las",2011,57.0,Mujeres
+1418,"35 Palmas, Las",2010,41.0,Mujeres
+1419,"35 Palmas, Las",2009,43.0,Mujeres
+1420,"35 Palmas, Las",2008,50.0,Mujeres
+1421,"35 Palmas, Las",2007,41.0,Mujeres
+1422,"35 Palmas, Las",2006,53.0,Mujeres
+1423,"35 Palmas, Las",2005,10.0,Mujeres
+1424,36 Pontevedra,2020,28.0,Mujeres
+1425,36 Pontevedra,2019,20.0,Mujeres
+1426,36 Pontevedra,2018,19.0,Mujeres
+1427,36 Pontevedra,2017,29.0,Mujeres
+1428,36 Pontevedra,2016,27.0,Mujeres
+1429,36 Pontevedra,2015,17.0,Mujeres
+1430,36 Pontevedra,2014,8.0,Mujeres
+1431,36 Pontevedra,2013,10.0,Mujeres
+1432,36 Pontevedra,2012,10.0,Mujeres
+1433,36 Pontevedra,2011,16.0,Mujeres
+1434,36 Pontevedra,2010,12.0,Mujeres
+1435,36 Pontevedra,2009,10.0,Mujeres
+1436,36 Pontevedra,2008,13.0,Mujeres
+1437,36 Pontevedra,2007,9.0,Mujeres
+1438,36 Pontevedra,2006,12.0,Mujeres
+1439,36 Pontevedra,2005,2.0,Mujeres
+1440,"26 Rioja, La",2020,18.0,Mujeres
+1441,"26 Rioja, La",2019,15.0,Mujeres
+1442,"26 Rioja, La",2018,11.0,Mujeres
+1443,"26 Rioja, La",2017,8.0,Mujeres
+1444,"26 Rioja, La",2016,9.0,Mujeres
+1445,"26 Rioja, La",2015,7.0,Mujeres
+1446,"26 Rioja, La",2014,9.0,Mujeres
+1447,"26 Rioja, La",2013,5.0,Mujeres
+1448,"26 Rioja, La",2012,11.0,Mujeres
+1449,"26 Rioja, La",2011,8.0,Mujeres
+1450,"26 Rioja, La",2010,5.0,Mujeres
+1451,"26 Rioja, La",2009,6.0,Mujeres
+1452,"26 Rioja, La",2008,4.0,Mujeres
+1453,"26 Rioja, La",2007,2.0,Mujeres
+1454,"26 Rioja, La",2006,3.0,Mujeres
+1455,"26 Rioja, La",2005,3.0,Mujeres
+1456,37 Salamanca,2020,1.0,Mujeres
+1457,37 Salamanca,2019,12.0,Mujeres
+1458,37 Salamanca,2018,8.0,Mujeres
+1459,37 Salamanca,2017,7.0,Mujeres
+1460,37 Salamanca,2016,7.0,Mujeres
+1461,37 Salamanca,2015,7.0,Mujeres
+1462,37 Salamanca,2014,4.0,Mujeres
+1463,37 Salamanca,2013,9.0,Mujeres
+1464,37 Salamanca,2012,8.0,Mujeres
+1465,37 Salamanca,2011,4.0,Mujeres
+1466,37 Salamanca,2010,3.0,Mujeres
+1467,37 Salamanca,2009,3.0,Mujeres
+1468,37 Salamanca,2008,7.0,Mujeres
+1469,37 Salamanca,2007,2.0,Mujeres
+1470,37 Salamanca,2006,2.0,Mujeres
+1471,37 Salamanca,2005,,Mujeres
+1472,38 Santa Cruz de Tenerife,2020,65.0,Mujeres
+1473,38 Santa Cruz de Tenerife,2019,94.0,Mujeres
+1474,38 Santa Cruz de Tenerife,2018,78.0,Mujeres
+1475,38 Santa Cruz de Tenerife,2017,75.0,Mujeres
+1476,38 Santa Cruz de Tenerife,2016,85.0,Mujeres
+1477,38 Santa Cruz de Tenerife,2015,55.0,Mujeres
+1478,38 Santa Cruz de Tenerife,2014,59.0,Mujeres
+1479,38 Santa Cruz de Tenerife,2013,52.0,Mujeres
+1480,38 Santa Cruz de Tenerife,2012,42.0,Mujeres
+1481,38 Santa Cruz de Tenerife,2011,36.0,Mujeres
+1482,38 Santa Cruz de Tenerife,2010,33.0,Mujeres
+1483,38 Santa Cruz de Tenerife,2009,41.0,Mujeres
+1484,38 Santa Cruz de Tenerife,2008,30.0,Mujeres
+1485,38 Santa Cruz de Tenerife,2007,33.0,Mujeres
+1486,38 Santa Cruz de Tenerife,2006,29.0,Mujeres
+1487,38 Santa Cruz de Tenerife,2005,7.0,Mujeres
+1488,40 Segovia,2020,3.0,Mujeres
+1489,40 Segovia,2019,4.0,Mujeres
+1490,40 Segovia,2018,3.0,Mujeres
+1491,40 Segovia,2017,6.0,Mujeres
+1492,40 Segovia,2016,4.0,Mujeres
+1493,40 Segovia,2015,3.0,Mujeres
+1494,40 Segovia,2014,2.0,Mujeres
+1495,40 Segovia,2013,2.0,Mujeres
+1496,40 Segovia,2012,2.0,Mujeres
+1497,40 Segovia,2011,5.0,Mujeres
+1498,40 Segovia,2010,6.0,Mujeres
+1499,40 Segovia,2009,1.0,Mujeres
+1500,40 Segovia,2008,1.0,Mujeres
+1501,40 Segovia,2007,1.0,Mujeres
+1502,40 Segovia,2006,4.0,Mujeres
+1503,40 Segovia,2005,1.0,Mujeres
+1504,41 Sevilla,2020,87.0,Mujeres
+1505,41 Sevilla,2019,123.0,Mujeres
+1506,41 Sevilla,2018,115.0,Mujeres
+1507,41 Sevilla,2017,104.0,Mujeres
+1508,41 Sevilla,2016,113.0,Mujeres
+1509,41 Sevilla,2015,83.0,Mujeres
+1510,41 Sevilla,2014,76.0,Mujeres
+1511,41 Sevilla,2013,64.0,Mujeres
+1512,41 Sevilla,2012,59.0,Mujeres
+1513,41 Sevilla,2011,57.0,Mujeres
+1514,41 Sevilla,2010,38.0,Mujeres
+1515,41 Sevilla,2009,42.0,Mujeres
+1516,41 Sevilla,2008,48.0,Mujeres
+1517,41 Sevilla,2007,53.0,Mujeres
+1518,41 Sevilla,2006,64.0,Mujeres
+1519,41 Sevilla,2005,15.0,Mujeres
+1520,42 Soria,2020,2.0,Mujeres
+1521,42 Soria,2019,3.0,Mujeres
+1522,42 Soria,2018,3.0,Mujeres
+1523,42 Soria,2017,,Mujeres
+1524,42 Soria,2016,1.0,Mujeres
+1525,42 Soria,2015,2.0,Mujeres
+1526,42 Soria,2014,,Mujeres
+1527,42 Soria,2013,1.0,Mujeres
+1528,42 Soria,2012,,Mujeres
+1529,42 Soria,2011,1.0,Mujeres
+1530,42 Soria,2010,,Mujeres
+1531,42 Soria,2009,,Mujeres
+1532,42 Soria,2008,,Mujeres
+1533,42 Soria,2007,1.0,Mujeres
+1534,42 Soria,2006,,Mujeres
+1535,42 Soria,2005,,Mujeres
+1536,43 Tarragona,2020,29.0,Mujeres
+1537,43 Tarragona,2019,38.0,Mujeres
+1538,43 Tarragona,2018,39.0,Mujeres
+1539,43 Tarragona,2017,26.0,Mujeres
+1540,43 Tarragona,2016,28.0,Mujeres
+1541,43 Tarragona,2015,34.0,Mujeres
+1542,43 Tarragona,2014,21.0,Mujeres
+1543,43 Tarragona,2013,29.0,Mujeres
+1544,43 Tarragona,2012,39.0,Mujeres
+1545,43 Tarragona,2011,29.0,Mujeres
+1546,43 Tarragona,2010,24.0,Mujeres
+1547,43 Tarragona,2009,21.0,Mujeres
+1548,43 Tarragona,2008,19.0,Mujeres
+1549,43 Tarragona,2007,22.0,Mujeres
+1550,43 Tarragona,2006,24.0,Mujeres
+1551,43 Tarragona,2005,11.0,Mujeres
+1552,44 Teruel,2020,2.0,Mujeres
+1553,44 Teruel,2019,2.0,Mujeres
+1554,44 Teruel,2018,1.0,Mujeres
+1555,44 Teruel,2017,1.0,Mujeres
+1556,44 Teruel,2016,1.0,Mujeres
+1557,44 Teruel,2015,,Mujeres
+1558,44 Teruel,2014,2.0,Mujeres
+1559,44 Teruel,2013,,Mujeres
+1560,44 Teruel,2012,1.0,Mujeres
+1561,44 Teruel,2011,,Mujeres
+1562,44 Teruel,2010,2.0,Mujeres
+1563,44 Teruel,2009,1.0,Mujeres
+1564,44 Teruel,2008,1.0,Mujeres
+1565,44 Teruel,2007,1.0,Mujeres
+1566,44 Teruel,2006,1.0,Mujeres
+1567,44 Teruel,2005,,Mujeres
+1568,45 Toledo,2020,13.0,Mujeres
+1569,45 Toledo,2019,23.0,Mujeres
+1570,45 Toledo,2018,31.0,Mujeres
+1571,45 Toledo,2017,24.0,Mujeres
+1572,45 Toledo,2016,20.0,Mujeres
+1573,45 Toledo,2015,17.0,Mujeres
+1574,45 Toledo,2014,19.0,Mujeres
+1575,45 Toledo,2013,13.0,Mujeres
+1576,45 Toledo,2012,23.0,Mujeres
+1577,45 Toledo,2011,17.0,Mujeres
+1578,45 Toledo,2010,9.0,Mujeres
+1579,45 Toledo,2009,9.0,Mujeres
+1580,45 Toledo,2008,6.0,Mujeres
+1581,45 Toledo,2007,4.0,Mujeres
+1582,45 Toledo,2006,5.0,Mujeres
+1583,45 Toledo,2005,3.0,Mujeres
+1584,46 Valencia/València,2020,138.0,Mujeres
+1585,46 Valencia/València,2019,146.0,Mujeres
+1586,46 Valencia/València,2018,167.0,Mujeres
+1587,46 Valencia/València,2017,142.0,Mujeres
+1588,46 Valencia/València,2016,144.0,Mujeres
+1589,46 Valencia/València,2015,126.0,Mujeres
+1590,46 Valencia/València,2014,114.0,Mujeres
+1591,46 Valencia/València,2013,88.0,Mujeres
+1592,46 Valencia/València,2012,107.0,Mujeres
+1593,46 Valencia/València,2011,121.0,Mujeres
+1594,46 Valencia/València,2010,78.0,Mujeres
+1595,46 Valencia/València,2009,78.0,Mujeres
+1596,46 Valencia/València,2008,68.0,Mujeres
+1597,46 Valencia/València,2007,79.0,Mujeres
+1598,46 Valencia/València,2006,85.0,Mujeres
+1599,46 Valencia/València,2005,36.0,Mujeres
+1600,47 Valladolid,2020,12.0,Mujeres
+1601,47 Valladolid,2019,16.0,Mujeres
+1602,47 Valladolid,2018,12.0,Mujeres
+1603,47 Valladolid,2017,12.0,Mujeres
+1604,47 Valladolid,2016,10.0,Mujeres
+1605,47 Valladolid,2015,10.0,Mujeres
+1606,47 Valladolid,2014,7.0,Mujeres
+1607,47 Valladolid,2013,3.0,Mujeres
+1608,47 Valladolid,2012,9.0,Mujeres
+1609,47 Valladolid,2011,7.0,Mujeres
+1610,47 Valladolid,2010,7.0,Mujeres
+1611,47 Valladolid,2009,4.0,Mujeres
+1612,47 Valladolid,2008,4.0,Mujeres
+1613,47 Valladolid,2007,3.0,Mujeres
+1614,47 Valladolid,2006,5.0,Mujeres
+1615,47 Valladolid,2005,2.0,Mujeres
+1616,49 Zamora,2020,,Mujeres
+1617,49 Zamora,2019,,Mujeres
+1618,49 Zamora,2018,1.0,Mujeres
+1619,49 Zamora,2017,1.0,Mujeres
+1620,49 Zamora,2016,1.0,Mujeres
+1621,49 Zamora,2015,2.0,Mujeres
+1622,49 Zamora,2014,,Mujeres
+1623,49 Zamora,2013,1.0,Mujeres
+1624,49 Zamora,2012,,Mujeres
+1625,49 Zamora,2011,,Mujeres
+1626,49 Zamora,2010,,Mujeres
+1627,49 Zamora,2009,1.0,Mujeres
+1628,49 Zamora,2008,,Mujeres
+1629,49 Zamora,2007,1.0,Mujeres
+1630,49 Zamora,2006,1.0,Mujeres
+1631,49 Zamora,2005,,Mujeres
+1632,50 Zaragoza,2020,20.0,Mujeres
+1633,50 Zaragoza,2019,32.0,Mujeres
+1634,50 Zaragoza,2018,34.0,Mujeres
+1635,50 Zaragoza,2017,27.0,Mujeres
+1636,50 Zaragoza,2016,26.0,Mujeres
+1637,50 Zaragoza,2015,23.0,Mujeres
+1638,50 Zaragoza,2014,26.0,Mujeres
+1639,50 Zaragoza,2013,26.0,Mujeres
+1640,50 Zaragoza,2012,21.0,Mujeres
+1641,50 Zaragoza,2011,21.0,Mujeres
+1642,50 Zaragoza,2010,28.0,Mujeres
+1643,50 Zaragoza,2009,22.0,Mujeres
+1644,50 Zaragoza,2008,12.0,Mujeres
+1645,50 Zaragoza,2007,14.0,Mujeres
+1646,50 Zaragoza,2006,20.0,Mujeres
+1647,50 Zaragoza,2005,4.0,Mujeres
+1648,51 Ceuta,2020,1.0,Mujeres
+1649,51 Ceuta,2019,1.0,Mujeres
+1650,51 Ceuta,2018,,Mujeres
+1651,51 Ceuta,2017,2.0,Mujeres
+1652,51 Ceuta,2016,1.0,Mujeres
+1653,51 Ceuta,2015,,Mujeres
+1654,51 Ceuta,2014,1.0,Mujeres
+1655,51 Ceuta,2013,,Mujeres
+1656,51 Ceuta,2012,2.0,Mujeres
+1657,51 Ceuta,2011,1.0,Mujeres
+1658,51 Ceuta,2010,1.0,Mujeres
+1659,51 Ceuta,2009,2.0,Mujeres
+1660,51 Ceuta,2008,1.0,Mujeres
+1661,51 Ceuta,2007,1.0,Mujeres
+1662,51 Ceuta,2006,,Mujeres
+1663,51 Ceuta,2005,1.0,Mujeres
+1664,52 Melilla,2020,1.0,Mujeres
+1665,52 Melilla,2019,3.0,Mujeres
+1666,52 Melilla,2018,7.0,Mujeres
+1667,52 Melilla,2017,2.0,Mujeres
+1668,52 Melilla,2016,2.0,Mujeres
+1669,52 Melilla,2015,2.0,Mujeres
+1670,52 Melilla,2014,2.0,Mujeres
+1671,52 Melilla,2013,,Mujeres
+1672,52 Melilla,2012,,Mujeres
+1673,52 Melilla,2011,2.0,Mujeres
+1674,52 Melilla,2010,,Mujeres
+1675,52 Melilla,2009,3.0,Mujeres
+1676,52 Melilla,2008,2.0,Mujeres
+1677,52 Melilla,2007,2.0,Mujeres
+1678,52 Melilla,2006,,Mujeres
+1679,52 Melilla,2005,,Mujeres
+1680,No residente,2020,5.0,Mujeres
+1681,No residente,2019,9.0,Mujeres
+1682,No residente,2018,19.0,Mujeres
+1683,No residente,2017,18.0,Mujeres
+1684,No residente,2016,11.0,Mujeres
+1685,No residente,2015,12.0,Mujeres
+1686,No residente,2014,14.0,Mujeres
+1687,No residente,2013,7.0,Mujeres
+1688,No residente,2012,17.0,Mujeres
+1689,No residente,2011,13.0,Mujeres
+1690,No residente,2010,14.0,Mujeres
+1691,No residente,2009,6.0,Mujeres
+1692,No residente,2008,12.0,Mujeres
+1693,No residente,2007,12.0,Mujeres
+1694,No residente,2006,6.0,Mujeres
+1695,No residente,2005,2.0,Mujeres
+1696,02 Albacete,2020,6.0,Hombres
+1697,02 Albacete,2019,8.0,Hombres
+1698,02 Albacete,2018,10.0,Hombres
+1699,02 Albacete,2017,9.0,Hombres
+1700,02 Albacete,2016,6.0,Hombres
+1701,02 Albacete,2015,8.0,Hombres
+1702,02 Albacete,2014,8.0,Hombres
+1703,02 Albacete,2013,1.0,Hombres
+1704,02 Albacete,2012,6.0,Hombres
+1705,02 Albacete,2011,7.0,Hombres
+1706,02 Albacete,2010,5.0,Hombres
+1707,02 Albacete,2009,3.0,Hombres
+1708,02 Albacete,2008,3.0,Hombres
+1709,02 Albacete,2007,2.0,Hombres
+1710,02 Albacete,2006,9.0,Hombres
+1711,02 Albacete,2005,1.0,Hombres
+1712,03 Alicante/Alacant,2020,82.0,Hombres
+1713,03 Alicante/Alacant,2019,96.0,Hombres
+1714,03 Alicante/Alacant,2018,116.0,Hombres
+1715,03 Alicante/Alacant,2017,137.0,Hombres
+1716,03 Alicante/Alacant,2016,109.0,Hombres
+1717,03 Alicante/Alacant,2015,88.0,Hombres
+1718,03 Alicante/Alacant,2014,91.0,Hombres
+1719,03 Alicante/Alacant,2013,79.0,Hombres
+1720,03 Alicante/Alacant,2012,95.0,Hombres
+1721,03 Alicante/Alacant,2011,86.0,Hombres
+1722,03 Alicante/Alacant,2010,83.0,Hombres
+1723,03 Alicante/Alacant,2009,101.0,Hombres
+1724,03 Alicante/Alacant,2008,90.0,Hombres
+1725,03 Alicante/Alacant,2007,117.0,Hombres
+1726,03 Alicante/Alacant,2006,168.0,Hombres
+1727,03 Alicante/Alacant,2005,39.0,Hombres
+1728,04 Almería,2020,17.0,Hombres
+1729,04 Almería,2019,25.0,Hombres
+1730,04 Almería,2018,19.0,Hombres
+1731,04 Almería,2017,22.0,Hombres
+1732,04 Almería,2016,13.0,Hombres
+1733,04 Almería,2015,16.0,Hombres
+1734,04 Almería,2014,13.0,Hombres
+1735,04 Almería,2013,22.0,Hombres
+1736,04 Almería,2012,9.0,Hombres
+1737,04 Almería,2011,16.0,Hombres
+1738,04 Almería,2010,20.0,Hombres
+1739,04 Almería,2009,11.0,Hombres
+1740,04 Almería,2008,21.0,Hombres
+1741,04 Almería,2007,12.0,Hombres
+1742,04 Almería,2006,30.0,Hombres
+1743,04 Almería,2005,5.0,Hombres
+1744,01 Araba/Álava,2020,7.0,Hombres
+1745,01 Araba/Álava,2019,13.0,Hombres
+1746,01 Araba/Álava,2018,11.0,Hombres
+1747,01 Araba/Álava,2017,7.0,Hombres
+1748,01 Araba/Álava,2016,7.0,Hombres
+1749,01 Araba/Álava,2015,6.0,Hombres
+1750,01 Araba/Álava,2014,9.0,Hombres
+1751,01 Araba/Álava,2013,11.0,Hombres
+1752,01 Araba/Álava,2012,4.0,Hombres
+1753,01 Araba/Álava,2011,15.0,Hombres
+1754,01 Araba/Álava,2010,13.0,Hombres
+1755,01 Araba/Álava,2009,2.0,Hombres
+1756,01 Araba/Álava,2008,6.0,Hombres
+1757,01 Araba/Álava,2007,10.0,Hombres
+1758,01 Araba/Álava,2006,6.0,Hombres
+1759,01 Araba/Álava,2005,6.0,Hombres
+1760,33 Asturias,2020,28.0,Hombres
+1761,33 Asturias,2019,45.0,Hombres
+1762,33 Asturias,2018,29.0,Hombres
+1763,33 Asturias,2017,36.0,Hombres
+1764,33 Asturias,2016,30.0,Hombres
+1765,33 Asturias,2015,32.0,Hombres
+1766,33 Asturias,2014,23.0,Hombres
+1767,33 Asturias,2013,22.0,Hombres
+1768,33 Asturias,2012,25.0,Hombres
+1769,33 Asturias,2011,23.0,Hombres
+1770,33 Asturias,2010,34.0,Hombres
+1771,33 Asturias,2009,36.0,Hombres
+1772,33 Asturias,2008,35.0,Hombres
+1773,33 Asturias,2007,27.0,Hombres
+1774,33 Asturias,2006,51.0,Hombres
+1775,33 Asturias,2005,24.0,Hombres
+1776,05 Ávila,2020,1.0,Hombres
+1777,05 Ávila,2019,3.0,Hombres
+1778,05 Ávila,2018,3.0,Hombres
+1779,05 Ávila,2017,2.0,Hombres
+1780,05 Ávila,2016,5.0,Hombres
+1781,05 Ávila,2015,,Hombres
+1782,05 Ávila,2014,3.0,Hombres
+1783,05 Ávila,2013,,Hombres
+1784,05 Ávila,2012,1.0,Hombres
+1785,05 Ávila,2011,,Hombres
+1786,05 Ávila,2010,1.0,Hombres
+1787,05 Ávila,2009,4.0,Hombres
+1788,05 Ávila,2008,2.0,Hombres
+1789,05 Ávila,2007,2.0,Hombres
+1790,05 Ávila,2006,2.0,Hombres
+1791,05 Ávila,2005,,Hombres
+1792,06 Badajoz,2020,6.0,Hombres
+1793,06 Badajoz,2019,17.0,Hombres
+1794,06 Badajoz,2018,25.0,Hombres
+1795,06 Badajoz,2017,18.0,Hombres
+1796,06 Badajoz,2016,11.0,Hombres
+1797,06 Badajoz,2015,13.0,Hombres
+1798,06 Badajoz,2014,9.0,Hombres
+1799,06 Badajoz,2013,9.0,Hombres
+1800,06 Badajoz,2012,15.0,Hombres
+1801,06 Badajoz,2011,14.0,Hombres
+1802,06 Badajoz,2010,10.0,Hombres
+1803,06 Badajoz,2009,13.0,Hombres
+1804,06 Badajoz,2008,7.0,Hombres
+1805,06 Badajoz,2007,6.0,Hombres
+1806,06 Badajoz,2006,7.0,Hombres
+1807,06 Badajoz,2005,2.0,Hombres
+1808,"07 Balears, Illes",2020,57.0,Hombres
+1809,"07 Balears, Illes",2019,114.0,Hombres
+1810,"07 Balears, Illes",2018,110.0,Hombres
+1811,"07 Balears, Illes",2017,84.0,Hombres
+1812,"07 Balears, Illes",2016,78.0,Hombres
+1813,"07 Balears, Illes",2015,72.0,Hombres
+1814,"07 Balears, Illes",2014,63.0,Hombres
+1815,"07 Balears, Illes",2013,75.0,Hombres
+1816,"07 Balears, Illes",2012,56.0,Hombres
+1817,"07 Balears, Illes",2011,82.0,Hombres
+1818,"07 Balears, Illes",2010,71.0,Hombres
+1819,"07 Balears, Illes",2009,86.0,Hombres
+1820,"07 Balears, Illes",2008,56.0,Hombres
+1821,"07 Balears, Illes",2007,87.0,Hombres
+1822,"07 Balears, Illes",2006,95.0,Hombres
+1823,"07 Balears, Illes",2005,33.0,Hombres
+1824,08 Barcelona,2020,191.0,Hombres
+1825,08 Barcelona,2019,349.0,Hombres
+1826,08 Barcelona,2018,410.0,Hombres
+1827,08 Barcelona,2017,434.0,Hombres
+1828,08 Barcelona,2016,414.0,Hombres
+1829,08 Barcelona,2015,365.0,Hombres
+1830,08 Barcelona,2014,304.0,Hombres
+1831,08 Barcelona,2013,334.0,Hombres
+1832,08 Barcelona,2012,413.0,Hombres
+1833,08 Barcelona,2011,453.0,Hombres
+1834,08 Barcelona,2010,446.0,Hombres
+1835,08 Barcelona,2009,466.0,Hombres
+1836,08 Barcelona,2008,474.0,Hombres
+1837,08 Barcelona,2007,446.0,Hombres
+1838,08 Barcelona,2006,636.0,Hombres
+1839,08 Barcelona,2005,146.0,Hombres
+1840,48 Bizkaia,2020,32.0,Hombres
+1841,48 Bizkaia,2019,41.0,Hombres
+1842,48 Bizkaia,2018,40.0,Hombres
+1843,48 Bizkaia,2017,31.0,Hombres
+1844,48 Bizkaia,2016,42.0,Hombres
+1845,48 Bizkaia,2015,26.0,Hombres
+1846,48 Bizkaia,2014,26.0,Hombres
+1847,48 Bizkaia,2013,28.0,Hombres
+1848,48 Bizkaia,2012,36.0,Hombres
+1849,48 Bizkaia,2011,35.0,Hombres
+1850,48 Bizkaia,2010,25.0,Hombres
+1851,48 Bizkaia,2009,29.0,Hombres
+1852,48 Bizkaia,2008,34.0,Hombres
+1853,48 Bizkaia,2007,19.0,Hombres
+1854,48 Bizkaia,2006,47.0,Hombres
+1855,48 Bizkaia,2005,28.0,Hombres
+1856,09 Burgos,2020,5.0,Hombres
+1857,09 Burgos,2019,6.0,Hombres
+1858,09 Burgos,2018,1.0,Hombres
+1859,09 Burgos,2017,6.0,Hombres
+1860,09 Burgos,2016,5.0,Hombres
+1861,09 Burgos,2015,5.0,Hombres
+1862,09 Burgos,2014,3.0,Hombres
+1863,09 Burgos,2013,5.0,Hombres
+1864,09 Burgos,2012,6.0,Hombres
+1865,09 Burgos,2011,3.0,Hombres
+1866,09 Burgos,2010,1.0,Hombres
+1867,09 Burgos,2009,4.0,Hombres
+1868,09 Burgos,2008,4.0,Hombres
+1869,09 Burgos,2007,5.0,Hombres
+1870,09 Burgos,2006,2.0,Hombres
+1871,09 Burgos,2005,,Hombres
+1872,10 Cáceres,2020,4.0,Hombres
+1873,10 Cáceres,2019,8.0,Hombres
+1874,10 Cáceres,2018,12.0,Hombres
+1875,10 Cáceres,2017,7.0,Hombres
+1876,10 Cáceres,2016,2.0,Hombres
+1877,10 Cáceres,2015,5.0,Hombres
+1878,10 Cáceres,2014,7.0,Hombres
+1879,10 Cáceres,2013,3.0,Hombres
+1880,10 Cáceres,2012,6.0,Hombres
+1881,10 Cáceres,2011,4.0,Hombres
+1882,10 Cáceres,2010,5.0,Hombres
+1883,10 Cáceres,2009,3.0,Hombres
+1884,10 Cáceres,2008,4.0,Hombres
+1885,10 Cáceres,2007,7.0,Hombres
+1886,10 Cáceres,2006,7.0,Hombres
+1887,10 Cáceres,2005,3.0,Hombres
+1888,11 Cádiz,2020,17.0,Hombres
+1889,11 Cádiz,2019,54.0,Hombres
+1890,11 Cádiz,2018,52.0,Hombres
+1891,11 Cádiz,2017,42.0,Hombres
+1892,11 Cádiz,2016,36.0,Hombres
+1893,11 Cádiz,2015,33.0,Hombres
+1894,11 Cádiz,2014,39.0,Hombres
+1895,11 Cádiz,2013,25.0,Hombres
+1896,11 Cádiz,2012,26.0,Hombres
+1897,11 Cádiz,2011,31.0,Hombres
+1898,11 Cádiz,2010,37.0,Hombres
+1899,11 Cádiz,2009,31.0,Hombres
+1900,11 Cádiz,2008,22.0,Hombres
+1901,11 Cádiz,2007,31.0,Hombres
+1902,11 Cádiz,2006,54.0,Hombres
+1903,11 Cádiz,2005,23.0,Hombres
+1904,39 Cantabria,2020,19.0,Hombres
+1905,39 Cantabria,2019,21.0,Hombres
+1906,39 Cantabria,2018,20.0,Hombres
+1907,39 Cantabria,2017,19.0,Hombres
+1908,39 Cantabria,2016,18.0,Hombres
+1909,39 Cantabria,2015,16.0,Hombres
+1910,39 Cantabria,2014,11.0,Hombres
+1911,39 Cantabria,2013,15.0,Hombres
+1912,39 Cantabria,2012,12.0,Hombres
+1913,39 Cantabria,2011,16.0,Hombres
+1914,39 Cantabria,2010,9.0,Hombres
+1915,39 Cantabria,2009,11.0,Hombres
+1916,39 Cantabria,2008,19.0,Hombres
+1917,39 Cantabria,2007,12.0,Hombres
+1918,39 Cantabria,2006,18.0,Hombres
+1919,39 Cantabria,2005,9.0,Hombres
+1920,12 Castellón/Castelló,2020,12.0,Hombres
+1921,12 Castellón/Castelló,2019,19.0,Hombres
+1922,12 Castellón/Castelló,2018,27.0,Hombres
+1923,12 Castellón/Castelló,2017,17.0,Hombres
+1924,12 Castellón/Castelló,2016,10.0,Hombres
+1925,12 Castellón/Castelló,2015,19.0,Hombres
+1926,12 Castellón/Castelló,2014,10.0,Hombres
+1927,12 Castellón/Castelló,2013,7.0,Hombres
+1928,12 Castellón/Castelló,2012,19.0,Hombres
+1929,12 Castellón/Castelló,2011,16.0,Hombres
+1930,12 Castellón/Castelló,2010,13.0,Hombres
+1931,12 Castellón/Castelló,2009,10.0,Hombres
+1932,12 Castellón/Castelló,2008,13.0,Hombres
+1933,12 Castellón/Castelló,2007,13.0,Hombres
+1934,12 Castellón/Castelló,2006,20.0,Hombres
+1935,12 Castellón/Castelló,2005,5.0,Hombres
+1936,13 Ciudad Real,2020,2.0,Hombres
+1937,13 Ciudad Real,2019,13.0,Hombres
+1938,13 Ciudad Real,2018,21.0,Hombres
+1939,13 Ciudad Real,2017,10.0,Hombres
+1940,13 Ciudad Real,2016,9.0,Hombres
+1941,13 Ciudad Real,2015,2.0,Hombres
+1942,13 Ciudad Real,2014,5.0,Hombres
+1943,13 Ciudad Real,2013,6.0,Hombres
+1944,13 Ciudad Real,2012,5.0,Hombres
+1945,13 Ciudad Real,2011,6.0,Hombres
+1946,13 Ciudad Real,2010,5.0,Hombres
+1947,13 Ciudad Real,2009,5.0,Hombres
+1948,13 Ciudad Real,2008,6.0,Hombres
+1949,13 Ciudad Real,2007,7.0,Hombres
+1950,13 Ciudad Real,2006,9.0,Hombres
+1951,13 Ciudad Real,2005,5.0,Hombres
+1952,14 Córdoba,2020,17.0,Hombres
+1953,14 Córdoba,2019,28.0,Hombres
+1954,14 Córdoba,2018,29.0,Hombres
+1955,14 Córdoba,2017,28.0,Hombres
+1956,14 Córdoba,2016,24.0,Hombres
+1957,14 Córdoba,2015,12.0,Hombres
+1958,14 Córdoba,2014,17.0,Hombres
+1959,14 Córdoba,2013,9.0,Hombres
+1960,14 Córdoba,2012,11.0,Hombres
+1961,14 Córdoba,2011,19.0,Hombres
+1962,14 Córdoba,2010,14.0,Hombres
+1963,14 Córdoba,2009,18.0,Hombres
+1964,14 Córdoba,2008,11.0,Hombres
+1965,14 Córdoba,2007,18.0,Hombres
+1966,14 Córdoba,2006,23.0,Hombres
+1967,14 Córdoba,2005,4.0,Hombres
+1968,"15 Coruña, A",2020,19.0,Hombres
+1969,"15 Coruña, A",2019,45.0,Hombres
+1970,"15 Coruña, A",2018,34.0,Hombres
+1971,"15 Coruña, A",2017,36.0,Hombres
+1972,"15 Coruña, A",2016,28.0,Hombres
+1973,"15 Coruña, A",2015,26.0,Hombres
+1974,"15 Coruña, A",2014,22.0,Hombres
+1975,"15 Coruña, A",2013,22.0,Hombres
+1976,"15 Coruña, A",2012,30.0,Hombres
+1977,"15 Coruña, A",2011,32.0,Hombres
+1978,"15 Coruña, A",2010,21.0,Hombres
+1979,"15 Coruña, A",2009,25.0,Hombres
+1980,"15 Coruña, A",2008,30.0,Hombres
+1981,"15 Coruña, A",2007,25.0,Hombres
+1982,"15 Coruña, A",2006,24.0,Hombres
+1983,"15 Coruña, A",2005,16.0,Hombres
+1984,16 Cuenca,2020,1.0,Hombres
+1985,16 Cuenca,2019,3.0,Hombres
+1986,16 Cuenca,2018,2.0,Hombres
+1987,16 Cuenca,2017,4.0,Hombres
+1988,16 Cuenca,2016,,Hombres
+1989,16 Cuenca,2015,7.0,Hombres
+1990,16 Cuenca,2014,3.0,Hombres
+1991,16 Cuenca,2013,2.0,Hombres
+1992,16 Cuenca,2012,1.0,Hombres
+1993,16 Cuenca,2011,,Hombres
+1994,16 Cuenca,2010,3.0,Hombres
+1995,16 Cuenca,2009,,Hombres
+1996,16 Cuenca,2008,3.0,Hombres
+1997,16 Cuenca,2007,1.0,Hombres
+1998,16 Cuenca,2006,1.0,Hombres
+1999,16 Cuenca,2005,1.0,Hombres
+2000,20 Gipuzkoa,2020,6.0,Hombres
+2001,20 Gipuzkoa,2019,23.0,Hombres
+2002,20 Gipuzkoa,2018,29.0,Hombres
+2003,20 Gipuzkoa,2017,30.0,Hombres
+2004,20 Gipuzkoa,2016,26.0,Hombres
+2005,20 Gipuzkoa,2015,18.0,Hombres
+2006,20 Gipuzkoa,2014,17.0,Hombres
+2007,20 Gipuzkoa,2013,17.0,Hombres
+2008,20 Gipuzkoa,2012,19.0,Hombres
+2009,20 Gipuzkoa,2011,25.0,Hombres
+2010,20 Gipuzkoa,2010,23.0,Hombres
+2011,20 Gipuzkoa,2009,23.0,Hombres
+2012,20 Gipuzkoa,2008,9.0,Hombres
+2013,20 Gipuzkoa,2007,22.0,Hombres
+2014,20 Gipuzkoa,2006,37.0,Hombres
+2015,20 Gipuzkoa,2005,19.0,Hombres
+2016,17 Girona,2020,15.0,Hombres
+2017,17 Girona,2019,27.0,Hombres
+2018,17 Girona,2018,21.0,Hombres
+2019,17 Girona,2017,27.0,Hombres
+2020,17 Girona,2016,37.0,Hombres
+2021,17 Girona,2015,30.0,Hombres
+2022,17 Girona,2014,23.0,Hombres
+2023,17 Girona,2013,24.0,Hombres
+2024,17 Girona,2012,31.0,Hombres
+2025,17 Girona,2011,36.0,Hombres
+2026,17 Girona,2010,27.0,Hombres
+2027,17 Girona,2009,33.0,Hombres
+2028,17 Girona,2008,26.0,Hombres
+2029,17 Girona,2007,28.0,Hombres
+2030,17 Girona,2006,42.0,Hombres
+2031,17 Girona,2005,22.0,Hombres
+2032,18 Granada,2020,25.0,Hombres
+2033,18 Granada,2019,57.0,Hombres
+2034,18 Granada,2018,29.0,Hombres
+2035,18 Granada,2017,36.0,Hombres
+2036,18 Granada,2016,41.0,Hombres
+2037,18 Granada,2015,31.0,Hombres
+2038,18 Granada,2014,23.0,Hombres
+2039,18 Granada,2013,18.0,Hombres
+2040,18 Granada,2012,30.0,Hombres
+2041,18 Granada,2011,30.0,Hombres
+2042,18 Granada,2010,16.0,Hombres
+2043,18 Granada,2009,30.0,Hombres
+2044,18 Granada,2008,31.0,Hombres
+2045,18 Granada,2007,24.0,Hombres
+2046,18 Granada,2006,49.0,Hombres
+2047,18 Granada,2005,10.0,Hombres
+2048,19 Guadalajara,2020,4.0,Hombres
+2049,19 Guadalajara,2019,9.0,Hombres
+2050,19 Guadalajara,2018,8.0,Hombres
+2051,19 Guadalajara,2017,6.0,Hombres
+2052,19 Guadalajara,2016,7.0,Hombres
+2053,19 Guadalajara,2015,3.0,Hombres
+2054,19 Guadalajara,2014,7.0,Hombres
+2055,19 Guadalajara,2013,5.0,Hombres
+2056,19 Guadalajara,2012,4.0,Hombres
+2057,19 Guadalajara,2011,10.0,Hombres
+2058,19 Guadalajara,2010,11.0,Hombres
+2059,19 Guadalajara,2009,4.0,Hombres
+2060,19 Guadalajara,2008,7.0,Hombres
+2061,19 Guadalajara,2007,8.0,Hombres
+2062,19 Guadalajara,2006,12.0,Hombres
+2063,19 Guadalajara,2005,1.0,Hombres
+2064,21 Huelva,2020,13.0,Hombres
+2065,21 Huelva,2019,12.0,Hombres
+2066,21 Huelva,2018,10.0,Hombres
+2067,21 Huelva,2017,14.0,Hombres
+2068,21 Huelva,2016,21.0,Hombres
+2069,21 Huelva,2015,17.0,Hombres
+2070,21 Huelva,2014,12.0,Hombres
+2071,21 Huelva,2013,11.0,Hombres
+2072,21 Huelva,2012,12.0,Hombres
+2073,21 Huelva,2011,8.0,Hombres
+2074,21 Huelva,2010,11.0,Hombres
+2075,21 Huelva,2009,7.0,Hombres
+2076,21 Huelva,2008,13.0,Hombres
+2077,21 Huelva,2007,5.0,Hombres
+2078,21 Huelva,2006,9.0,Hombres
+2079,21 Huelva,2005,6.0,Hombres
+2080,22 Huesca,2020,2.0,Hombres
+2081,22 Huesca,2019,3.0,Hombres
+2082,22 Huesca,2018,1.0,Hombres
+2083,22 Huesca,2017,2.0,Hombres
+2084,22 Huesca,2016,2.0,Hombres
+2085,22 Huesca,2015,4.0,Hombres
+2086,22 Huesca,2014,2.0,Hombres
+2087,22 Huesca,2013,1.0,Hombres
+2088,22 Huesca,2012,1.0,Hombres
+2089,22 Huesca,2011,3.0,Hombres
+2090,22 Huesca,2010,6.0,Hombres
+2091,22 Huesca,2009,1.0,Hombres
+2092,22 Huesca,2008,6.0,Hombres
+2093,22 Huesca,2007,1.0,Hombres
+2094,22 Huesca,2006,6.0,Hombres
+2095,22 Huesca,2005,1.0,Hombres
+2096,23 Jaén,2020,17.0,Hombres
+2097,23 Jaén,2019,21.0,Hombres
+2098,23 Jaén,2018,20.0,Hombres
+2099,23 Jaén,2017,16.0,Hombres
+2100,23 Jaén,2016,15.0,Hombres
+2101,23 Jaén,2015,9.0,Hombres
+2102,23 Jaén,2014,10.0,Hombres
+2103,23 Jaén,2013,8.0,Hombres
+2104,23 Jaén,2012,7.0,Hombres
+2105,23 Jaén,2011,9.0,Hombres
+2106,23 Jaén,2010,9.0,Hombres
+2107,23 Jaén,2009,5.0,Hombres
+2108,23 Jaén,2008,10.0,Hombres
+2109,23 Jaén,2007,6.0,Hombres
+2110,23 Jaén,2006,11.0,Hombres
+2111,23 Jaén,2005,5.0,Hombres
+2112,24 León,2020,7.0,Hombres
+2113,24 León,2019,7.0,Hombres
+2114,24 León,2018,8.0,Hombres
+2115,24 León,2017,7.0,Hombres
+2116,24 León,2016,12.0,Hombres
+2117,24 León,2015,12.0,Hombres
+2118,24 León,2014,8.0,Hombres
+2119,24 León,2013,2.0,Hombres
+2120,24 León,2012,6.0,Hombres
+2121,24 León,2011,8.0,Hombres
+2122,24 León,2010,4.0,Hombres
+2123,24 León,2009,7.0,Hombres
+2124,24 León,2008,4.0,Hombres
+2125,24 León,2007,11.0,Hombres
+2126,24 León,2006,9.0,Hombres
+2127,24 León,2005,1.0,Hombres
+2128,25 Lleida,2020,11.0,Hombres
+2129,25 Lleida,2019,15.0,Hombres
+2130,25 Lleida,2018,9.0,Hombres
+2131,25 Lleida,2017,6.0,Hombres
+2132,25 Lleida,2016,13.0,Hombres
+2133,25 Lleida,2015,10.0,Hombres
+2134,25 Lleida,2014,7.0,Hombres
+2135,25 Lleida,2013,5.0,Hombres
+2136,25 Lleida,2012,8.0,Hombres
+2137,25 Lleida,2011,4.0,Hombres
+2138,25 Lleida,2010,15.0,Hombres
+2139,25 Lleida,2009,9.0,Hombres
+2140,25 Lleida,2008,13.0,Hombres
+2141,25 Lleida,2007,5.0,Hombres
+2142,25 Lleida,2006,16.0,Hombres
+2143,25 Lleida,2005,6.0,Hombres
+2144,27 Lugo,2020,3.0,Hombres
+2145,27 Lugo,2019,1.0,Hombres
+2146,27 Lugo,2018,6.0,Hombres
+2147,27 Lugo,2017,7.0,Hombres
+2148,27 Lugo,2016,4.0,Hombres
+2149,27 Lugo,2015,5.0,Hombres
+2150,27 Lugo,2014,2.0,Hombres
+2151,27 Lugo,2013,3.0,Hombres
+2152,27 Lugo,2012,6.0,Hombres
+2153,27 Lugo,2011,1.0,Hombres
+2154,27 Lugo,2010,2.0,Hombres
+2155,27 Lugo,2009,1.0,Hombres
+2156,27 Lugo,2008,2.0,Hombres
+2157,27 Lugo,2007,4.0,Hombres
+2158,27 Lugo,2006,4.0,Hombres
+2159,27 Lugo,2005,,Hombres
+2160,28 Madrid,2020,324.0,Hombres
+2161,28 Madrid,2019,540.0,Hombres
+2162,28 Madrid,2018,500.0,Hombres
+2163,28 Madrid,2017,487.0,Hombres
+2164,28 Madrid,2016,453.0,Hombres
+2165,28 Madrid,2015,415.0,Hombres
+2166,28 Madrid,2014,352.0,Hombres
+2167,28 Madrid,2013,366.0,Hombres
+2168,28 Madrid,2012,424.0,Hombres
+2169,28 Madrid,2011,483.0,Hombres
+2170,28 Madrid,2010,440.0,Hombres
+2171,28 Madrid,2009,397.0,Hombres
+2172,28 Madrid,2008,469.0,Hombres
+2173,28 Madrid,2007,454.0,Hombres
+2174,28 Madrid,2006,662.0,Hombres
+2175,28 Madrid,2005,200.0,Hombres
+2176,29 Málaga,2020,80.0,Hombres
+2177,29 Málaga,2019,112.0,Hombres
+2178,29 Málaga,2018,119.0,Hombres
+2179,29 Málaga,2017,99.0,Hombres
+2180,29 Málaga,2016,108.0,Hombres
+2181,29 Málaga,2015,82.0,Hombres
+2182,29 Málaga,2014,66.0,Hombres
+2183,29 Málaga,2013,68.0,Hombres
+2184,29 Málaga,2012,82.0,Hombres
+2185,29 Málaga,2011,91.0,Hombres
+2186,29 Málaga,2010,103.0,Hombres
+2187,29 Málaga,2009,102.0,Hombres
+2188,29 Málaga,2008,123.0,Hombres
+2189,29 Málaga,2007,120.0,Hombres
+2190,29 Málaga,2006,165.0,Hombres
+2191,29 Málaga,2005,23.0,Hombres
+2192,30 Murcia,2020,37.0,Hombres
+2193,30 Murcia,2019,64.0,Hombres
+2194,30 Murcia,2018,61.0,Hombres
+2195,30 Murcia,2017,57.0,Hombres
+2196,30 Murcia,2016,56.0,Hombres
+2197,30 Murcia,2015,39.0,Hombres
+2198,30 Murcia,2014,51.0,Hombres
+2199,30 Murcia,2013,31.0,Hombres
+2200,30 Murcia,2012,44.0,Hombres
+2201,30 Murcia,2011,34.0,Hombres
+2202,30 Murcia,2010,45.0,Hombres
+2203,30 Murcia,2009,38.0,Hombres
+2204,30 Murcia,2008,42.0,Hombres
+2205,30 Murcia,2007,46.0,Hombres
+2206,30 Murcia,2006,41.0,Hombres
+2207,30 Murcia,2005,11.0,Hombres
+2208,31 Navarra,2020,14.0,Hombres
+2209,31 Navarra,2019,26.0,Hombres
+2210,31 Navarra,2018,16.0,Hombres
+2211,31 Navarra,2017,17.0,Hombres
+2212,31 Navarra,2016,12.0,Hombres
+2213,31 Navarra,2015,21.0,Hombres
+2214,31 Navarra,2014,11.0,Hombres
+2215,31 Navarra,2013,16.0,Hombres
+2216,31 Navarra,2012,13.0,Hombres
+2217,31 Navarra,2011,11.0,Hombres
+2218,31 Navarra,2010,18.0,Hombres
+2219,31 Navarra,2009,16.0,Hombres
+2220,31 Navarra,2008,14.0,Hombres
+2221,31 Navarra,2007,15.0,Hombres
+2222,31 Navarra,2006,23.0,Hombres
+2223,31 Navarra,2005,11.0,Hombres
+2224,32 Ourense,2020,4.0,Hombres
+2225,32 Ourense,2019,8.0,Hombres
+2226,32 Ourense,2018,5.0,Hombres
+2227,32 Ourense,2017,8.0,Hombres
+2228,32 Ourense,2016,3.0,Hombres
+2229,32 Ourense,2015,6.0,Hombres
+2230,32 Ourense,2014,2.0,Hombres
+2231,32 Ourense,2013,4.0,Hombres
+2232,32 Ourense,2012,3.0,Hombres
+2233,32 Ourense,2011,1.0,Hombres
+2234,32 Ourense,2010,3.0,Hombres
+2235,32 Ourense,2009,2.0,Hombres
+2236,32 Ourense,2008,4.0,Hombres
+2237,32 Ourense,2007,3.0,Hombres
+2238,32 Ourense,2006,2.0,Hombres
+2239,32 Ourense,2005,,Hombres
+2240,34 Palencia,2020,4.0,Hombres
+2241,34 Palencia,2019,2.0,Hombres
+2242,34 Palencia,2018,6.0,Hombres
+2243,34 Palencia,2017,1.0,Hombres
+2244,34 Palencia,2016,,Hombres
+2245,34 Palencia,2015,1.0,Hombres
+2246,34 Palencia,2014,3.0,Hombres
+2247,34 Palencia,2013,,Hombres
+2248,34 Palencia,2012,3.0,Hombres
+2249,34 Palencia,2011,1.0,Hombres
+2250,34 Palencia,2010,3.0,Hombres
+2251,34 Palencia,2009,4.0,Hombres
+2252,34 Palencia,2008,,Hombres
+2253,34 Palencia,2007,1.0,Hombres
+2254,34 Palencia,2006,5.0,Hombres
+2255,34 Palencia,2005,4.0,Hombres
+2256,"35 Palmas, Las",2020,74.0,Hombres
+2257,"35 Palmas, Las",2019,115.0,Hombres
+2258,"35 Palmas, Las",2018,77.0,Hombres
+2259,"35 Palmas, Las",2017,91.0,Hombres
+2260,"35 Palmas, Las",2016,86.0,Hombres
+2261,"35 Palmas, Las",2015,70.0,Hombres
+2262,"35 Palmas, Las",2014,63.0,Hombres
+2263,"35 Palmas, Las",2013,63.0,Hombres
+2264,"35 Palmas, Las",2012,68.0,Hombres
+2265,"35 Palmas, Las",2011,58.0,Hombres
+2266,"35 Palmas, Las",2010,58.0,Hombres
+2267,"35 Palmas, Las",2009,67.0,Hombres
+2268,"35 Palmas, Las",2008,59.0,Hombres
+2269,"35 Palmas, Las",2007,91.0,Hombres
+2270,"35 Palmas, Las",2006,98.0,Hombres
+2271,"35 Palmas, Las",2005,22.0,Hombres
+2272,36 Pontevedra,2020,15.0,Hombres
+2273,36 Pontevedra,2019,22.0,Hombres
+2274,36 Pontevedra,2018,16.0,Hombres
+2275,36 Pontevedra,2017,14.0,Hombres
+2276,36 Pontevedra,2016,26.0,Hombres
+2277,36 Pontevedra,2015,10.0,Hombres
+2278,36 Pontevedra,2014,17.0,Hombres
+2279,36 Pontevedra,2013,21.0,Hombres
+2280,36 Pontevedra,2012,13.0,Hombres
+2281,36 Pontevedra,2011,20.0,Hombres
+2282,36 Pontevedra,2010,14.0,Hombres
+2283,36 Pontevedra,2009,13.0,Hombres
+2284,36 Pontevedra,2008,16.0,Hombres
+2285,36 Pontevedra,2007,17.0,Hombres
+2286,36 Pontevedra,2006,18.0,Hombres
+2287,36 Pontevedra,2005,9.0,Hombres
+2288,"26 Rioja, La",2020,5.0,Hombres
+2289,"26 Rioja, La",2019,9.0,Hombres
+2290,"26 Rioja, La",2018,13.0,Hombres
+2291,"26 Rioja, La",2017,8.0,Hombres
+2292,"26 Rioja, La",2016,8.0,Hombres
+2293,"26 Rioja, La",2015,8.0,Hombres
+2294,"26 Rioja, La",2014,4.0,Hombres
+2295,"26 Rioja, La",2013,4.0,Hombres
+2296,"26 Rioja, La",2012,11.0,Hombres
+2297,"26 Rioja, La",2011,14.0,Hombres
+2298,"26 Rioja, La",2010,4.0,Hombres
+2299,"26 Rioja, La",2009,6.0,Hombres
+2300,"26 Rioja, La",2008,5.0,Hombres
+2301,"26 Rioja, La",2007,6.0,Hombres
+2302,"26 Rioja, La",2006,9.0,Hombres
+2303,"26 Rioja, La",2005,2.0,Hombres
+2304,37 Salamanca,2020,5.0,Hombres
+2305,37 Salamanca,2019,12.0,Hombres
+2306,37 Salamanca,2018,7.0,Hombres
+2307,37 Salamanca,2017,4.0,Hombres
+2308,37 Salamanca,2016,6.0,Hombres
+2309,37 Salamanca,2015,6.0,Hombres
+2310,37 Salamanca,2014,4.0,Hombres
+2311,37 Salamanca,2013,7.0,Hombres
+2312,37 Salamanca,2012,5.0,Hombres
+2313,37 Salamanca,2011,5.0,Hombres
+2314,37 Salamanca,2010,3.0,Hombres
+2315,37 Salamanca,2009,4.0,Hombres
+2316,37 Salamanca,2008,4.0,Hombres
+2317,37 Salamanca,2007,10.0,Hombres
+2318,37 Salamanca,2006,9.0,Hombres
+2319,37 Salamanca,2005,3.0,Hombres
+2320,38 Santa Cruz de Tenerife,2020,59.0,Hombres
+2321,38 Santa Cruz de Tenerife,2019,92.0,Hombres
+2322,38 Santa Cruz de Tenerife,2018,75.0,Hombres
+2323,38 Santa Cruz de Tenerife,2017,75.0,Hombres
+2324,38 Santa Cruz de Tenerife,2016,68.0,Hombres
+2325,38 Santa Cruz de Tenerife,2015,54.0,Hombres
+2326,38 Santa Cruz de Tenerife,2014,56.0,Hombres
+2327,38 Santa Cruz de Tenerife,2013,35.0,Hombres
+2328,38 Santa Cruz de Tenerife,2012,53.0,Hombres
+2329,38 Santa Cruz de Tenerife,2011,52.0,Hombres
+2330,38 Santa Cruz de Tenerife,2010,55.0,Hombres
+2331,38 Santa Cruz de Tenerife,2009,55.0,Hombres
+2332,38 Santa Cruz de Tenerife,2008,46.0,Hombres
+2333,38 Santa Cruz de Tenerife,2007,56.0,Hombres
+2334,38 Santa Cruz de Tenerife,2006,95.0,Hombres
+2335,38 Santa Cruz de Tenerife,2005,31.0,Hombres
+2336,40 Segovia,2020,,Hombres
+2337,40 Segovia,2019,5.0,Hombres
+2338,40 Segovia,2018,1.0,Hombres
+2339,40 Segovia,2017,3.0,Hombres
+2340,40 Segovia,2016,2.0,Hombres
+2341,40 Segovia,2015,7.0,Hombres
+2342,40 Segovia,2014,1.0,Hombres
+2343,40 Segovia,2013,3.0,Hombres
+2344,40 Segovia,2012,1.0,Hombres
+2345,40 Segovia,2011,3.0,Hombres
+2346,40 Segovia,2010,2.0,Hombres
+2347,40 Segovia,2009,2.0,Hombres
+2348,40 Segovia,2008,3.0,Hombres
+2349,40 Segovia,2007,2.0,Hombres
+2350,40 Segovia,2006,2.0,Hombres
+2351,40 Segovia,2005,3.0,Hombres
+2352,41 Sevilla,2020,64.0,Hombres
+2353,41 Sevilla,2019,107.0,Hombres
+2354,41 Sevilla,2018,86.0,Hombres
+2355,41 Sevilla,2017,91.0,Hombres
+2356,41 Sevilla,2016,81.0,Hombres
+2357,41 Sevilla,2015,60.0,Hombres
+2358,41 Sevilla,2014,54.0,Hombres
+2359,41 Sevilla,2013,61.0,Hombres
+2360,41 Sevilla,2012,63.0,Hombres
+2361,41 Sevilla,2011,72.0,Hombres
+2362,41 Sevilla,2010,59.0,Hombres
+2363,41 Sevilla,2009,61.0,Hombres
+2364,41 Sevilla,2008,60.0,Hombres
+2365,41 Sevilla,2007,94.0,Hombres
+2366,41 Sevilla,2006,112.0,Hombres
+2367,41 Sevilla,2005,33.0,Hombres
+2368,42 Soria,2020,,Hombres
+2369,42 Soria,2019,5.0,Hombres
+2370,42 Soria,2018,1.0,Hombres
+2371,42 Soria,2017,1.0,Hombres
+2372,42 Soria,2016,2.0,Hombres
+2373,42 Soria,2015,2.0,Hombres
+2374,42 Soria,2014,1.0,Hombres
+2375,42 Soria,2013,1.0,Hombres
+2376,42 Soria,2012,3.0,Hombres
+2377,42 Soria,2011,,Hombres
+2378,42 Soria,2010,1.0,Hombres
+2379,42 Soria,2009,,Hombres
+2380,42 Soria,2008,,Hombres
+2381,42 Soria,2007,1.0,Hombres
+2382,42 Soria,2006,,Hombres
+2383,42 Soria,2005,,Hombres
+2384,43 Tarragona,2020,17.0,Hombres
+2385,43 Tarragona,2019,33.0,Hombres
+2386,43 Tarragona,2018,33.0,Hombres
+2387,43 Tarragona,2017,40.0,Hombres
+2388,43 Tarragona,2016,36.0,Hombres
+2389,43 Tarragona,2015,27.0,Hombres
+2390,43 Tarragona,2014,22.0,Hombres
+2391,43 Tarragona,2013,31.0,Hombres
+2392,43 Tarragona,2012,24.0,Hombres
+2393,43 Tarragona,2011,34.0,Hombres
+2394,43 Tarragona,2010,40.0,Hombres
+2395,43 Tarragona,2009,29.0,Hombres
+2396,43 Tarragona,2008,44.0,Hombres
+2397,43 Tarragona,2007,34.0,Hombres
+2398,43 Tarragona,2006,39.0,Hombres
+2399,43 Tarragona,2005,10.0,Hombres
+2400,44 Teruel,2020,1.0,Hombres
+2401,44 Teruel,2019,1.0,Hombres
+2402,44 Teruel,2018,1.0,Hombres
+2403,44 Teruel,2017,,Hombres
+2404,44 Teruel,2016,1.0,Hombres
+2405,44 Teruel,2015,2.0,Hombres
+2406,44 Teruel,2014,,Hombres
+2407,44 Teruel,2013,3.0,Hombres
+2408,44 Teruel,2012,1.0,Hombres
+2409,44 Teruel,2011,,Hombres
+2410,44 Teruel,2010,,Hombres
+2411,44 Teruel,2009,4.0,Hombres
+2412,44 Teruel,2008,,Hombres
+2413,44 Teruel,2007,,Hombres
+2414,44 Teruel,2006,1.0,Hombres
+2415,44 Teruel,2005,1.0,Hombres
+2416,45 Toledo,2020,14.0,Hombres
+2417,45 Toledo,2019,26.0,Hombres
+2418,45 Toledo,2018,19.0,Hombres
+2419,45 Toledo,2017,22.0,Hombres
+2420,45 Toledo,2016,12.0,Hombres
+2421,45 Toledo,2015,19.0,Hombres
+2422,45 Toledo,2014,9.0,Hombres
+2423,45 Toledo,2013,12.0,Hombres
+2424,45 Toledo,2012,22.0,Hombres
+2425,45 Toledo,2011,22.0,Hombres
+2426,45 Toledo,2010,9.0,Hombres
+2427,45 Toledo,2009,7.0,Hombres
+2428,45 Toledo,2008,15.0,Hombres
+2429,45 Toledo,2007,8.0,Hombres
+2430,45 Toledo,2006,9.0,Hombres
+2431,45 Toledo,2005,4.0,Hombres
+2432,46 Valencia/València,2020,114.0,Hombres
+2433,46 Valencia/València,2019,150.0,Hombres
+2434,46 Valencia/València,2018,138.0,Hombres
+2435,46 Valencia/València,2017,131.0,Hombres
+2436,46 Valencia/València,2016,137.0,Hombres
+2437,46 Valencia/València,2015,139.0,Hombres
+2438,46 Valencia/València,2014,107.0,Hombres
+2439,46 Valencia/València,2013,95.0,Hombres
+2440,46 Valencia/València,2012,137.0,Hombres
+2441,46 Valencia/València,2011,125.0,Hombres
+2442,46 Valencia/València,2010,93.0,Hombres
+2443,46 Valencia/València,2009,145.0,Hombres
+2444,46 Valencia/València,2008,126.0,Hombres
+2445,46 Valencia/València,2007,158.0,Hombres
+2446,46 Valencia/València,2006,207.0,Hombres
+2447,46 Valencia/València,2005,101.0,Hombres
+2448,47 Valladolid,2020,6.0,Hombres
+2449,47 Valladolid,2019,20.0,Hombres
+2450,47 Valladolid,2018,16.0,Hombres
+2451,47 Valladolid,2017,8.0,Hombres
+2452,47 Valladolid,2016,12.0,Hombres
+2453,47 Valladolid,2015,9.0,Hombres
+2454,47 Valladolid,2014,14.0,Hombres
+2455,47 Valladolid,2013,8.0,Hombres
+2456,47 Valladolid,2012,10.0,Hombres
+2457,47 Valladolid,2011,9.0,Hombres
+2458,47 Valladolid,2010,9.0,Hombres
+2459,47 Valladolid,2009,8.0,Hombres
+2460,47 Valladolid,2008,10.0,Hombres
+2461,47 Valladolid,2007,6.0,Hombres
+2462,47 Valladolid,2006,11.0,Hombres
+2463,47 Valladolid,2005,1.0,Hombres
+2464,49 Zamora,2020,,Hombres
+2465,49 Zamora,2019,3.0,Hombres
+2466,49 Zamora,2018,1.0,Hombres
+2467,49 Zamora,2017,3.0,Hombres
+2468,49 Zamora,2016,1.0,Hombres
+2469,49 Zamora,2015,2.0,Hombres
+2470,49 Zamora,2014,2.0,Hombres
+2471,49 Zamora,2013,1.0,Hombres
+2472,49 Zamora,2012,1.0,Hombres
+2473,49 Zamora,2011,1.0,Hombres
+2474,49 Zamora,2010,1.0,Hombres
+2475,49 Zamora,2009,1.0,Hombres
+2476,49 Zamora,2008,2.0,Hombres
+2477,49 Zamora,2007,,Hombres
+2478,49 Zamora,2006,2.0,Hombres
+2479,49 Zamora,2005,1.0,Hombres
+2480,50 Zaragoza,2020,21.0,Hombres
+2481,50 Zaragoza,2019,32.0,Hombres
+2482,50 Zaragoza,2018,30.0,Hombres
+2483,50 Zaragoza,2017,32.0,Hombres
+2484,50 Zaragoza,2016,25.0,Hombres
+2485,50 Zaragoza,2015,24.0,Hombres
+2486,50 Zaragoza,2014,24.0,Hombres
+2487,50 Zaragoza,2013,21.0,Hombres
+2488,50 Zaragoza,2012,25.0,Hombres
+2489,50 Zaragoza,2011,19.0,Hombres
+2490,50 Zaragoza,2010,17.0,Hombres
+2491,50 Zaragoza,2009,19.0,Hombres
+2492,50 Zaragoza,2008,20.0,Hombres
+2493,50 Zaragoza,2007,22.0,Hombres
+2494,50 Zaragoza,2006,49.0,Hombres
+2495,50 Zaragoza,2005,9.0,Hombres
+2496,51 Ceuta,2020,3.0,Hombres
+2497,51 Ceuta,2019,4.0,Hombres
+2498,51 Ceuta,2018,2.0,Hombres
+2499,51 Ceuta,2017,1.0,Hombres
+2500,51 Ceuta,2016,2.0,Hombres
+2501,51 Ceuta,2015,1.0,Hombres
+2502,51 Ceuta,2014,,Hombres
+2503,51 Ceuta,2013,,Hombres
+2504,51 Ceuta,2012,,Hombres
+2505,51 Ceuta,2011,2.0,Hombres
+2506,51 Ceuta,2010,2.0,Hombres
+2507,51 Ceuta,2009,1.0,Hombres
+2508,51 Ceuta,2008,2.0,Hombres
+2509,51 Ceuta,2007,,Hombres
+2510,51 Ceuta,2006,,Hombres
+2511,51 Ceuta,2005,1.0,Hombres
+2512,52 Melilla,2020,,Hombres
+2513,52 Melilla,2019,2.0,Hombres
+2514,52 Melilla,2018,,Hombres
+2515,52 Melilla,2017,1.0,Hombres
+2516,52 Melilla,2016,1.0,Hombres
+2517,52 Melilla,2015,1.0,Hombres
+2518,52 Melilla,2014,,Hombres
+2519,52 Melilla,2013,1.0,Hombres
+2520,52 Melilla,2012,,Hombres
+2521,52 Melilla,2011,1.0,Hombres
+2522,52 Melilla,2010,1.0,Hombres
+2523,52 Melilla,2009,1.0,Hombres
+2524,52 Melilla,2008,1.0,Hombres
+2525,52 Melilla,2007,2.0,Hombres
+2526,52 Melilla,2006,1.0,Hombres
+2527,52 Melilla,2005,,Hombres
+2528,No residente,2020,17.0,Hombres
+2529,No residente,2019,19.0,Hombres
+2530,No residente,2018,23.0,Hombres
+2531,No residente,2017,29.0,Hombres
+2532,No residente,2016,25.0,Hombres
+2533,No residente,2015,30.0,Hombres
+2534,No residente,2014,39.0,Hombres
+2535,No residente,2013,27.0,Hombres
+2536,No residente,2012,29.0,Hombres
+2537,No residente,2011,23.0,Hombres
+2538,No residente,2010,35.0,Hombres
+2539,No residente,2009,24.0,Hombres
+2540,No residente,2008,25.0,Hombres
+2541,No residente,2007,34.0,Hombres
+2542,No residente,2006,36.0,Hombres
+2543,No residente,2005,13.0,Hombres
