@@ -1,2459 +1,2459 @@
-,Provincias,Periodo,Total,Sexo
-0,02 Albacete,2020,552,Mujer-Hombre
-1,02 Albacete,2019,1203,Mujer-Hombre
-2,02 Albacete,2018,1267,Mujer-Hombre
-3,02 Albacete,2017,1367,Mujer-Hombre
-4,02 Albacete,2016,1417,Mujer-Hombre
-5,02 Albacete,2015,1344,Mujer-Hombre
-6,02 Albacete,2014,1300,Mujer-Hombre
-7,02 Albacete,2013,1191,Mujer-Hombre
-8,02 Albacete,2012,1345,Mujer-Hombre
-9,02 Albacete,2011,1309,Mujer-Hombre
-10,02 Albacete,2010,1346,Mujer-Hombre
-11,02 Albacete,2009,1399,Mujer-Hombre
-12,02 Albacete,2008,1483,Mujer-Hombre
-13,02 Albacete,2007,1628,Mujer-Hombre
-14,02 Albacete,2006,1661,Mujer-Hombre
-15,02 Albacete,2005,1720,Mujer-Hombre
-16,03 Alicante/Alacant,2020,3828,Mujer-Hombre
-17,03 Alicante/Alacant,2019,6013,Mujer-Hombre
-18,03 Alicante/Alacant,2018,6273,Mujer-Hombre
-19,03 Alicante/Alacant,2017,6590,Mujer-Hombre
-20,03 Alicante/Alacant,2016,6576,Mujer-Hombre
-21,03 Alicante/Alacant,2015,5977,Mujer-Hombre
-22,03 Alicante/Alacant,2014,5754,Mujer-Hombre
-23,03 Alicante/Alacant,2013,5318,Mujer-Hombre
-24,03 Alicante/Alacant,2012,5538,Mujer-Hombre
-25,03 Alicante/Alacant,2011,5344,Mujer-Hombre
-26,03 Alicante/Alacant,2010,5466,Mujer-Hombre
-27,03 Alicante/Alacant,2009,5877,Mujer-Hombre
-28,03 Alicante/Alacant,2008,6921,Mujer-Hombre
-29,03 Alicante/Alacant,2007,7350,Mujer-Hombre
-30,03 Alicante/Alacant,2006,7606,Mujer-Hombre
-31,03 Alicante/Alacant,2005,7935,Mujer-Hombre
-32,04 Almería,2020,1143,Mujer-Hombre
-33,04 Almería,2019,2091,Mujer-Hombre
-34,04 Almería,2018,2139,Mujer-Hombre
-35,04 Almería,2017,2136,Mujer-Hombre
-36,04 Almería,2016,2216,Mujer-Hombre
-37,04 Almería,2015,2082,Mujer-Hombre
-38,04 Almería,2014,1977,Mujer-Hombre
-39,04 Almería,2013,1954,Mujer-Hombre
-40,04 Almería,2012,2293,Mujer-Hombre
-41,04 Almería,2011,2048,Mujer-Hombre
-42,04 Almería,2010,2128,Mujer-Hombre
-43,04 Almería,2009,2379,Mujer-Hombre
-44,04 Almería,2008,2759,Mujer-Hombre
-45,04 Almería,2007,2836,Mujer-Hombre
-46,04 Almería,2006,3015,Mujer-Hombre
-47,04 Almería,2005,2973,Mujer-Hombre
-48,01 Araba/Álava,2020,516,Mujer-Hombre
-49,01 Araba/Álava,2019,1004,Mujer-Hombre
-50,01 Araba/Álava,2018,1092,Mujer-Hombre
-51,01 Araba/Álava,2017,1067,Mujer-Hombre
-52,01 Araba/Álava,2016,1111,Mujer-Hombre
-53,01 Araba/Álava,2015,1187,Mujer-Hombre
-54,01 Araba/Álava,2014,1191,Mujer-Hombre
-55,01 Araba/Álava,2013,1080,Mujer-Hombre
-56,01 Araba/Álava,2012,1186,Mujer-Hombre
-57,01 Araba/Álava,2011,1140,Mujer-Hombre
-58,01 Araba/Álava,2010,1258,Mujer-Hombre
-59,01 Araba/Álava,2009,1205,Mujer-Hombre
-60,01 Araba/Álava,2008,1240,Mujer-Hombre
-61,01 Araba/Álava,2007,1216,Mujer-Hombre
-62,01 Araba/Álava,2006,1263,Mujer-Hombre
-63,01 Araba/Álava,2005,1277,Mujer-Hombre
-64,33 Asturias,2020,1807,Mujer-Hombre
-65,33 Asturias,2019,3255,Mujer-Hombre
-66,33 Asturias,2018,3425,Mujer-Hombre
-67,33 Asturias,2017,3569,Mujer-Hombre
-68,33 Asturias,2016,3679,Mujer-Hombre
-69,33 Asturias,2015,3483,Mujer-Hombre
-70,33 Asturias,2014,3498,Mujer-Hombre
-71,33 Asturias,2013,3327,Mujer-Hombre
-72,33 Asturias,2012,3968,Mujer-Hombre
-73,33 Asturias,2011,3884,Mujer-Hombre
-74,33 Asturias,2010,4233,Mujer-Hombre
-75,33 Asturias,2009,4485,Mujer-Hombre
-76,33 Asturias,2008,4775,Mujer-Hombre
-77,33 Asturias,2007,4857,Mujer-Hombre
-78,33 Asturias,2006,4810,Mujer-Hombre
-79,33 Asturias,2005,4905,Mujer-Hombre
-80,05 Ávila,2020,234,Mujer-Hombre
-81,05 Ávila,2019,437,Mujer-Hombre
-82,05 Ávila,2018,436,Mujer-Hombre
-83,05 Ávila,2017,435,Mujer-Hombre
-84,05 Ávila,2016,460,Mujer-Hombre
-85,05 Ávila,2015,434,Mujer-Hombre
-86,05 Ávila,2014,425,Mujer-Hombre
-87,05 Ávila,2013,433,Mujer-Hombre
-88,05 Ávila,2012,465,Mujer-Hombre
-89,05 Ávila,2011,466,Mujer-Hombre
-90,05 Ávila,2010,500,Mujer-Hombre
-91,05 Ávila,2009,531,Mujer-Hombre
-92,05 Ávila,2008,596,Mujer-Hombre
-93,05 Ávila,2007,579,Mujer-Hombre
-94,05 Ávila,2006,594,Mujer-Hombre
-95,05 Ávila,2005,588,Mujer-Hombre
-96,06 Badajoz,2020,996,Mujer-Hombre
-97,06 Badajoz,2019,2166,Mujer-Hombre
-98,06 Badajoz,2018,2156,Mujer-Hombre
-99,06 Badajoz,2017,2304,Mujer-Hombre
-100,06 Badajoz,2016,2311,Mujer-Hombre
-101,06 Badajoz,2015,2271,Mujer-Hombre
-102,06 Badajoz,2014,2160,Mujer-Hombre
-103,06 Badajoz,2013,2044,Mujer-Hombre
-104,06 Badajoz,2012,2452,Mujer-Hombre
-105,06 Badajoz,2011,2368,Mujer-Hombre
-106,06 Badajoz,2010,2682,Mujer-Hombre
-107,06 Badajoz,2009,2832,Mujer-Hombre
-108,06 Badajoz,2008,2917,Mujer-Hombre
-109,06 Badajoz,2007,2892,Mujer-Hombre
-110,06 Badajoz,2006,3083,Mujer-Hombre
-111,06 Badajoz,2005,3050,Mujer-Hombre
-112,"07 Balears, Illes",2020,2847,Mujer-Hombre
-113,"07 Balears, Illes",2019,4880,Mujer-Hombre
-114,"07 Balears, Illes",2018,4615,Mujer-Hombre
-115,"07 Balears, Illes",2017,4570,Mujer-Hombre
-116,"07 Balears, Illes",2016,4593,Mujer-Hombre
-117,"07 Balears, Illes",2015,4496,Mujer-Hombre
-118,"07 Balears, Illes",2014,4104,Mujer-Hombre
-119,"07 Balears, Illes",2013,3942,Mujer-Hombre
-120,"07 Balears, Illes",2012,3925,Mujer-Hombre
-121,"07 Balears, Illes",2011,3950,Mujer-Hombre
-122,"07 Balears, Illes",2010,3947,Mujer-Hombre
-123,"07 Balears, Illes",2009,4151,Mujer-Hombre
-124,"07 Balears, Illes",2008,4138,Mujer-Hombre
-125,"07 Balears, Illes",2007,4345,Mujer-Hombre
-126,"07 Balears, Illes",2006,4260,Mujer-Hombre
-127,"07 Balears, Illes",2005,4267,Mujer-Hombre
-128,08 Barcelona,2020,10954,Mujer-Hombre
-129,08 Barcelona,2019,19122,Mujer-Hombre
-130,08 Barcelona,2018,20014,Mujer-Hombre
-131,08 Barcelona,2017,21223,Mujer-Hombre
-132,08 Barcelona,2016,21230,Mujer-Hombre
-133,08 Barcelona,2015,19812,Mujer-Hombre
-134,08 Barcelona,2014,19181,Mujer-Hombre
-135,08 Barcelona,2013,18795,Mujer-Hombre
-136,08 Barcelona,2012,19757,Mujer-Hombre
-137,08 Barcelona,2011,19066,Mujer-Hombre
-138,08 Barcelona,2010,20162,Mujer-Hombre
-139,08 Barcelona,2009,20303,Mujer-Hombre
-140,08 Barcelona,2008,22430,Mujer-Hombre
-141,08 Barcelona,2007,22382,Mujer-Hombre
-142,08 Barcelona,2006,22831,Mujer-Hombre
-143,08 Barcelona,2005,24133,Mujer-Hombre
-144,48 Bizkaia,2020,1881,Mujer-Hombre
-145,48 Bizkaia,2019,3529,Mujer-Hombre
-146,48 Bizkaia,2018,3561,Mujer-Hombre
-147,48 Bizkaia,2017,3790,Mujer-Hombre
-148,48 Bizkaia,2016,3777,Mujer-Hombre
-149,48 Bizkaia,2015,3608,Mujer-Hombre
-150,48 Bizkaia,2014,3599,Mujer-Hombre
-151,48 Bizkaia,2013,3632,Mujer-Hombre
-152,48 Bizkaia,2012,4094,Mujer-Hombre
-153,48 Bizkaia,2011,4204,Mujer-Hombre
-154,48 Bizkaia,2010,4297,Mujer-Hombre
-155,48 Bizkaia,2009,4307,Mujer-Hombre
-156,48 Bizkaia,2008,4731,Mujer-Hombre
-157,48 Bizkaia,2007,4753,Mujer-Hombre
-158,48 Bizkaia,2006,4740,Mujer-Hombre
-159,48 Bizkaia,2005,4979,Mujer-Hombre
-160,09 Burgos,2020,514,Mujer-Hombre
-161,09 Burgos,2019,1051,Mujer-Hombre
-162,09 Burgos,2018,1050,Mujer-Hombre
-163,09 Burgos,2017,1129,Mujer-Hombre
-164,09 Burgos,2016,1082,Mujer-Hombre
-165,09 Burgos,2015,1098,Mujer-Hombre
-166,09 Burgos,2014,1043,Mujer-Hombre
-167,09 Burgos,2013,1047,Mujer-Hombre
-168,09 Burgos,2012,1192,Mujer-Hombre
-169,09 Burgos,2011,1137,Mujer-Hombre
-170,09 Burgos,2010,1287,Mujer-Hombre
-171,09 Burgos,2009,1245,Mujer-Hombre
-172,09 Burgos,2008,1365,Mujer-Hombre
-173,09 Burgos,2007,1447,Mujer-Hombre
-174,09 Burgos,2006,1407,Mujer-Hombre
-175,09 Burgos,2005,1430,Mujer-Hombre
-176,10 Cáceres,2020,552,Mujer-Hombre
-177,10 Cáceres,2019,1112,Mujer-Hombre
-178,10 Cáceres,2018,1110,Mujer-Hombre
-179,10 Cáceres,2017,1159,Mujer-Hombre
-180,10 Cáceres,2016,1274,Mujer-Hombre
-181,10 Cáceres,2015,1172,Mujer-Hombre
-182,10 Cáceres,2014,1138,Mujer-Hombre
-183,10 Cáceres,2013,1066,Mujer-Hombre
-184,10 Cáceres,2012,1192,Mujer-Hombre
-185,10 Cáceres,2011,1143,Mujer-Hombre
-186,10 Cáceres,2010,1167,Mujer-Hombre
-187,10 Cáceres,2009,1346,Mujer-Hombre
-188,10 Cáceres,2008,1481,Mujer-Hombre
-189,10 Cáceres,2007,1527,Mujer-Hombre
-190,10 Cáceres,2006,1588,Mujer-Hombre
-191,10 Cáceres,2005,1537,Mujer-Hombre
-192,11 Cádiz,2020,2408,Mujer-Hombre
-193,11 Cádiz,2019,4900,Mujer-Hombre
-194,11 Cádiz,2018,4446,Mujer-Hombre
-195,11 Cádiz,2017,4708,Mujer-Hombre
-196,11 Cádiz,2016,4703,Mujer-Hombre
-197,11 Cádiz,2015,4573,Mujer-Hombre
-198,11 Cádiz,2014,4251,Mujer-Hombre
-199,11 Cádiz,2013,3911,Mujer-Hombre
-200,11 Cádiz,2012,4383,Mujer-Hombre
-201,11 Cádiz,2011,4054,Mujer-Hombre
-202,11 Cádiz,2010,4263,Mujer-Hombre
-203,11 Cádiz,2009,4635,Mujer-Hombre
-204,11 Cádiz,2008,5587,Mujer-Hombre
-205,11 Cádiz,2007,5892,Mujer-Hombre
-206,11 Cádiz,2006,6253,Mujer-Hombre
-207,11 Cádiz,2005,6728,Mujer-Hombre
-208,39 Cantabria,2020,1111,Mujer-Hombre
-209,39 Cantabria,2019,1951,Mujer-Hombre
-210,39 Cantabria,2018,2067,Mujer-Hombre
-211,39 Cantabria,2017,2079,Mujer-Hombre
-212,39 Cantabria,2016,2228,Mujer-Hombre
-213,39 Cantabria,2015,2124,Mujer-Hombre
-214,39 Cantabria,2014,2069,Mujer-Hombre
-215,39 Cantabria,2013,1936,Mujer-Hombre
-216,39 Cantabria,2012,2326,Mujer-Hombre
-217,39 Cantabria,2011,2184,Mujer-Hombre
-218,39 Cantabria,2010,2500,Mujer-Hombre
-219,39 Cantabria,2009,2581,Mujer-Hombre
-220,39 Cantabria,2008,2936,Mujer-Hombre
-221,39 Cantabria,2007,2948,Mujer-Hombre
-222,39 Cantabria,2006,2822,Mujer-Hombre
-223,39 Cantabria,2005,2876,Mujer-Hombre
-224,12 Castellón/Castelló,2020,1123,Mujer-Hombre
-225,12 Castellón/Castelló,2019,2029,Mujer-Hombre
-226,12 Castellón/Castelló,2018,1892,Mujer-Hombre
-227,12 Castellón/Castelló,2017,2022,Mujer-Hombre
-228,12 Castellón/Castelló,2016,2007,Mujer-Hombre
-229,12 Castellón/Castelló,2015,1992,Mujer-Hombre
-230,12 Castellón/Castelló,2014,1922,Mujer-Hombre
-231,12 Castellón/Castelló,2013,1763,Mujer-Hombre
-232,12 Castellón/Castelló,2012,1880,Mujer-Hombre
-233,12 Castellón/Castelló,2011,1805,Mujer-Hombre
-234,12 Castellón/Castelló,2010,2037,Mujer-Hombre
-235,12 Castellón/Castelló,2009,2135,Mujer-Hombre
-236,12 Castellón/Castelló,2008,2484,Mujer-Hombre
-237,12 Castellón/Castelló,2007,2695,Mujer-Hombre
-238,12 Castellón/Castelló,2006,2638,Mujer-Hombre
-239,12 Castellón/Castelló,2005,2708,Mujer-Hombre
-240,13 Ciudad Real,2020,654,Mujer-Hombre
-241,13 Ciudad Real,2019,1643,Mujer-Hombre
-242,13 Ciudad Real,2018,1698,Mujer-Hombre
-243,13 Ciudad Real,2017,1659,Mujer-Hombre
-244,13 Ciudad Real,2016,1722,Mujer-Hombre
-245,13 Ciudad Real,2015,1651,Mujer-Hombre
-246,13 Ciudad Real,2014,1557,Mujer-Hombre
-247,13 Ciudad Real,2013,1527,Mujer-Hombre
-248,13 Ciudad Real,2012,1731,Mujer-Hombre
-249,13 Ciudad Real,2011,1633,Mujer-Hombre
-250,13 Ciudad Real,2010,1748,Mujer-Hombre
-251,13 Ciudad Real,2009,1918,Mujer-Hombre
-252,13 Ciudad Real,2008,2228,Mujer-Hombre
-253,13 Ciudad Real,2007,2321,Mujer-Hombre
-254,13 Ciudad Real,2006,2257,Mujer-Hombre
-255,13 Ciudad Real,2005,2330,Mujer-Hombre
-256,14 Córdoba,2020,1193,Mujer-Hombre
-257,14 Córdoba,2019,2750,Mujer-Hombre
-258,14 Córdoba,2018,2769,Mujer-Hombre
-259,14 Córdoba,2017,2841,Mujer-Hombre
-260,14 Córdoba,2016,2952,Mujer-Hombre
-261,14 Córdoba,2015,2701,Mujer-Hombre
-262,14 Córdoba,2014,2550,Mujer-Hombre
-263,14 Córdoba,2013,2336,Mujer-Hombre
-264,14 Córdoba,2012,2708,Mujer-Hombre
-265,14 Córdoba,2011,2760,Mujer-Hombre
-266,14 Córdoba,2010,2911,Mujer-Hombre
-267,14 Córdoba,2009,3290,Mujer-Hombre
-268,14 Córdoba,2008,3893,Mujer-Hombre
-269,14 Córdoba,2007,3971,Mujer-Hombre
-270,14 Córdoba,2006,4042,Mujer-Hombre
-271,14 Córdoba,2005,3979,Mujer-Hombre
-272,"15 Coruña, A",2020,2400,Mujer-Hombre
-273,"15 Coruña, A",2019,4034,Mujer-Hombre
-274,"15 Coruña, A",2018,3879,Mujer-Hombre
-275,"15 Coruña, A",2017,4055,Mujer-Hombre
-276,"15 Coruña, A",2016,4120,Mujer-Hombre
-277,"15 Coruña, A",2015,4120,Mujer-Hombre
-278,"15 Coruña, A",2014,3963,Mujer-Hombre
-279,"15 Coruña, A",2013,3789,Mujer-Hombre
-280,"15 Coruña, A",2012,4292,Mujer-Hombre
-281,"15 Coruña, A",2011,4077,Mujer-Hombre
-282,"15 Coruña, A",2010,4290,Mujer-Hombre
-283,"15 Coruña, A",2009,4397,Mujer-Hombre
-284,"15 Coruña, A",2008,4741,Mujer-Hombre
-285,"15 Coruña, A",2007,4749,Mujer-Hombre
-286,"15 Coruña, A",2006,4776,Mujer-Hombre
-287,"15 Coruña, A",2005,4683,Mujer-Hombre
-288,16 Cuenca,2020,243,Mujer-Hombre
-289,16 Cuenca,2019,547,Mujer-Hombre
-290,16 Cuenca,2018,567,Mujer-Hombre
-291,16 Cuenca,2017,489,Mujer-Hombre
-292,16 Cuenca,2016,544,Mujer-Hombre
-293,16 Cuenca,2015,582,Mujer-Hombre
-294,16 Cuenca,2014,566,Mujer-Hombre
-295,16 Cuenca,2013,553,Mujer-Hombre
-296,16 Cuenca,2012,609,Mujer-Hombre
-297,16 Cuenca,2011,557,Mujer-Hombre
-298,16 Cuenca,2010,592,Mujer-Hombre
-299,16 Cuenca,2009,572,Mujer-Hombre
-300,16 Cuenca,2008,688,Mujer-Hombre
-301,16 Cuenca,2007,699,Mujer-Hombre
-302,16 Cuenca,2006,699,Mujer-Hombre
-303,16 Cuenca,2005,738,Mujer-Hombre
-304,20 Gipuzkoa,2020,1332,Mujer-Hombre
-305,20 Gipuzkoa,2019,2496,Mujer-Hombre
-306,20 Gipuzkoa,2018,2484,Mujer-Hombre
-307,20 Gipuzkoa,2017,2581,Mujer-Hombre
-308,20 Gipuzkoa,2016,2492,Mujer-Hombre
-309,20 Gipuzkoa,2015,2450,Mujer-Hombre
-310,20 Gipuzkoa,2014,2504,Mujer-Hombre
-311,20 Gipuzkoa,2013,2477,Mujer-Hombre
-312,20 Gipuzkoa,2012,2659,Mujer-Hombre
-313,20 Gipuzkoa,2011,2742,Mujer-Hombre
-314,20 Gipuzkoa,2010,2825,Mujer-Hombre
-315,20 Gipuzkoa,2009,2981,Mujer-Hombre
-316,20 Gipuzkoa,2008,3068,Mujer-Hombre
-317,20 Gipuzkoa,2007,3093,Mujer-Hombre
-318,20 Gipuzkoa,2006,3191,Mujer-Hombre
-319,20 Gipuzkoa,2005,3300,Mujer-Hombre
-320,17 Girona,2020,1600,Mujer-Hombre
-321,17 Girona,2019,2820,Mujer-Hombre
-322,17 Girona,2018,2770,Mujer-Hombre
-323,17 Girona,2017,2810,Mujer-Hombre
-324,17 Girona,2016,2776,Mujer-Hombre
-325,17 Girona,2015,2838,Mujer-Hombre
-326,17 Girona,2014,2815,Mujer-Hombre
-327,17 Girona,2013,2597,Mujer-Hombre
-328,17 Girona,2012,2526,Mujer-Hombre
-329,17 Girona,2011,2534,Mujer-Hombre
-330,17 Girona,2010,2499,Mujer-Hombre
-331,17 Girona,2009,2674,Mujer-Hombre
-332,17 Girona,2008,2840,Mujer-Hombre
-333,17 Girona,2007,2865,Mujer-Hombre
-334,17 Girona,2006,2853,Mujer-Hombre
-335,17 Girona,2005,2826,Mujer-Hombre
-336,18 Granada,2020,1448,Mujer-Hombre
-337,18 Granada,2019,3078,Mujer-Hombre
-338,18 Granada,2018,2986,Mujer-Hombre
-339,18 Granada,2017,3125,Mujer-Hombre
-340,18 Granada,2016,3183,Mujer-Hombre
-341,18 Granada,2015,3137,Mujer-Hombre
-342,18 Granada,2014,3099,Mujer-Hombre
-343,18 Granada,2013,2747,Mujer-Hombre
-344,18 Granada,2012,3020,Mujer-Hombre
-345,18 Granada,2011,2814,Mujer-Hombre
-346,18 Granada,2010,2976,Mujer-Hombre
-347,18 Granada,2009,3201,Mujer-Hombre
-348,18 Granada,2008,3783,Mujer-Hombre
-349,18 Granada,2007,4177,Mujer-Hombre
-350,18 Granada,2006,4084,Mujer-Hombre
-351,18 Granada,2005,4281,Mujer-Hombre
-352,19 Guadalajara,2020,520,Mujer-Hombre
-353,19 Guadalajara,2019,953,Mujer-Hombre
-354,19 Guadalajara,2018,976,Mujer-Hombre
-355,19 Guadalajara,2017,939,Mujer-Hombre
-356,19 Guadalajara,2016,999,Mujer-Hombre
-357,19 Guadalajara,2015,1011,Mujer-Hombre
-358,19 Guadalajara,2014,928,Mujer-Hombre
-359,19 Guadalajara,2013,925,Mujer-Hombre
-360,19 Guadalajara,2012,1069,Mujer-Hombre
-361,19 Guadalajara,2011,1001,Mujer-Hombre
-362,19 Guadalajara,2010,1083,Mujer-Hombre
-363,19 Guadalajara,2009,1032,Mujer-Hombre
-364,19 Guadalajara,2008,1199,Mujer-Hombre
-365,19 Guadalajara,2007,1244,Mujer-Hombre
-366,19 Guadalajara,2006,1182,Mujer-Hombre
-367,19 Guadalajara,2005,1142,Mujer-Hombre
-368,21 Huelva,2020,995,Mujer-Hombre
-369,21 Huelva,2019,1811,Mujer-Hombre
-370,21 Huelva,2018,1647,Mujer-Hombre
-371,21 Huelva,2017,1666,Mujer-Hombre
-372,21 Huelva,2016,1856,Mujer-Hombre
-373,21 Huelva,2015,1723,Mujer-Hombre
-374,21 Huelva,2014,1671,Mujer-Hombre
-375,21 Huelva,2013,1558,Mujer-Hombre
-376,21 Huelva,2012,1863,Mujer-Hombre
-377,21 Huelva,2011,1695,Mujer-Hombre
-378,21 Huelva,2010,1750,Mujer-Hombre
-379,21 Huelva,2009,1810,Mujer-Hombre
-380,21 Huelva,2008,2384,Mujer-Hombre
-381,21 Huelva,2007,2469,Mujer-Hombre
-382,21 Huelva,2006,2539,Mujer-Hombre
-383,21 Huelva,2005,2645,Mujer-Hombre
-384,22 Huesca,2020,355,Mujer-Hombre
-385,22 Huesca,2019,694,Mujer-Hombre
-386,22 Huesca,2018,625,Mujer-Hombre
-387,22 Huesca,2017,615,Mujer-Hombre
-388,22 Huesca,2016,686,Mujer-Hombre
-389,22 Huesca,2015,605,Mujer-Hombre
-390,22 Huesca,2014,674,Mujer-Hombre
-391,22 Huesca,2013,643,Mujer-Hombre
-392,22 Huesca,2012,766,Mujer-Hombre
-393,22 Huesca,2011,626,Mujer-Hombre
-394,22 Huesca,2010,670,Mujer-Hombre
-395,22 Huesca,2009,694,Mujer-Hombre
-396,22 Huesca,2008,732,Mujer-Hombre
-397,22 Huesca,2007,796,Mujer-Hombre
-398,22 Huesca,2006,819,Mujer-Hombre
-399,22 Huesca,2005,797,Mujer-Hombre
-400,23 Jaén,2020,718,Mujer-Hombre
-401,23 Jaén,2019,2182,Mujer-Hombre
-402,23 Jaén,2018,2259,Mujer-Hombre
-403,23 Jaén,2017,2274,Mujer-Hombre
-404,23 Jaén,2016,2244,Mujer-Hombre
-405,23 Jaén,2015,2143,Mujer-Hombre
-406,23 Jaén,2014,2052,Mujer-Hombre
-407,23 Jaén,2013,1818,Mujer-Hombre
-408,23 Jaén,2012,2226,Mujer-Hombre
-409,23 Jaén,2011,2175,Mujer-Hombre
-410,23 Jaén,2010,2198,Mujer-Hombre
-411,23 Jaén,2009,2449,Mujer-Hombre
-412,23 Jaén,2008,2959,Mujer-Hombre
-413,23 Jaén,2007,3108,Mujer-Hombre
-414,23 Jaén,2006,3186,Mujer-Hombre
-415,23 Jaén,2005,3198,Mujer-Hombre
-416,24 León,2020,690,Mujer-Hombre
-417,24 León,2019,1251,Mujer-Hombre
-418,24 León,2018,1343,Mujer-Hombre
-419,24 León,2017,1412,Mujer-Hombre
-420,24 León,2016,1380,Mujer-Hombre
-421,24 León,2015,1294,Mujer-Hombre
-422,24 León,2014,1430,Mujer-Hombre
-423,24 León,2013,1367,Mujer-Hombre
-424,24 León,2012,1586,Mujer-Hombre
-425,24 León,2011,1448,Mujer-Hombre
-426,24 León,2010,1518,Mujer-Hombre
-427,24 León,2009,1517,Mujer-Hombre
-428,24 León,2008,1646,Mujer-Hombre
-429,24 León,2007,1760,Mujer-Hombre
-430,24 León,2006,1623,Mujer-Hombre
-431,24 León,2005,1727,Mujer-Hombre
-432,25 Lleida,2020,827,Mujer-Hombre
-433,25 Lleida,2019,1349,Mujer-Hombre
-434,25 Lleida,2018,1334,Mujer-Hombre
-435,25 Lleida,2017,1411,Mujer-Hombre
-436,25 Lleida,2016,1442,Mujer-Hombre
-437,25 Lleida,2015,1311,Mujer-Hombre
-438,25 Lleida,2014,1413,Mujer-Hombre
-439,25 Lleida,2013,1330,Mujer-Hombre
-440,25 Lleida,2012,1443,Mujer-Hombre
-441,25 Lleida,2011,1433,Mujer-Hombre
-442,25 Lleida,2010,1560,Mujer-Hombre
-443,25 Lleida,2009,1582,Mujer-Hombre
-444,25 Lleida,2008,1785,Mujer-Hombre
-445,25 Lleida,2007,1821,Mujer-Hombre
-446,25 Lleida,2006,1778,Mujer-Hombre
-447,25 Lleida,2005,1726,Mujer-Hombre
-448,27 Lugo,2020,633,Mujer-Hombre
-449,27 Lugo,2019,998,Mujer-Hombre
-450,27 Lugo,2018,1018,Mujer-Hombre
-451,27 Lugo,2017,1053,Mujer-Hombre
-452,27 Lugo,2016,1045,Mujer-Hombre
-453,27 Lugo,2015,975,Mujer-Hombre
-454,27 Lugo,2014,977,Mujer-Hombre
-455,27 Lugo,2013,924,Mujer-Hombre
-456,27 Lugo,2012,1026,Mujer-Hombre
-457,27 Lugo,2011,1027,Mujer-Hombre
-458,27 Lugo,2010,1069,Mujer-Hombre
-459,27 Lugo,2009,1080,Mujer-Hombre
-460,27 Lugo,2008,1122,Mujer-Hombre
-461,27 Lugo,2007,1141,Mujer-Hombre
-462,27 Lugo,2006,1113,Mujer-Hombre
-463,27 Lugo,2005,1075,Mujer-Hombre
-464,28 Madrid,2020,12394,Mujer-Hombre
-465,28 Madrid,2019,23538,Mujer-Hombre
-466,28 Madrid,2018,23797,Mujer-Hombre
-467,28 Madrid,2017,25039,Mujer-Hombre
-468,28 Madrid,2016,25215,Mujer-Hombre
-469,28 Madrid,2015,24848,Mujer-Hombre
-470,28 Madrid,2014,23222,Mujer-Hombre
-471,28 Madrid,2013,23878,Mujer-Hombre
-472,28 Madrid,2012,24526,Mujer-Hombre
-473,28 Madrid,2011,24306,Mujer-Hombre
-474,28 Madrid,2010,24603,Mujer-Hombre
-475,28 Madrid,2009,24505,Mujer-Hombre
-476,28 Madrid,2008,26583,Mujer-Hombre
-477,28 Madrid,2007,28000,Mujer-Hombre
-478,28 Madrid,2006,27684,Mujer-Hombre
-479,28 Madrid,2005,28387,Mujer-Hombre
-480,29 Málaga,2020,3055,Mujer-Hombre
-481,29 Málaga,2019,5537,Mujer-Hombre
-482,29 Málaga,2018,5446,Mujer-Hombre
-483,29 Málaga,2017,5720,Mujer-Hombre
-484,29 Málaga,2016,5554,Mujer-Hombre
-485,29 Málaga,2015,5551,Mujer-Hombre
-486,29 Málaga,2014,5392,Mujer-Hombre
-487,29 Málaga,2013,5036,Mujer-Hombre
-488,29 Málaga,2012,5355,Mujer-Hombre
-489,29 Málaga,2011,5156,Mujer-Hombre
-490,29 Málaga,2010,5591,Mujer-Hombre
-491,29 Málaga,2009,5868,Mujer-Hombre
-492,29 Málaga,2008,6994,Mujer-Hombre
-493,29 Málaga,2007,7238,Mujer-Hombre
-494,29 Málaga,2006,7463,Mujer-Hombre
-495,29 Málaga,2005,7349,Mujer-Hombre
-496,30 Murcia,2020,2601,Mujer-Hombre
-497,30 Murcia,2019,4955,Mujer-Hombre
-498,30 Murcia,2018,5079,Mujer-Hombre
-499,30 Murcia,2017,5094,Mujer-Hombre
-500,30 Murcia,2016,5067,Mujer-Hombre
-501,30 Murcia,2015,4815,Mujer-Hombre
-502,30 Murcia,2014,4846,Mujer-Hombre
-503,30 Murcia,2013,4375,Mujer-Hombre
-504,30 Murcia,2012,4867,Mujer-Hombre
-505,30 Murcia,2011,4656,Mujer-Hombre
-506,30 Murcia,2010,4996,Mujer-Hombre
-507,30 Murcia,2009,5125,Mujer-Hombre
-508,30 Murcia,2008,5765,Mujer-Hombre
-509,30 Murcia,2007,6647,Mujer-Hombre
-510,30 Murcia,2006,6484,Mujer-Hombre
-511,30 Murcia,2005,6668,Mujer-Hombre
-512,31 Navarra,2020,1279,Mujer-Hombre
-513,31 Navarra,2019,2050,Mujer-Hombre
-514,31 Navarra,2018,2050,Mujer-Hombre
-515,31 Navarra,2017,2295,Mujer-Hombre
-516,31 Navarra,2016,2383,Mujer-Hombre
-517,31 Navarra,2015,2616,Mujer-Hombre
-518,31 Navarra,2014,2301,Mujer-Hombre
-519,31 Navarra,2013,2097,Mujer-Hombre
-520,31 Navarra,2012,2232,Mujer-Hombre
-521,31 Navarra,2011,2218,Mujer-Hombre
-522,31 Navarra,2010,2285,Mujer-Hombre
-523,31 Navarra,2009,2492,Mujer-Hombre
-524,31 Navarra,2008,2681,Mujer-Hombre
-525,31 Navarra,2007,2705,Mujer-Hombre
-526,31 Navarra,2006,2727,Mujer-Hombre
-527,31 Navarra,2005,2671,Mujer-Hombre
-528,32 Ourense,2020,496,Mujer-Hombre
-529,32 Ourense,2019,860,Mujer-Hombre
-530,32 Ourense,2018,737,Mujer-Hombre
-531,32 Ourense,2017,819,Mujer-Hombre
-532,32 Ourense,2016,825,Mujer-Hombre
-533,32 Ourense,2015,825,Mujer-Hombre
-534,32 Ourense,2014,846,Mujer-Hombre
-535,32 Ourense,2013,861,Mujer-Hombre
-536,32 Ourense,2012,917,Mujer-Hombre
-537,32 Ourense,2011,881,Mujer-Hombre
-538,32 Ourense,2010,908,Mujer-Hombre
-539,32 Ourense,2009,936,Mujer-Hombre
-540,32 Ourense,2008,1062,Mujer-Hombre
-541,32 Ourense,2007,1263,Mujer-Hombre
-542,32 Ourense,2006,1147,Mujer-Hombre
-543,32 Ourense,2005,1119,Mujer-Hombre
-544,34 Palencia,2020,190,Mujer-Hombre
-545,34 Palencia,2019,443,Mujer-Hombre
-546,34 Palencia,2018,477,Mujer-Hombre
-547,34 Palencia,2017,500,Mujer-Hombre
-548,34 Palencia,2016,531,Mujer-Hombre
-549,34 Palencia,2015,492,Mujer-Hombre
-550,34 Palencia,2014,495,Mujer-Hombre
-551,34 Palencia,2013,440,Mujer-Hombre
-552,34 Palencia,2012,550,Mujer-Hombre
-553,34 Palencia,2011,480,Mujer-Hombre
-554,34 Palencia,2010,542,Mujer-Hombre
-555,34 Palencia,2009,525,Mujer-Hombre
-556,34 Palencia,2008,596,Mujer-Hombre
-557,34 Palencia,2007,621,Mujer-Hombre
-558,34 Palencia,2006,671,Mujer-Hombre
-559,34 Palencia,2005,695,Mujer-Hombre
-560,"35 Palmas, Las",2020,2399,Mujer-Hombre
-561,"35 Palmas, Las",2019,3913,Mujer-Hombre
-562,"35 Palmas, Las",2018,3884,Mujer-Hombre
-563,"35 Palmas, Las",2017,3787,Mujer-Hombre
-564,"35 Palmas, Las",2016,3744,Mujer-Hombre
-565,"35 Palmas, Las",2015,3487,Mujer-Hombre
-566,"35 Palmas, Las",2014,3337,Mujer-Hombre
-567,"35 Palmas, Las",2013,3283,Mujer-Hombre
-568,"35 Palmas, Las",2012,2996,Mujer-Hombre
-569,"35 Palmas, Las",2011,2756,Mujer-Hombre
-570,"35 Palmas, Las",2010,2704,Mujer-Hombre
-571,"35 Palmas, Las",2009,2926,Mujer-Hombre
-572,"35 Palmas, Las",2008,3153,Mujer-Hombre
-573,"35 Palmas, Las",2007,3274,Mujer-Hombre
-574,"35 Palmas, Las",2006,3340,Mujer-Hombre
-575,"35 Palmas, Las",2005,3339,Mujer-Hombre
-576,36 Pontevedra,2020,1987,Mujer-Hombre
-577,36 Pontevedra,2019,3303,Mujer-Hombre
-578,36 Pontevedra,2018,2879,Mujer-Hombre
-579,36 Pontevedra,2017,3223,Mujer-Hombre
-580,36 Pontevedra,2016,3256,Mujer-Hombre
-581,36 Pontevedra,2015,3224,Mujer-Hombre
-582,36 Pontevedra,2014,2934,Mujer-Hombre
-583,36 Pontevedra,2013,2917,Mujer-Hombre
-584,36 Pontevedra,2012,3185,Mujer-Hombre
-585,36 Pontevedra,2011,3179,Mujer-Hombre
-586,36 Pontevedra,2010,3440,Mujer-Hombre
-587,36 Pontevedra,2009,3440,Mujer-Hombre
-588,36 Pontevedra,2008,3868,Mujer-Hombre
-589,36 Pontevedra,2007,3958,Mujer-Hombre
-590,36 Pontevedra,2006,4036,Mujer-Hombre
-591,36 Pontevedra,2005,4061,Mujer-Hombre
-592,"26 Rioja, La",2020,600,Mujer-Hombre
-593,"26 Rioja, La",2019,1093,Mujer-Hombre
-594,"26 Rioja, La",2018,1117,Mujer-Hombre
-595,"26 Rioja, La",2017,1035,Mujer-Hombre
-596,"26 Rioja, La",2016,1133,Mujer-Hombre
-597,"26 Rioja, La",2015,1063,Mujer-Hombre
-598,"26 Rioja, La",2014,1114,Mujer-Hombre
-599,"26 Rioja, La",2013,994,Mujer-Hombre
-600,"26 Rioja, La",2012,1111,Mujer-Hombre
-601,"26 Rioja, La",2011,1069,Mujer-Hombre
-602,"26 Rioja, La",2010,1126,Mujer-Hombre
-603,"26 Rioja, La",2009,1205,Mujer-Hombre
-604,"26 Rioja, La",2008,1323,Mujer-Hombre
-605,"26 Rioja, La",2007,1354,Mujer-Hombre
-606,"26 Rioja, La",2006,1373,Mujer-Hombre
-607,"26 Rioja, La",2005,1407,Mujer-Hombre
-608,37 Salamanca,2020,367,Mujer-Hombre
-609,37 Salamanca,2019,944,Mujer-Hombre
-610,37 Salamanca,2018,974,Mujer-Hombre
-611,37 Salamanca,2017,1080,Mujer-Hombre
-612,37 Salamanca,2016,1041,Mujer-Hombre
-613,37 Salamanca,2015,1044,Mujer-Hombre
-614,37 Salamanca,2014,1081,Mujer-Hombre
-615,37 Salamanca,2013,1069,Mujer-Hombre
-616,37 Salamanca,2012,1139,Mujer-Hombre
-617,37 Salamanca,2011,935,Mujer-Hombre
-618,37 Salamanca,2010,1075,Mujer-Hombre
-619,37 Salamanca,2009,1211,Mujer-Hombre
-620,37 Salamanca,2008,1324,Mujer-Hombre
-621,37 Salamanca,2007,1370,Mujer-Hombre
-622,37 Salamanca,2006,1336,Mujer-Hombre
-623,37 Salamanca,2005,1408,Mujer-Hombre
-624,38 Santa Cruz de Tenerife,2020,2209,Mujer-Hombre
-625,38 Santa Cruz de Tenerife,2019,3475,Mujer-Hombre
-626,38 Santa Cruz de Tenerife,2018,3514,Mujer-Hombre
-627,38 Santa Cruz de Tenerife,2017,3449,Mujer-Hombre
-628,38 Santa Cruz de Tenerife,2016,3314,Mujer-Hombre
-629,38 Santa Cruz de Tenerife,2015,3176,Mujer-Hombre
-630,38 Santa Cruz de Tenerife,2014,2992,Mujer-Hombre
-631,38 Santa Cruz de Tenerife,2013,2697,Mujer-Hombre
-632,38 Santa Cruz de Tenerife,2012,2683,Mujer-Hombre
-633,38 Santa Cruz de Tenerife,2011,2676,Mujer-Hombre
-634,38 Santa Cruz de Tenerife,2010,2753,Mujer-Hombre
-635,38 Santa Cruz de Tenerife,2009,2990,Mujer-Hombre
-636,38 Santa Cruz de Tenerife,2008,3185,Mujer-Hombre
-637,38 Santa Cruz de Tenerife,2007,3129,Mujer-Hombre
-638,38 Santa Cruz de Tenerife,2006,3456,Mujer-Hombre
-639,38 Santa Cruz de Tenerife,2005,3401,Mujer-Hombre
-640,40 Segovia,2020,228,Mujer-Hombre
-641,40 Segovia,2019,532,Mujer-Hombre
-642,40 Segovia,2018,481,Mujer-Hombre
-643,40 Segovia,2017,549,Mujer-Hombre
-644,40 Segovia,2016,484,Mujer-Hombre
-645,40 Segovia,2015,520,Mujer-Hombre
-646,40 Segovia,2014,452,Mujer-Hombre
-647,40 Segovia,2013,439,Mujer-Hombre
-648,40 Segovia,2012,481,Mujer-Hombre
-649,40 Segovia,2011,513,Mujer-Hombre
-650,40 Segovia,2010,534,Mujer-Hombre
-651,40 Segovia,2009,566,Mujer-Hombre
-652,40 Segovia,2008,664,Mujer-Hombre
-653,40 Segovia,2007,594,Mujer-Hombre
-654,40 Segovia,2006,586,Mujer-Hombre
-655,40 Segovia,2005,604,Mujer-Hombre
-656,41 Sevilla,2020,3663,Mujer-Hombre
-657,41 Sevilla,2019,7601,Mujer-Hombre
-658,41 Sevilla,2018,7346,Mujer-Hombre
-659,41 Sevilla,2017,7284,Mujer-Hombre
-660,41 Sevilla,2016,7681,Mujer-Hombre
-661,41 Sevilla,2015,7456,Mujer-Hombre
-662,41 Sevilla,2014,7105,Mujer-Hombre
-663,41 Sevilla,2013,6643,Mujer-Hombre
-664,41 Sevilla,2012,7312,Mujer-Hombre
-665,41 Sevilla,2011,7110,Mujer-Hombre
-666,41 Sevilla,2010,7528,Mujer-Hombre
-667,41 Sevilla,2009,8150,Mujer-Hombre
-668,41 Sevilla,2008,9565,Mujer-Hombre
-669,41 Sevilla,2007,10365,Mujer-Hombre
-670,41 Sevilla,2006,10574,Mujer-Hombre
-671,41 Sevilla,2005,10885,Mujer-Hombre
-672,42 Soria,2020,147,Mujer-Hombre
-673,42 Soria,2019,269,Mujer-Hombre
-674,42 Soria,2018,273,Mujer-Hombre
-675,42 Soria,2017,262,Mujer-Hombre
-676,42 Soria,2016,270,Mujer-Hombre
-677,42 Soria,2015,240,Mujer-Hombre
-678,42 Soria,2014,253,Mujer-Hombre
-679,42 Soria,2013,233,Mujer-Hombre
-680,42 Soria,2012,277,Mujer-Hombre
-681,42 Soria,2011,250,Mujer-Hombre
-682,42 Soria,2010,273,Mujer-Hombre
-683,42 Soria,2009,290,Mujer-Hombre
-684,42 Soria,2008,254,Mujer-Hombre
-685,42 Soria,2007,288,Mujer-Hombre
-686,42 Soria,2006,308,Mujer-Hombre
-687,42 Soria,2005,290,Mujer-Hombre
-688,43 Tarragona,2020,1726,Mujer-Hombre
-689,43 Tarragona,2019,2725,Mujer-Hombre
-690,43 Tarragona,2018,2633,Mujer-Hombre
-691,43 Tarragona,2017,2861,Mujer-Hombre
-692,43 Tarragona,2016,2948,Mujer-Hombre
-693,43 Tarragona,2015,2832,Mujer-Hombre
-694,43 Tarragona,2014,2705,Mujer-Hombre
-695,43 Tarragona,2013,2620,Mujer-Hombre
-696,43 Tarragona,2012,2783,Mujer-Hombre
-697,43 Tarragona,2011,2714,Mujer-Hombre
-698,43 Tarragona,2010,2955,Mujer-Hombre
-699,43 Tarragona,2009,3028,Mujer-Hombre
-700,43 Tarragona,2008,3454,Mujer-Hombre
-701,43 Tarragona,2007,3477,Mujer-Hombre
-702,43 Tarragona,2006,3508,Mujer-Hombre
-703,43 Tarragona,2005,3482,Mujer-Hombre
-704,44 Teruel,2020,257,Mujer-Hombre
-705,44 Teruel,2019,367,Mujer-Hombre
-706,44 Teruel,2018,377,Mujer-Hombre
-707,44 Teruel,2017,397,Mujer-Hombre
-708,44 Teruel,2016,386,Mujer-Hombre
-709,44 Teruel,2015,377,Mujer-Hombre
-710,44 Teruel,2014,430,Mujer-Hombre
-711,44 Teruel,2013,407,Mujer-Hombre
-712,44 Teruel,2012,421,Mujer-Hombre
-713,44 Teruel,2011,397,Mujer-Hombre
-714,44 Teruel,2010,415,Mujer-Hombre
-715,44 Teruel,2009,428,Mujer-Hombre
-716,44 Teruel,2008,453,Mujer-Hombre
-717,44 Teruel,2007,481,Mujer-Hombre
-718,44 Teruel,2006,489,Mujer-Hombre
-719,44 Teruel,2005,532,Mujer-Hombre
-720,45 Toledo,2020,1185,Mujer-Hombre
-721,45 Toledo,2019,2496,Mujer-Hombre
-722,45 Toledo,2018,2520,Mujer-Hombre
-723,45 Toledo,2017,2579,Mujer-Hombre
-724,45 Toledo,2016,2597,Mujer-Hombre
-725,45 Toledo,2015,2423,Mujer-Hombre
-726,45 Toledo,2014,2438,Mujer-Hombre
-727,45 Toledo,2013,2302,Mujer-Hombre
-728,45 Toledo,2012,2663,Mujer-Hombre
-729,45 Toledo,2011,2627,Mujer-Hombre
-730,45 Toledo,2010,2603,Mujer-Hombre
-731,45 Toledo,2009,2847,Mujer-Hombre
-732,45 Toledo,2008,3291,Mujer-Hombre
-733,45 Toledo,2007,3091,Mujer-Hombre
-734,45 Toledo,2006,3034,Mujer-Hombre
-735,45 Toledo,2005,3063,Mujer-Hombre
-736,46 Valencia/València,2020,5279,Mujer-Hombre
-737,46 Valencia/València,2019,8937,Mujer-Hombre
-738,46 Valencia/València,2018,9328,Mujer-Hombre
-739,46 Valencia/València,2017,9450,Mujer-Hombre
-740,46 Valencia/València,2016,9834,Mujer-Hombre
-741,46 Valencia/València,2015,9589,Mujer-Hombre
-742,46 Valencia/València,2014,9281,Mujer-Hombre
-743,46 Valencia/València,2013,8989,Mujer-Hombre
-744,46 Valencia/València,2012,9437,Mujer-Hombre
-745,46 Valencia/València,2011,9285,Mujer-Hombre
-746,46 Valencia/València,2010,9676,Mujer-Hombre
-747,46 Valencia/València,2009,10130,Mujer-Hombre
-748,46 Valencia/València,2008,11407,Mujer-Hombre
-749,46 Valencia/València,2007,12165,Mujer-Hombre
-750,46 Valencia/València,2006,12652,Mujer-Hombre
-751,46 Valencia/València,2005,13391,Mujer-Hombre
-752,47 Valladolid,2020,751,Mujer-Hombre
-753,47 Valladolid,2019,1642,Mujer-Hombre
-754,47 Valladolid,2018,1642,Mujer-Hombre
-755,47 Valladolid,2017,1806,Mujer-Hombre
-756,47 Valladolid,2016,1764,Mujer-Hombre
-757,47 Valladolid,2015,1784,Mujer-Hombre
-758,47 Valladolid,2014,1805,Mujer-Hombre
-759,47 Valladolid,2013,1770,Mujer-Hombre
-760,47 Valladolid,2012,1975,Mujer-Hombre
-761,47 Valladolid,2011,1911,Mujer-Hombre
-762,47 Valladolid,2010,1999,Mujer-Hombre
-763,47 Valladolid,2009,2147,Mujer-Hombre
-764,47 Valladolid,2008,2342,Mujer-Hombre
-765,47 Valladolid,2007,2553,Mujer-Hombre
-766,47 Valladolid,2006,2504,Mujer-Hombre
-767,47 Valladolid,2005,2499,Mujer-Hombre
-768,49 Zamora,2020,186,Mujer-Hombre
-769,49 Zamora,2019,395,Mujer-Hombre
-770,49 Zamora,2018,416,Mujer-Hombre
-771,49 Zamora,2017,402,Mujer-Hombre
-772,49 Zamora,2016,447,Mujer-Hombre
-773,49 Zamora,2015,425,Mujer-Hombre
-774,49 Zamora,2014,422,Mujer-Hombre
-775,49 Zamora,2013,386,Mujer-Hombre
-776,49 Zamora,2012,477,Mujer-Hombre
-777,49 Zamora,2011,464,Mujer-Hombre
-778,49 Zamora,2010,480,Mujer-Hombre
-779,49 Zamora,2009,537,Mujer-Hombre
-780,49 Zamora,2008,551,Mujer-Hombre
-781,49 Zamora,2007,597,Mujer-Hombre
-782,49 Zamora,2006,565,Mujer-Hombre
-783,49 Zamora,2005,597,Mujer-Hombre
-784,50 Zaragoza,2020,1625,Mujer-Hombre
-785,50 Zaragoza,2019,2832,Mujer-Hombre
-786,50 Zaragoza,2018,3089,Mujer-Hombre
-787,50 Zaragoza,2017,3214,Mujer-Hombre
-788,50 Zaragoza,2016,3297,Mujer-Hombre
-789,50 Zaragoza,2015,3263,Mujer-Hombre
-790,50 Zaragoza,2014,3059,Mujer-Hombre
-791,50 Zaragoza,2013,3273,Mujer-Hombre
-792,50 Zaragoza,2012,3478,Mujer-Hombre
-793,50 Zaragoza,2011,3245,Mujer-Hombre
-794,50 Zaragoza,2010,3352,Mujer-Hombre
-795,50 Zaragoza,2009,3597,Mujer-Hombre
-796,50 Zaragoza,2008,3861,Mujer-Hombre
-797,50 Zaragoza,2007,4031,Mujer-Hombre
-798,50 Zaragoza,2006,4192,Mujer-Hombre
-799,50 Zaragoza,2005,4347,Mujer-Hombre
-800,51 Ceuta,2020,253,Mujer-Hombre
-801,51 Ceuta,2019,502,Mujer-Hombre
-802,51 Ceuta,2018,429,Mujer-Hombre
-803,51 Ceuta,2017,445,Mujer-Hombre
-804,51 Ceuta,2016,494,Mujer-Hombre
-805,51 Ceuta,2015,423,Mujer-Hombre
-806,51 Ceuta,2014,394,Mujer-Hombre
-807,51 Ceuta,2013,383,Mujer-Hombre
-808,51 Ceuta,2012,407,Mujer-Hombre
-809,51 Ceuta,2011,445,Mujer-Hombre
-810,51 Ceuta,2010,397,Mujer-Hombre
-811,51 Ceuta,2009,397,Mujer-Hombre
-812,51 Ceuta,2008,366,Mujer-Hombre
-813,51 Ceuta,2007,373,Mujer-Hombre
-814,51 Ceuta,2006,325,Mujer-Hombre
-815,51 Ceuta,2005,361,Mujer-Hombre
-816,52 Melilla,2020,157,Mujer-Hombre
-817,52 Melilla,2019,306,Mujer-Hombre
-818,52 Melilla,2018,313,Mujer-Hombre
-819,52 Melilla,2017,362,Mujer-Hombre
-820,52 Melilla,2016,395,Mujer-Hombre
-821,52 Melilla,2015,288,Mujer-Hombre
-822,52 Melilla,2014,319,Mujer-Hombre
-823,52 Melilla,2013,311,Mujer-Hombre
-824,52 Melilla,2012,381,Mujer-Hombre
-825,52 Melilla,2011,323,Mujer-Hombre
-826,52 Melilla,2010,444,Mujer-Hombre
-827,52 Melilla,2009,409,Mujer-Hombre
-828,52 Melilla,2008,470,Mujer-Hombre
-829,52 Melilla,2007,525,Mujer-Hombre
-830,52 Melilla,2006,399,Mujer-Hombre
-831,52 Melilla,2005,323,Mujer-Hombre
-832,No residente,2020,373,Mujer-Hombre
-833,No residente,2019,1325,Mujer-Hombre
-834,No residente,2018,2044,Mujer-Hombre
-835,No residente,2017,2259,Mujer-Hombre
-836,No residente,2016,2258,Mujer-Hombre
-837,No residente,2015,2217,Mujer-Hombre
-838,No residente,2014,2245,Mujer-Hombre
-839,No residente,2013,1942,Mujer-Hombre
-840,No residente,2012,1928,Mujer-Hombre
-841,No residente,2011,1578,Mujer-Hombre
-842,No residente,2010,1606,Mujer-Hombre
-843,No residente,2009,1705,Mujer-Hombre
-844,No residente,2008,1899,Mujer-Hombre
-845,No residente,2007,1919,Mujer-Hombre
-846,No residente,2006,1887,Mujer-Hombre
-847,No residente,2005,1714,Mujer-Hombre
-848,02 Albacete,2020,9,Mujeres
-849,02 Albacete,2019,17,Mujeres
-850,02 Albacete,2018,17,Mujeres
-851,02 Albacete,2017,7,Mujeres
-852,02 Albacete,2016,6,Mujeres
-853,02 Albacete,2015,5,Mujeres
-854,02 Albacete,2014,8,Mujeres
-855,02 Albacete,2013,11,Mujeres
-856,02 Albacete,2012,1,Mujeres
-857,02 Albacete,2011,5,Mujeres
-858,02 Albacete,2010,2,Mujeres
-859,02 Albacete,2009,7,Mujeres
-860,02 Albacete,2008,4,Mujeres
-861,02 Albacete,2007,2,Mujeres
-862,02 Albacete,2006,4,Mujeres
-863,03 Alicante/Alacant,2020,76,Mujeres
-864,03 Alicante/Alacant,2019,117,Mujeres
-865,03 Alicante/Alacant,2018,123,Mujeres
-866,03 Alicante/Alacant,2017,115,Mujeres
-867,03 Alicante/Alacant,2016,87,Mujeres
-868,03 Alicante/Alacant,2015,79,Mujeres
-869,03 Alicante/Alacant,2014,84,Mujeres
-870,03 Alicante/Alacant,2013,68,Mujeres
-871,03 Alicante/Alacant,2012,58,Mujeres
-872,03 Alicante/Alacant,2011,70,Mujeres
-873,03 Alicante/Alacant,2010,39,Mujeres
-874,03 Alicante/Alacant,2009,47,Mujeres
-875,03 Alicante/Alacant,2008,60,Mujeres
-876,03 Alicante/Alacant,2007,39,Mujeres
-877,03 Alicante/Alacant,2006,72,Mujeres
-878,03 Alicante/Alacant,2005,16,Mujeres
-879,04 Almería,2020,21,Mujeres
-880,04 Almería,2019,28,Mujeres
-881,04 Almería,2018,24,Mujeres
-882,04 Almería,2017,21,Mujeres
-883,04 Almería,2016,15,Mujeres
-884,04 Almería,2015,25,Mujeres
-885,04 Almería,2014,11,Mujeres
-886,04 Almería,2013,17,Mujeres
-887,04 Almería,2012,15,Mujeres
-888,04 Almería,2011,19,Mujeres
-889,04 Almería,2010,16,Mujeres
-890,04 Almería,2009,6,Mujeres
-891,04 Almería,2008,14,Mujeres
-892,04 Almería,2007,9,Mujeres
-893,04 Almería,2006,12,Mujeres
-894,04 Almería,2005,1,Mujeres
-895,01 Araba/Álava,2020,14,Mujeres
-896,01 Araba/Álava,2019,15,Mujeres
-897,01 Araba/Álava,2018,15,Mujeres
-898,01 Araba/Álava,2017,16,Mujeres
-899,01 Araba/Álava,2016,13,Mujeres
-900,01 Araba/Álava,2015,12,Mujeres
-901,01 Araba/Álava,2014,16,Mujeres
-902,01 Araba/Álava,2013,5,Mujeres
-903,01 Araba/Álava,2012,6,Mujeres
-904,01 Araba/Álava,2011,10,Mujeres
-905,01 Araba/Álava,2010,5,Mujeres
-906,01 Araba/Álava,2009,10,Mujeres
-907,01 Araba/Álava,2008,3,Mujeres
-908,01 Araba/Álava,2007,3,Mujeres
-909,01 Araba/Álava,2006,8,Mujeres
-910,01 Araba/Álava,2005,2,Mujeres
-911,33 Asturias,2020,14,Mujeres
-912,33 Asturias,2019,34,Mujeres
-913,33 Asturias,2018,21,Mujeres
-914,33 Asturias,2017,29,Mujeres
-915,33 Asturias,2016,18,Mujeres
-916,33 Asturias,2015,22,Mujeres
-917,33 Asturias,2014,26,Mujeres
-918,33 Asturias,2013,14,Mujeres
-919,33 Asturias,2012,19,Mujeres
-920,33 Asturias,2011,23,Mujeres
-921,33 Asturias,2010,20,Mujeres
-922,33 Asturias,2009,16,Mujeres
-923,33 Asturias,2008,27,Mujeres
-924,33 Asturias,2007,22,Mujeres
-925,33 Asturias,2006,20,Mujeres
-926,33 Asturias,2005,7,Mujeres
-927,05 Ávila,2020,1,Mujeres
-928,05 Ávila,2019,3,Mujeres
-929,05 Ávila,2018,5,Mujeres
-930,05 Ávila,2017,2,Mujeres
-931,05 Ávila,2016,3,Mujeres
-932,05 Ávila,2015,2,Mujeres
-933,05 Ávila,2014,1,Mujeres
-934,05 Ávila,2013,3,Mujeres
-935,05 Ávila,2012,2,Mujeres
-936,05 Ávila,2011,4,Mujeres
-937,05 Ávila,2010,7,Mujeres
-938,05 Ávila,2008,1,Mujeres
-939,05 Ávila,2007,1,Mujeres
-940,05 Ávila,2006,2,Mujeres
-941,05 Ávila,2005,1,Mujeres
-942,06 Badajoz,2020,19,Mujeres
-943,06 Badajoz,2019,30,Mujeres
-944,06 Badajoz,2018,22,Mujeres
-945,06 Badajoz,2017,23,Mujeres
-946,06 Badajoz,2016,25,Mujeres
-947,06 Badajoz,2015,11,Mujeres
-948,06 Badajoz,2014,13,Mujeres
-949,06 Badajoz,2013,10,Mujeres
-950,06 Badajoz,2012,24,Mujeres
-951,06 Badajoz,2011,14,Mujeres
-952,06 Badajoz,2010,15,Mujeres
-953,06 Badajoz,2009,6,Mujeres
-954,06 Badajoz,2008,6,Mujeres
-955,06 Badajoz,2007,2,Mujeres
-956,06 Badajoz,2006,3,Mujeres
-957,06 Badajoz,2005,3,Mujeres
-958,"07 Balears, Illes",2020,56,Mujeres
-959,"07 Balears, Illes",2019,88,Mujeres
-960,"07 Balears, Illes",2018,84,Mujeres
-961,"07 Balears, Illes",2017,96,Mujeres
-962,"07 Balears, Illes",2016,80,Mujeres
-963,"07 Balears, Illes",2015,66,Mujeres
-964,"07 Balears, Illes",2014,60,Mujeres
-965,"07 Balears, Illes",2013,54,Mujeres
-966,"07 Balears, Illes",2012,50,Mujeres
-967,"07 Balears, Illes",2011,43,Mujeres
-968,"07 Balears, Illes",2010,42,Mujeres
-969,"07 Balears, Illes",2009,38,Mujeres
-970,"07 Balears, Illes",2008,36,Mujeres
-971,"07 Balears, Illes",2007,42,Mujeres
-972,"07 Balears, Illes",2006,53,Mujeres
-973,"07 Balears, Illes",2005,9,Mujeres
-974,08 Barcelona,2020,251,Mujeres
-975,08 Barcelona,2019,400,Mujeres
-976,08 Barcelona,2018,426,Mujeres
-977,08 Barcelona,2017,439,Mujeres
-978,08 Barcelona,2016,381,Mujeres
-979,08 Barcelona,2015,289,Mujeres
-980,08 Barcelona,2014,283,Mujeres
-981,08 Barcelona,2013,253,Mujeres
-982,08 Barcelona,2012,302,Mujeres
-983,08 Barcelona,2011,298,Mujeres
-984,08 Barcelona,2010,253,Mujeres
-985,08 Barcelona,2009,255,Mujeres
-986,08 Barcelona,2008,222,Mujeres
-987,08 Barcelona,2007,213,Mujeres
-988,08 Barcelona,2006,290,Mujeres
-989,08 Barcelona,2005,74,Mujeres
-990,48 Bizkaia,2020,49,Mujeres
-991,48 Bizkaia,2019,59,Mujeres
-992,48 Bizkaia,2018,55,Mujeres
-993,48 Bizkaia,2017,48,Mujeres
-994,48 Bizkaia,2016,45,Mujeres
-995,48 Bizkaia,2015,44,Mujeres
-996,48 Bizkaia,2014,37,Mujeres
-997,48 Bizkaia,2013,34,Mujeres
-998,48 Bizkaia,2012,28,Mujeres
-999,48 Bizkaia,2011,25,Mujeres
-1000,48 Bizkaia,2010,29,Mujeres
-1001,48 Bizkaia,2009,21,Mujeres
-1002,48 Bizkaia,2008,27,Mujeres
-1003,48 Bizkaia,2007,23,Mujeres
-1004,48 Bizkaia,2006,31,Mujeres
-1005,48 Bizkaia,2005,6,Mujeres
-1006,09 Burgos,2020,5,Mujeres
-1007,09 Burgos,2019,10,Mujeres
-1008,09 Burgos,2018,5,Mujeres
-1009,09 Burgos,2017,10,Mujeres
-1010,09 Burgos,2016,7,Mujeres
-1011,09 Burgos,2015,4,Mujeres
-1012,09 Burgos,2014,3,Mujeres
-1013,09 Burgos,2013,5,Mujeres
-1014,09 Burgos,2012,5,Mujeres
-1015,09 Burgos,2011,6,Mujeres
-1016,09 Burgos,2010,3,Mujeres
-1017,09 Burgos,2009,5,Mujeres
-1018,09 Burgos,2008,5,Mujeres
-1019,09 Burgos,2007,8,Mujeres
-1020,09 Burgos,2006,4,Mujeres
-1021,09 Burgos,2005,2,Mujeres
-1022,10 Cáceres,2020,5,Mujeres
-1023,10 Cáceres,2019,13,Mujeres
-1024,10 Cáceres,2018,7,Mujeres
-1025,10 Cáceres,2017,8,Mujeres
-1026,10 Cáceres,2016,7,Mujeres
-1027,10 Cáceres,2015,1,Mujeres
-1028,10 Cáceres,2014,10,Mujeres
-1029,10 Cáceres,2013,4,Mujeres
-1030,10 Cáceres,2012,5,Mujeres
-1031,10 Cáceres,2011,5,Mujeres
-1032,10 Cáceres,2010,6,Mujeres
-1033,10 Cáceres,2009,4,Mujeres
-1034,10 Cáceres,2008,1,Mujeres
-1035,10 Cáceres,2006,4,Mujeres
-1036,10 Cáceres,2005,3,Mujeres
-1037,11 Cádiz,2020,47,Mujeres
-1038,11 Cádiz,2019,70,Mujeres
-1039,11 Cádiz,2018,48,Mujeres
-1040,11 Cádiz,2017,74,Mujeres
-1041,11 Cádiz,2016,59,Mujeres
-1042,11 Cádiz,2015,60,Mujeres
-1043,11 Cádiz,2014,47,Mujeres
-1044,11 Cádiz,2013,24,Mujeres
-1045,11 Cádiz,2012,37,Mujeres
-1046,11 Cádiz,2011,30,Mujeres
-1047,11 Cádiz,2010,17,Mujeres
-1048,11 Cádiz,2009,24,Mujeres
-1049,11 Cádiz,2008,22,Mujeres
-1050,11 Cádiz,2007,19,Mujeres
-1051,11 Cádiz,2006,21,Mujeres
-1052,11 Cádiz,2005,12,Mujeres
-1053,39 Cantabria,2020,16,Mujeres
-1054,39 Cantabria,2019,28,Mujeres
-1055,39 Cantabria,2018,21,Mujeres
-1056,39 Cantabria,2017,23,Mujeres
-1057,39 Cantabria,2016,18,Mujeres
-1058,39 Cantabria,2015,11,Mujeres
-1059,39 Cantabria,2014,17,Mujeres
-1060,39 Cantabria,2013,11,Mujeres
-1061,39 Cantabria,2012,11,Mujeres
-1062,39 Cantabria,2011,11,Mujeres
-1063,39 Cantabria,2010,11,Mujeres
-1064,39 Cantabria,2009,7,Mujeres
-1065,39 Cantabria,2008,8,Mujeres
-1066,39 Cantabria,2007,9,Mujeres
-1067,39 Cantabria,2006,11,Mujeres
-1068,39 Cantabria,2005,3,Mujeres
-1069,12 Castellón/Castelló,2020,19,Mujeres
-1070,12 Castellón/Castelló,2019,27,Mujeres
-1071,12 Castellón/Castelló,2018,18,Mujeres
-1072,12 Castellón/Castelló,2017,17,Mujeres
-1073,12 Castellón/Castelló,2016,25,Mujeres
-1074,12 Castellón/Castelló,2015,20,Mujeres
-1075,12 Castellón/Castelló,2014,9,Mujeres
-1076,12 Castellón/Castelló,2013,13,Mujeres
-1077,12 Castellón/Castelló,2012,13,Mujeres
-1078,12 Castellón/Castelló,2011,18,Mujeres
-1079,12 Castellón/Castelló,2010,16,Mujeres
-1080,12 Castellón/Castelló,2009,10,Mujeres
-1081,12 Castellón/Castelló,2008,12,Mujeres
-1082,12 Castellón/Castelló,2007,16,Mujeres
-1083,12 Castellón/Castelló,2006,8,Mujeres
-1084,12 Castellón/Castelló,2005,3,Mujeres
-1085,13 Ciudad Real,2020,9,Mujeres
-1086,13 Ciudad Real,2019,15,Mujeres
-1087,13 Ciudad Real,2018,13,Mujeres
-1088,13 Ciudad Real,2017,10,Mujeres
-1089,13 Ciudad Real,2016,12,Mujeres
-1090,13 Ciudad Real,2015,10,Mujeres
-1091,13 Ciudad Real,2014,6,Mujeres
-1092,13 Ciudad Real,2013,5,Mujeres
-1093,13 Ciudad Real,2012,5,Mujeres
-1094,13 Ciudad Real,2011,3,Mujeres
-1095,13 Ciudad Real,2010,3,Mujeres
-1096,13 Ciudad Real,2009,6,Mujeres
-1097,13 Ciudad Real,2008,8,Mujeres
-1098,13 Ciudad Real,2007,2,Mujeres
-1099,13 Ciudad Real,2006,4,Mujeres
-1100,14 Córdoba,2020,14,Mujeres
-1101,14 Córdoba,2019,32,Mujeres
-1102,14 Córdoba,2018,30,Mujeres
-1103,14 Córdoba,2017,24,Mujeres
-1104,14 Córdoba,2016,29,Mujeres
-1105,14 Córdoba,2015,25,Mujeres
-1106,14 Córdoba,2014,19,Mujeres
-1107,14 Córdoba,2013,16,Mujeres
-1108,14 Córdoba,2012,14,Mujeres
-1109,14 Córdoba,2011,18,Mujeres
-1110,14 Córdoba,2010,15,Mujeres
-1111,14 Córdoba,2009,6,Mujeres
-1112,14 Córdoba,2008,15,Mujeres
-1113,14 Córdoba,2007,11,Mujeres
-1114,14 Córdoba,2006,13,Mujeres
-1115,14 Córdoba,2005,4,Mujeres
-1116,"15 Coruña, A",2020,22,Mujeres
-1117,"15 Coruña, A",2019,30,Mujeres
-1118,"15 Coruña, A",2018,31,Mujeres
-1119,"15 Coruña, A",2017,31,Mujeres
-1120,"15 Coruña, A",2016,36,Mujeres
-1121,"15 Coruña, A",2015,28,Mujeres
-1122,"15 Coruña, A",2014,29,Mujeres
-1123,"15 Coruña, A",2013,19,Mujeres
-1124,"15 Coruña, A",2012,19,Mujeres
-1125,"15 Coruña, A",2011,17,Mujeres
-1126,"15 Coruña, A",2010,24,Mujeres
-1127,"15 Coruña, A",2009,10,Mujeres
-1128,"15 Coruña, A",2008,7,Mujeres
-1129,"15 Coruña, A",2007,15,Mujeres
-1130,"15 Coruña, A",2006,13,Mujeres
-1131,"15 Coruña, A",2005,11,Mujeres
-1132,16 Cuenca,2020,2,Mujeres
-1133,16 Cuenca,2019,3,Mujeres
-1134,16 Cuenca,2018,4,Mujeres
-1135,16 Cuenca,2017,6,Mujeres
-1136,16 Cuenca,2016,1,Mujeres
-1137,16 Cuenca,2015,2,Mujeres
-1138,16 Cuenca,2014,2,Mujeres
-1139,16 Cuenca,2013,2,Mujeres
-1140,16 Cuenca,2012,4,Mujeres
-1141,16 Cuenca,2011,1,Mujeres
-1142,16 Cuenca,2010,3,Mujeres
-1143,16 Cuenca,2008,1,Mujeres
-1144,16 Cuenca,2006,1,Mujeres
-1145,20 Gipuzkoa,2020,28,Mujeres
-1146,20 Gipuzkoa,2019,42,Mujeres
-1147,20 Gipuzkoa,2018,41,Mujeres
-1148,20 Gipuzkoa,2017,45,Mujeres
-1149,20 Gipuzkoa,2016,36,Mujeres
-1150,20 Gipuzkoa,2015,32,Mujeres
-1151,20 Gipuzkoa,2014,22,Mujeres
-1152,20 Gipuzkoa,2013,19,Mujeres
-1153,20 Gipuzkoa,2012,31,Mujeres
-1154,20 Gipuzkoa,2011,15,Mujeres
-1155,20 Gipuzkoa,2010,18,Mujeres
-1156,20 Gipuzkoa,2009,17,Mujeres
-1157,20 Gipuzkoa,2008,21,Mujeres
-1158,20 Gipuzkoa,2007,15,Mujeres
-1159,20 Gipuzkoa,2006,21,Mujeres
-1160,20 Gipuzkoa,2005,7,Mujeres
-1161,17 Girona,2020,29,Mujeres
-1162,17 Girona,2019,48,Mujeres
-1163,17 Girona,2018,41,Mujeres
-1164,17 Girona,2017,48,Mujeres
-1165,17 Girona,2016,40,Mujeres
-1166,17 Girona,2015,30,Mujeres
-1167,17 Girona,2014,39,Mujeres
-1168,17 Girona,2013,21,Mujeres
-1169,17 Girona,2012,22,Mujeres
-1170,17 Girona,2011,21,Mujeres
-1171,17 Girona,2010,20,Mujeres
-1172,17 Girona,2009,22,Mujeres
-1173,17 Girona,2008,26,Mujeres
-1174,17 Girona,2007,17,Mujeres
-1175,17 Girona,2006,21,Mujeres
-1176,17 Girona,2005,6,Mujeres
-1177,18 Granada,2020,30,Mujeres
-1178,18 Granada,2019,50,Mujeres
-1179,18 Granada,2018,42,Mujeres
-1180,18 Granada,2017,45,Mujeres
-1181,18 Granada,2016,37,Mujeres
-1182,18 Granada,2015,33,Mujeres
-1183,18 Granada,2014,27,Mujeres
-1184,18 Granada,2013,29,Mujeres
-1185,18 Granada,2012,21,Mujeres
-1186,18 Granada,2011,23,Mujeres
-1187,18 Granada,2010,24,Mujeres
-1188,18 Granada,2009,17,Mujeres
-1189,18 Granada,2008,28,Mujeres
-1190,18 Granada,2007,14,Mujeres
-1191,18 Granada,2006,17,Mujeres
-1192,18 Granada,2005,3,Mujeres
-1193,19 Guadalajara,2020,12,Mujeres
-1194,19 Guadalajara,2019,15,Mujeres
-1195,19 Guadalajara,2018,10,Mujeres
-1196,19 Guadalajara,2017,8,Mujeres
-1197,19 Guadalajara,2016,9,Mujeres
-1198,19 Guadalajara,2015,10,Mujeres
-1199,19 Guadalajara,2014,6,Mujeres
-1200,19 Guadalajara,2013,12,Mujeres
-1201,19 Guadalajara,2012,4,Mujeres
-1202,19 Guadalajara,2011,9,Mujeres
-1203,19 Guadalajara,2010,10,Mujeres
-1204,19 Guadalajara,2009,7,Mujeres
-1205,19 Guadalajara,2008,5,Mujeres
-1206,19 Guadalajara,2007,4,Mujeres
-1207,19 Guadalajara,2006,10,Mujeres
-1208,19 Guadalajara,2005,1,Mujeres
-1209,21 Huelva,2020,16,Mujeres
-1210,21 Huelva,2019,31,Mujeres
-1211,21 Huelva,2018,22,Mujeres
-1212,21 Huelva,2017,27,Mujeres
-1213,21 Huelva,2016,19,Mujeres
-1214,21 Huelva,2015,17,Mujeres
-1215,21 Huelva,2014,12,Mujeres
-1216,21 Huelva,2013,12,Mujeres
-1217,21 Huelva,2012,21,Mujeres
-1218,21 Huelva,2011,19,Mujeres
-1219,21 Huelva,2010,11,Mujeres
-1220,21 Huelva,2009,3,Mujeres
-1221,21 Huelva,2008,11,Mujeres
-1222,21 Huelva,2007,8,Mujeres
-1223,21 Huelva,2006,5,Mujeres
-1224,21 Huelva,2005,4,Mujeres
-1225,22 Huesca,2020,2,Mujeres
-1226,22 Huesca,2019,6,Mujeres
-1227,22 Huesca,2018,1,Mujeres
-1228,22 Huesca,2017,6,Mujeres
-1229,22 Huesca,2016,1,Mujeres
-1230,22 Huesca,2015,2,Mujeres
-1231,22 Huesca,2014,4,Mujeres
-1232,22 Huesca,2013,2,Mujeres
-1233,22 Huesca,2012,2,Mujeres
-1234,22 Huesca,2011,4,Mujeres
-1235,22 Huesca,2010,3,Mujeres
-1236,22 Huesca,2009,2,Mujeres
-1237,22 Huesca,2008,1,Mujeres
-1238,22 Huesca,2006,2,Mujeres
-1239,23 Jaén,2020,10,Mujeres
-1240,23 Jaén,2019,25,Mujeres
-1241,23 Jaén,2018,21,Mujeres
-1242,23 Jaén,2017,18,Mujeres
-1243,23 Jaén,2016,12,Mujeres
-1244,23 Jaén,2015,7,Mujeres
-1245,23 Jaén,2014,8,Mujeres
-1246,23 Jaén,2013,7,Mujeres
-1247,23 Jaén,2012,7,Mujeres
-1248,23 Jaén,2011,7,Mujeres
-1249,23 Jaén,2010,3,Mujeres
-1250,23 Jaén,2009,5,Mujeres
-1251,23 Jaén,2008,2,Mujeres
-1252,23 Jaén,2007,2,Mujeres
-1253,23 Jaén,2006,3,Mujeres
-1254,23 Jaén,2005,2,Mujeres
-1255,24 León,2020,6,Mujeres
-1256,24 León,2019,8,Mujeres
-1257,24 León,2018,9,Mujeres
-1258,24 León,2017,9,Mujeres
-1259,24 León,2016,9,Mujeres
-1260,24 León,2015,8,Mujeres
-1261,24 León,2014,7,Mujeres
-1262,24 León,2013,3,Mujeres
-1263,24 León,2012,7,Mujeres
-1264,24 León,2011,4,Mujeres
-1265,24 León,2010,8,Mujeres
-1266,24 León,2009,5,Mujeres
-1267,24 León,2008,4,Mujeres
-1268,24 León,2007,2,Mujeres
-1269,24 León,2006,4,Mujeres
-1270,24 León,2005,2,Mujeres
-1271,25 Lleida,2020,12,Mujeres
-1272,25 Lleida,2019,13,Mujeres
-1273,25 Lleida,2018,8,Mujeres
-1274,25 Lleida,2017,10,Mujeres
-1275,25 Lleida,2016,10,Mujeres
-1276,25 Lleida,2015,14,Mujeres
-1277,25 Lleida,2014,10,Mujeres
-1278,25 Lleida,2013,5,Mujeres
-1279,25 Lleida,2012,10,Mujeres
-1280,25 Lleida,2011,11,Mujeres
-1281,25 Lleida,2010,6,Mujeres
-1282,25 Lleida,2009,11,Mujeres
-1283,25 Lleida,2008,7,Mujeres
-1284,25 Lleida,2007,6,Mujeres
-1285,25 Lleida,2006,11,Mujeres
-1286,25 Lleida,2005,2,Mujeres
-1287,27 Lugo,2020,5,Mujeres
-1288,27 Lugo,2019,4,Mujeres
-1289,27 Lugo,2018,7,Mujeres
-1290,27 Lugo,2017,7,Mujeres
-1291,27 Lugo,2016,3,Mujeres
-1292,27 Lugo,2015,1,Mujeres
-1293,27 Lugo,2014,3,Mujeres
-1294,27 Lugo,2013,3,Mujeres
-1295,27 Lugo,2012,3,Mujeres
-1296,27 Lugo,2011,4,Mujeres
-1297,27 Lugo,2010,2,Mujeres
-1298,27 Lugo,2009,3,Mujeres
-1299,27 Lugo,2007,1,Mujeres
-1300,27 Lugo,2006,2,Mujeres
-1301,28 Madrid,2020,247,Mujeres
-1302,28 Madrid,2019,482,Mujeres
-1303,28 Madrid,2018,456,Mujeres
-1304,28 Madrid,2017,347,Mujeres
-1305,28 Madrid,2016,329,Mujeres
-1306,28 Madrid,2015,311,Mujeres
-1307,28 Madrid,2014,241,Mujeres
-1308,28 Madrid,2013,268,Mujeres
-1309,28 Madrid,2012,250,Mujeres
-1310,28 Madrid,2011,246,Mujeres
-1311,28 Madrid,2010,193,Mujeres
-1312,28 Madrid,2009,156,Mujeres
-1313,28 Madrid,2008,203,Mujeres
-1314,28 Madrid,2007,186,Mujeres
-1315,28 Madrid,2006,236,Mujeres
-1316,28 Madrid,2005,58,Mujeres
-1317,29 Málaga,2020,77,Mujeres
-1318,29 Málaga,2019,125,Mujeres
-1319,29 Málaga,2018,108,Mujeres
-1320,29 Málaga,2017,84,Mujeres
-1321,29 Málaga,2016,83,Mujeres
-1322,29 Málaga,2015,65,Mujeres
-1323,29 Málaga,2014,49,Mujeres
-1324,29 Málaga,2013,48,Mujeres
-1325,29 Málaga,2012,48,Mujeres
-1326,29 Málaga,2011,35,Mujeres
-1327,29 Málaga,2010,49,Mujeres
-1328,29 Málaga,2009,35,Mujeres
-1329,29 Málaga,2008,40,Mujeres
-1330,29 Málaga,2007,45,Mujeres
-1331,29 Málaga,2006,55,Mujeres
-1332,29 Málaga,2005,10,Mujeres
-1333,30 Murcia,2020,51,Mujeres
-1334,30 Murcia,2019,74,Mujeres
-1335,30 Murcia,2018,84,Mujeres
-1336,30 Murcia,2017,64,Mujeres
-1337,30 Murcia,2016,54,Mujeres
-1338,30 Murcia,2015,46,Mujeres
-1339,30 Murcia,2014,44,Mujeres
-1340,30 Murcia,2013,35,Mujeres
-1341,30 Murcia,2012,46,Mujeres
-1342,30 Murcia,2011,37,Mujeres
-1343,30 Murcia,2010,40,Mujeres
-1344,30 Murcia,2009,24,Mujeres
-1345,30 Murcia,2008,17,Mujeres
-1346,30 Murcia,2007,22,Mujeres
-1347,30 Murcia,2006,22,Mujeres
-1348,30 Murcia,2005,4,Mujeres
-1349,31 Navarra,2020,16,Mujeres
-1350,31 Navarra,2019,34,Mujeres
-1351,31 Navarra,2018,34,Mujeres
-1352,31 Navarra,2017,18,Mujeres
-1353,31 Navarra,2016,28,Mujeres
-1354,31 Navarra,2015,29,Mujeres
-1355,31 Navarra,2014,10,Mujeres
-1356,31 Navarra,2013,10,Mujeres
-1357,31 Navarra,2012,18,Mujeres
-1358,31 Navarra,2011,13,Mujeres
-1359,31 Navarra,2010,20,Mujeres
-1360,31 Navarra,2009,15,Mujeres
-1361,31 Navarra,2008,19,Mujeres
-1362,31 Navarra,2007,12,Mujeres
-1363,31 Navarra,2006,13,Mujeres
-1364,31 Navarra,2005,2,Mujeres
-1365,32 Ourense,2020,5,Mujeres
-1366,32 Ourense,2019,6,Mujeres
-1367,32 Ourense,2018,6,Mujeres
-1368,32 Ourense,2017,5,Mujeres
-1369,32 Ourense,2016,6,Mujeres
-1370,32 Ourense,2015,5,Mujeres
-1371,32 Ourense,2014,2,Mujeres
-1372,32 Ourense,2012,1,Mujeres
-1373,32 Ourense,2011,1,Mujeres
-1374,32 Ourense,2010,2,Mujeres
-1375,32 Ourense,2009,5,Mujeres
-1376,32 Ourense,2008,2,Mujeres
-1377,32 Ourense,2006,2,Mujeres
-1378,34 Palencia,2020,2,Mujeres
-1379,34 Palencia,2019,4,Mujeres
-1380,34 Palencia,2018,2,Mujeres
-1381,34 Palencia,2017,4,Mujeres
-1382,34 Palencia,2016,4,Mujeres
-1383,34 Palencia,2015,1,Mujeres
-1384,34 Palencia,2013,2,Mujeres
-1385,34 Palencia,2012,3,Mujeres
-1386,34 Palencia,2011,3,Mujeres
-1387,34 Palencia,2010,2,Mujeres
-1388,34 Palencia,2007,1,Mujeres
-1389,34 Palencia,2006,1,Mujeres
-1390,"35 Palmas, Las",2020,63,Mujeres
-1391,"35 Palmas, Las",2019,122,Mujeres
-1392,"35 Palmas, Las",2018,103,Mujeres
-1393,"35 Palmas, Las",2017,86,Mujeres
-1394,"35 Palmas, Las",2016,95,Mujeres
-1395,"35 Palmas, Las",2015,86,Mujeres
-1396,"35 Palmas, Las",2014,67,Mujeres
-1397,"35 Palmas, Las",2013,69,Mujeres
-1398,"35 Palmas, Las",2012,57,Mujeres
-1399,"35 Palmas, Las",2011,57,Mujeres
-1400,"35 Palmas, Las",2010,41,Mujeres
-1401,"35 Palmas, Las",2009,43,Mujeres
-1402,"35 Palmas, Las",2008,50,Mujeres
-1403,"35 Palmas, Las",2007,41,Mujeres
-1404,"35 Palmas, Las",2006,53,Mujeres
-1405,"35 Palmas, Las",2005,10,Mujeres
-1406,36 Pontevedra,2020,28,Mujeres
-1407,36 Pontevedra,2019,20,Mujeres
-1408,36 Pontevedra,2018,19,Mujeres
-1409,36 Pontevedra,2017,29,Mujeres
-1410,36 Pontevedra,2016,27,Mujeres
-1411,36 Pontevedra,2015,17,Mujeres
-1412,36 Pontevedra,2014,8,Mujeres
-1413,36 Pontevedra,2013,10,Mujeres
-1414,36 Pontevedra,2012,10,Mujeres
-1415,36 Pontevedra,2011,16,Mujeres
-1416,36 Pontevedra,2010,12,Mujeres
-1417,36 Pontevedra,2009,10,Mujeres
-1418,36 Pontevedra,2008,13,Mujeres
-1419,36 Pontevedra,2007,9,Mujeres
-1420,36 Pontevedra,2006,12,Mujeres
-1421,36 Pontevedra,2005,2,Mujeres
-1422,"26 Rioja, La",2020,18,Mujeres
-1423,"26 Rioja, La",2019,15,Mujeres
-1424,"26 Rioja, La",2018,11,Mujeres
-1425,"26 Rioja, La",2017,8,Mujeres
-1426,"26 Rioja, La",2016,9,Mujeres
-1427,"26 Rioja, La",2015,7,Mujeres
-1428,"26 Rioja, La",2014,9,Mujeres
-1429,"26 Rioja, La",2013,5,Mujeres
-1430,"26 Rioja, La",2012,11,Mujeres
-1431,"26 Rioja, La",2011,8,Mujeres
-1432,"26 Rioja, La",2010,5,Mujeres
-1433,"26 Rioja, La",2009,6,Mujeres
-1434,"26 Rioja, La",2008,4,Mujeres
-1435,"26 Rioja, La",2007,2,Mujeres
-1436,"26 Rioja, La",2006,3,Mujeres
-1437,"26 Rioja, La",2005,3,Mujeres
-1438,37 Salamanca,2020,1,Mujeres
-1439,37 Salamanca,2019,12,Mujeres
-1440,37 Salamanca,2018,8,Mujeres
-1441,37 Salamanca,2017,7,Mujeres
-1442,37 Salamanca,2016,7,Mujeres
-1443,37 Salamanca,2015,7,Mujeres
-1444,37 Salamanca,2014,4,Mujeres
-1445,37 Salamanca,2013,9,Mujeres
-1446,37 Salamanca,2012,8,Mujeres
-1447,37 Salamanca,2011,4,Mujeres
-1448,37 Salamanca,2010,3,Mujeres
-1449,37 Salamanca,2009,3,Mujeres
-1450,37 Salamanca,2008,7,Mujeres
-1451,37 Salamanca,2007,2,Mujeres
-1452,37 Salamanca,2006,2,Mujeres
-1453,38 Santa Cruz de Tenerife,2020,65,Mujeres
-1454,38 Santa Cruz de Tenerife,2019,94,Mujeres
-1455,38 Santa Cruz de Tenerife,2018,78,Mujeres
-1456,38 Santa Cruz de Tenerife,2017,75,Mujeres
-1457,38 Santa Cruz de Tenerife,2016,85,Mujeres
-1458,38 Santa Cruz de Tenerife,2015,55,Mujeres
-1459,38 Santa Cruz de Tenerife,2014,59,Mujeres
-1460,38 Santa Cruz de Tenerife,2013,52,Mujeres
-1461,38 Santa Cruz de Tenerife,2012,42,Mujeres
-1462,38 Santa Cruz de Tenerife,2011,36,Mujeres
-1463,38 Santa Cruz de Tenerife,2010,33,Mujeres
-1464,38 Santa Cruz de Tenerife,2009,41,Mujeres
-1465,38 Santa Cruz de Tenerife,2008,30,Mujeres
-1466,38 Santa Cruz de Tenerife,2007,33,Mujeres
-1467,38 Santa Cruz de Tenerife,2006,29,Mujeres
-1468,38 Santa Cruz de Tenerife,2005,7,Mujeres
-1469,40 Segovia,2020,3,Mujeres
-1470,40 Segovia,2019,4,Mujeres
-1471,40 Segovia,2018,3,Mujeres
-1472,40 Segovia,2017,6,Mujeres
-1473,40 Segovia,2016,4,Mujeres
-1474,40 Segovia,2015,3,Mujeres
-1475,40 Segovia,2014,2,Mujeres
-1476,40 Segovia,2013,2,Mujeres
-1477,40 Segovia,2012,2,Mujeres
-1478,40 Segovia,2011,5,Mujeres
-1479,40 Segovia,2010,6,Mujeres
-1480,40 Segovia,2009,1,Mujeres
-1481,40 Segovia,2008,1,Mujeres
-1482,40 Segovia,2007,1,Mujeres
-1483,40 Segovia,2006,4,Mujeres
-1484,40 Segovia,2005,1,Mujeres
-1485,41 Sevilla,2020,87,Mujeres
-1486,41 Sevilla,2019,123,Mujeres
-1487,41 Sevilla,2018,115,Mujeres
-1488,41 Sevilla,2017,104,Mujeres
-1489,41 Sevilla,2016,113,Mujeres
-1490,41 Sevilla,2015,83,Mujeres
-1491,41 Sevilla,2014,76,Mujeres
-1492,41 Sevilla,2013,64,Mujeres
-1493,41 Sevilla,2012,59,Mujeres
-1494,41 Sevilla,2011,57,Mujeres
-1495,41 Sevilla,2010,38,Mujeres
-1496,41 Sevilla,2009,42,Mujeres
-1497,41 Sevilla,2008,48,Mujeres
-1498,41 Sevilla,2007,53,Mujeres
-1499,41 Sevilla,2006,64,Mujeres
-1500,41 Sevilla,2005,15,Mujeres
-1501,42 Soria,2020,2,Mujeres
-1502,42 Soria,2019,3,Mujeres
-1503,42 Soria,2018,3,Mujeres
-1504,42 Soria,2016,1,Mujeres
-1505,42 Soria,2015,2,Mujeres
-1506,42 Soria,2013,1,Mujeres
-1507,42 Soria,2011,1,Mujeres
-1508,42 Soria,2007,1,Mujeres
-1509,43 Tarragona,2020,29,Mujeres
-1510,43 Tarragona,2019,38,Mujeres
-1511,43 Tarragona,2018,39,Mujeres
-1512,43 Tarragona,2017,26,Mujeres
-1513,43 Tarragona,2016,28,Mujeres
-1514,43 Tarragona,2015,34,Mujeres
-1515,43 Tarragona,2014,21,Mujeres
-1516,43 Tarragona,2013,29,Mujeres
-1517,43 Tarragona,2012,39,Mujeres
-1518,43 Tarragona,2011,29,Mujeres
-1519,43 Tarragona,2010,24,Mujeres
-1520,43 Tarragona,2009,21,Mujeres
-1521,43 Tarragona,2008,19,Mujeres
-1522,43 Tarragona,2007,22,Mujeres
-1523,43 Tarragona,2006,24,Mujeres
-1524,43 Tarragona,2005,11,Mujeres
-1525,44 Teruel,2020,2,Mujeres
-1526,44 Teruel,2019,2,Mujeres
-1527,44 Teruel,2018,1,Mujeres
-1528,44 Teruel,2017,1,Mujeres
-1529,44 Teruel,2016,1,Mujeres
-1530,44 Teruel,2014,2,Mujeres
-1531,44 Teruel,2012,1,Mujeres
-1532,44 Teruel,2010,2,Mujeres
-1533,44 Teruel,2009,1,Mujeres
-1534,44 Teruel,2008,1,Mujeres
-1535,44 Teruel,2007,1,Mujeres
-1536,44 Teruel,2006,1,Mujeres
-1537,45 Toledo,2020,13,Mujeres
-1538,45 Toledo,2019,23,Mujeres
-1539,45 Toledo,2018,31,Mujeres
-1540,45 Toledo,2017,24,Mujeres
-1541,45 Toledo,2016,20,Mujeres
-1542,45 Toledo,2015,17,Mujeres
-1543,45 Toledo,2014,19,Mujeres
-1544,45 Toledo,2013,13,Mujeres
-1545,45 Toledo,2012,23,Mujeres
-1546,45 Toledo,2011,17,Mujeres
-1547,45 Toledo,2010,9,Mujeres
-1548,45 Toledo,2009,9,Mujeres
-1549,45 Toledo,2008,6,Mujeres
-1550,45 Toledo,2007,4,Mujeres
-1551,45 Toledo,2006,5,Mujeres
-1552,45 Toledo,2005,3,Mujeres
-1553,46 Valencia/València,2020,138,Mujeres
-1554,46 Valencia/València,2019,146,Mujeres
-1555,46 Valencia/València,2018,167,Mujeres
-1556,46 Valencia/València,2017,142,Mujeres
-1557,46 Valencia/València,2016,144,Mujeres
-1558,46 Valencia/València,2015,126,Mujeres
-1559,46 Valencia/València,2014,114,Mujeres
-1560,46 Valencia/València,2013,88,Mujeres
-1561,46 Valencia/València,2012,107,Mujeres
-1562,46 Valencia/València,2011,121,Mujeres
-1563,46 Valencia/València,2010,78,Mujeres
-1564,46 Valencia/València,2009,78,Mujeres
-1565,46 Valencia/València,2008,68,Mujeres
-1566,46 Valencia/València,2007,79,Mujeres
-1567,46 Valencia/València,2006,85,Mujeres
-1568,46 Valencia/València,2005,36,Mujeres
-1569,47 Valladolid,2020,12,Mujeres
-1570,47 Valladolid,2019,16,Mujeres
-1571,47 Valladolid,2018,12,Mujeres
-1572,47 Valladolid,2017,12,Mujeres
-1573,47 Valladolid,2016,10,Mujeres
-1574,47 Valladolid,2015,10,Mujeres
-1575,47 Valladolid,2014,7,Mujeres
-1576,47 Valladolid,2013,3,Mujeres
-1577,47 Valladolid,2012,9,Mujeres
-1578,47 Valladolid,2011,7,Mujeres
-1579,47 Valladolid,2010,7,Mujeres
-1580,47 Valladolid,2009,4,Mujeres
-1581,47 Valladolid,2008,4,Mujeres
-1582,47 Valladolid,2007,3,Mujeres
-1583,47 Valladolid,2006,5,Mujeres
-1584,47 Valladolid,2005,2,Mujeres
-1585,49 Zamora,2018,1,Mujeres
-1586,49 Zamora,2017,1,Mujeres
-1587,49 Zamora,2016,1,Mujeres
-1588,49 Zamora,2015,2,Mujeres
-1589,49 Zamora,2013,1,Mujeres
-1590,49 Zamora,2009,1,Mujeres
-1591,49 Zamora,2007,1,Mujeres
-1592,49 Zamora,2006,1,Mujeres
-1593,50 Zaragoza,2020,20,Mujeres
-1594,50 Zaragoza,2019,32,Mujeres
-1595,50 Zaragoza,2018,34,Mujeres
-1596,50 Zaragoza,2017,27,Mujeres
-1597,50 Zaragoza,2016,26,Mujeres
-1598,50 Zaragoza,2015,23,Mujeres
-1599,50 Zaragoza,2014,26,Mujeres
-1600,50 Zaragoza,2013,26,Mujeres
-1601,50 Zaragoza,2012,21,Mujeres
-1602,50 Zaragoza,2011,21,Mujeres
-1603,50 Zaragoza,2010,28,Mujeres
-1604,50 Zaragoza,2009,22,Mujeres
-1605,50 Zaragoza,2008,12,Mujeres
-1606,50 Zaragoza,2007,14,Mujeres
-1607,50 Zaragoza,2006,20,Mujeres
-1608,50 Zaragoza,2005,4,Mujeres
-1609,51 Ceuta,2020,1,Mujeres
-1610,51 Ceuta,2019,1,Mujeres
-1611,51 Ceuta,2017,2,Mujeres
-1612,51 Ceuta,2016,1,Mujeres
-1613,51 Ceuta,2014,1,Mujeres
-1614,51 Ceuta,2012,2,Mujeres
-1615,51 Ceuta,2011,1,Mujeres
-1616,51 Ceuta,2010,1,Mujeres
-1617,51 Ceuta,2009,2,Mujeres
-1618,51 Ceuta,2008,1,Mujeres
-1619,51 Ceuta,2007,1,Mujeres
-1620,51 Ceuta,2005,1,Mujeres
-1621,52 Melilla,2020,1,Mujeres
-1622,52 Melilla,2019,3,Mujeres
-1623,52 Melilla,2018,7,Mujeres
-1624,52 Melilla,2017,2,Mujeres
-1625,52 Melilla,2016,2,Mujeres
-1626,52 Melilla,2015,2,Mujeres
-1627,52 Melilla,2014,2,Mujeres
-1628,52 Melilla,2011,2,Mujeres
-1629,52 Melilla,2009,3,Mujeres
-1630,52 Melilla,2008,2,Mujeres
-1631,52 Melilla,2007,2,Mujeres
-1632,No residente,2020,5,Mujeres
-1633,No residente,2019,9,Mujeres
-1634,No residente,2018,19,Mujeres
-1635,No residente,2017,18,Mujeres
-1636,No residente,2016,11,Mujeres
-1637,No residente,2015,12,Mujeres
-1638,No residente,2014,14,Mujeres
-1639,No residente,2013,7,Mujeres
-1640,No residente,2012,17,Mujeres
-1641,No residente,2011,13,Mujeres
-1642,No residente,2010,14,Mujeres
-1643,No residente,2009,6,Mujeres
-1644,No residente,2008,12,Mujeres
-1645,No residente,2007,12,Mujeres
-1646,No residente,2006,6,Mujeres
-1647,No residente,2005,2,Mujeres
-1648,02 Albacete,2020,6,Hombres
-1649,02 Albacete,2019,8,Hombres
-1650,02 Albacete,2018,10,Hombres
-1651,02 Albacete,2017,9,Hombres
-1652,02 Albacete,2016,6,Hombres
-1653,02 Albacete,2015,8,Hombres
-1654,02 Albacete,2014,8,Hombres
-1655,02 Albacete,2013,1,Hombres
-1656,02 Albacete,2012,6,Hombres
-1657,02 Albacete,2011,7,Hombres
-1658,02 Albacete,2010,5,Hombres
-1659,02 Albacete,2009,3,Hombres
-1660,02 Albacete,2008,3,Hombres
-1661,02 Albacete,2007,2,Hombres
-1662,02 Albacete,2006,9,Hombres
-1663,02 Albacete,2005,1,Hombres
-1664,03 Alicante/Alacant,2020,82,Hombres
-1665,03 Alicante/Alacant,2019,96,Hombres
-1666,03 Alicante/Alacant,2018,116,Hombres
-1667,03 Alicante/Alacant,2017,137,Hombres
-1668,03 Alicante/Alacant,2016,109,Hombres
-1669,03 Alicante/Alacant,2015,88,Hombres
-1670,03 Alicante/Alacant,2014,91,Hombres
-1671,03 Alicante/Alacant,2013,79,Hombres
-1672,03 Alicante/Alacant,2012,95,Hombres
-1673,03 Alicante/Alacant,2011,86,Hombres
-1674,03 Alicante/Alacant,2010,83,Hombres
-1675,03 Alicante/Alacant,2009,101,Hombres
-1676,03 Alicante/Alacant,2008,90,Hombres
-1677,03 Alicante/Alacant,2007,117,Hombres
-1678,03 Alicante/Alacant,2006,168,Hombres
-1679,03 Alicante/Alacant,2005,39,Hombres
-1680,04 Almería,2020,17,Hombres
-1681,04 Almería,2019,25,Hombres
-1682,04 Almería,2018,19,Hombres
-1683,04 Almería,2017,22,Hombres
-1684,04 Almería,2016,13,Hombres
-1685,04 Almería,2015,16,Hombres
-1686,04 Almería,2014,13,Hombres
-1687,04 Almería,2013,22,Hombres
-1688,04 Almería,2012,9,Hombres
-1689,04 Almería,2011,16,Hombres
-1690,04 Almería,2010,20,Hombres
-1691,04 Almería,2009,11,Hombres
-1692,04 Almería,2008,21,Hombres
-1693,04 Almería,2007,12,Hombres
-1694,04 Almería,2006,30,Hombres
-1695,04 Almería,2005,5,Hombres
-1696,01 Araba/Álava,2020,7,Hombres
-1697,01 Araba/Álava,2019,13,Hombres
-1698,01 Araba/Álava,2018,11,Hombres
-1699,01 Araba/Álava,2017,7,Hombres
-1700,01 Araba/Álava,2016,7,Hombres
-1701,01 Araba/Álava,2015,6,Hombres
-1702,01 Araba/Álava,2014,9,Hombres
-1703,01 Araba/Álava,2013,11,Hombres
-1704,01 Araba/Álava,2012,4,Hombres
-1705,01 Araba/Álava,2011,15,Hombres
-1706,01 Araba/Álava,2010,13,Hombres
-1707,01 Araba/Álava,2009,2,Hombres
-1708,01 Araba/Álava,2008,6,Hombres
-1709,01 Araba/Álava,2007,10,Hombres
-1710,01 Araba/Álava,2006,6,Hombres
-1711,01 Araba/Álava,2005,6,Hombres
-1712,33 Asturias,2020,28,Hombres
-1713,33 Asturias,2019,45,Hombres
-1714,33 Asturias,2018,29,Hombres
-1715,33 Asturias,2017,36,Hombres
-1716,33 Asturias,2016,30,Hombres
-1717,33 Asturias,2015,32,Hombres
-1718,33 Asturias,2014,23,Hombres
-1719,33 Asturias,2013,22,Hombres
-1720,33 Asturias,2012,25,Hombres
-1721,33 Asturias,2011,23,Hombres
-1722,33 Asturias,2010,34,Hombres
-1723,33 Asturias,2009,36,Hombres
-1724,33 Asturias,2008,35,Hombres
-1725,33 Asturias,2007,27,Hombres
-1726,33 Asturias,2006,51,Hombres
-1727,33 Asturias,2005,24,Hombres
-1728,05 Ávila,2020,1,Hombres
-1729,05 Ávila,2019,3,Hombres
-1730,05 Ávila,2018,3,Hombres
-1731,05 Ávila,2017,2,Hombres
-1732,05 Ávila,2016,5,Hombres
-1733,05 Ávila,2014,3,Hombres
-1734,05 Ávila,2012,1,Hombres
-1735,05 Ávila,2010,1,Hombres
-1736,05 Ávila,2009,4,Hombres
-1737,05 Ávila,2008,2,Hombres
-1738,05 Ávila,2007,2,Hombres
-1739,05 Ávila,2006,2,Hombres
-1740,06 Badajoz,2020,6,Hombres
-1741,06 Badajoz,2019,17,Hombres
-1742,06 Badajoz,2018,25,Hombres
-1743,06 Badajoz,2017,18,Hombres
-1744,06 Badajoz,2016,11,Hombres
-1745,06 Badajoz,2015,13,Hombres
-1746,06 Badajoz,2014,9,Hombres
-1747,06 Badajoz,2013,9,Hombres
-1748,06 Badajoz,2012,15,Hombres
-1749,06 Badajoz,2011,14,Hombres
-1750,06 Badajoz,2010,10,Hombres
-1751,06 Badajoz,2009,13,Hombres
-1752,06 Badajoz,2008,7,Hombres
-1753,06 Badajoz,2007,6,Hombres
-1754,06 Badajoz,2006,7,Hombres
-1755,06 Badajoz,2005,2,Hombres
-1756,"07 Balears, Illes",2020,57,Hombres
-1757,"07 Balears, Illes",2019,114,Hombres
-1758,"07 Balears, Illes",2018,110,Hombres
-1759,"07 Balears, Illes",2017,84,Hombres
-1760,"07 Balears, Illes",2016,78,Hombres
-1761,"07 Balears, Illes",2015,72,Hombres
-1762,"07 Balears, Illes",2014,63,Hombres
-1763,"07 Balears, Illes",2013,75,Hombres
-1764,"07 Balears, Illes",2012,56,Hombres
-1765,"07 Balears, Illes",2011,82,Hombres
-1766,"07 Balears, Illes",2010,71,Hombres
-1767,"07 Balears, Illes",2009,86,Hombres
-1768,"07 Balears, Illes",2008,56,Hombres
-1769,"07 Balears, Illes",2007,87,Hombres
-1770,"07 Balears, Illes",2006,95,Hombres
-1771,"07 Balears, Illes",2005,33,Hombres
-1772,08 Barcelona,2020,191,Hombres
-1773,08 Barcelona,2019,349,Hombres
-1774,08 Barcelona,2018,410,Hombres
-1775,08 Barcelona,2017,434,Hombres
-1776,08 Barcelona,2016,414,Hombres
-1777,08 Barcelona,2015,365,Hombres
-1778,08 Barcelona,2014,304,Hombres
-1779,08 Barcelona,2013,334,Hombres
-1780,08 Barcelona,2012,413,Hombres
-1781,08 Barcelona,2011,453,Hombres
-1782,08 Barcelona,2010,446,Hombres
-1783,08 Barcelona,2009,466,Hombres
-1784,08 Barcelona,2008,474,Hombres
-1785,08 Barcelona,2007,446,Hombres
-1786,08 Barcelona,2006,636,Hombres
-1787,08 Barcelona,2005,146,Hombres
-1788,48 Bizkaia,2020,32,Hombres
-1789,48 Bizkaia,2019,41,Hombres
-1790,48 Bizkaia,2018,40,Hombres
-1791,48 Bizkaia,2017,31,Hombres
-1792,48 Bizkaia,2016,42,Hombres
-1793,48 Bizkaia,2015,26,Hombres
-1794,48 Bizkaia,2014,26,Hombres
-1795,48 Bizkaia,2013,28,Hombres
-1796,48 Bizkaia,2012,36,Hombres
-1797,48 Bizkaia,2011,35,Hombres
-1798,48 Bizkaia,2010,25,Hombres
-1799,48 Bizkaia,2009,29,Hombres
-1800,48 Bizkaia,2008,34,Hombres
-1801,48 Bizkaia,2007,19,Hombres
-1802,48 Bizkaia,2006,47,Hombres
-1803,48 Bizkaia,2005,28,Hombres
-1804,09 Burgos,2020,5,Hombres
-1805,09 Burgos,2019,6,Hombres
-1806,09 Burgos,2018,1,Hombres
-1807,09 Burgos,2017,6,Hombres
-1808,09 Burgos,2016,5,Hombres
-1809,09 Burgos,2015,5,Hombres
-1810,09 Burgos,2014,3,Hombres
-1811,09 Burgos,2013,5,Hombres
-1812,09 Burgos,2012,6,Hombres
-1813,09 Burgos,2011,3,Hombres
-1814,09 Burgos,2010,1,Hombres
-1815,09 Burgos,2009,4,Hombres
-1816,09 Burgos,2008,4,Hombres
-1817,09 Burgos,2007,5,Hombres
-1818,09 Burgos,2006,2,Hombres
-1819,10 Cáceres,2020,4,Hombres
-1820,10 Cáceres,2019,8,Hombres
-1821,10 Cáceres,2018,12,Hombres
-1822,10 Cáceres,2017,7,Hombres
-1823,10 Cáceres,2016,2,Hombres
-1824,10 Cáceres,2015,5,Hombres
-1825,10 Cáceres,2014,7,Hombres
-1826,10 Cáceres,2013,3,Hombres
-1827,10 Cáceres,2012,6,Hombres
-1828,10 Cáceres,2011,4,Hombres
-1829,10 Cáceres,2010,5,Hombres
-1830,10 Cáceres,2009,3,Hombres
-1831,10 Cáceres,2008,4,Hombres
-1832,10 Cáceres,2007,7,Hombres
-1833,10 Cáceres,2006,7,Hombres
-1834,10 Cáceres,2005,3,Hombres
-1835,11 Cádiz,2020,17,Hombres
-1836,11 Cádiz,2019,54,Hombres
-1837,11 Cádiz,2018,52,Hombres
-1838,11 Cádiz,2017,42,Hombres
-1839,11 Cádiz,2016,36,Hombres
-1840,11 Cádiz,2015,33,Hombres
-1841,11 Cádiz,2014,39,Hombres
-1842,11 Cádiz,2013,25,Hombres
-1843,11 Cádiz,2012,26,Hombres
-1844,11 Cádiz,2011,31,Hombres
-1845,11 Cádiz,2010,37,Hombres
-1846,11 Cádiz,2009,31,Hombres
-1847,11 Cádiz,2008,22,Hombres
-1848,11 Cádiz,2007,31,Hombres
-1849,11 Cádiz,2006,54,Hombres
-1850,11 Cádiz,2005,23,Hombres
-1851,39 Cantabria,2020,19,Hombres
-1852,39 Cantabria,2019,21,Hombres
-1853,39 Cantabria,2018,20,Hombres
-1854,39 Cantabria,2017,19,Hombres
-1855,39 Cantabria,2016,18,Hombres
-1856,39 Cantabria,2015,16,Hombres
-1857,39 Cantabria,2014,11,Hombres
-1858,39 Cantabria,2013,15,Hombres
-1859,39 Cantabria,2012,12,Hombres
-1860,39 Cantabria,2011,16,Hombres
-1861,39 Cantabria,2010,9,Hombres
-1862,39 Cantabria,2009,11,Hombres
-1863,39 Cantabria,2008,19,Hombres
-1864,39 Cantabria,2007,12,Hombres
-1865,39 Cantabria,2006,18,Hombres
-1866,39 Cantabria,2005,9,Hombres
-1867,12 Castellón/Castelló,2020,12,Hombres
-1868,12 Castellón/Castelló,2019,19,Hombres
-1869,12 Castellón/Castelló,2018,27,Hombres
-1870,12 Castellón/Castelló,2017,17,Hombres
-1871,12 Castellón/Castelló,2016,10,Hombres
-1872,12 Castellón/Castelló,2015,19,Hombres
-1873,12 Castellón/Castelló,2014,10,Hombres
-1874,12 Castellón/Castelló,2013,7,Hombres
-1875,12 Castellón/Castelló,2012,19,Hombres
-1876,12 Castellón/Castelló,2011,16,Hombres
-1877,12 Castellón/Castelló,2010,13,Hombres
-1878,12 Castellón/Castelló,2009,10,Hombres
-1879,12 Castellón/Castelló,2008,13,Hombres
-1880,12 Castellón/Castelló,2007,13,Hombres
-1881,12 Castellón/Castelló,2006,20,Hombres
-1882,12 Castellón/Castelló,2005,5,Hombres
-1883,13 Ciudad Real,2020,2,Hombres
-1884,13 Ciudad Real,2019,13,Hombres
-1885,13 Ciudad Real,2018,21,Hombres
-1886,13 Ciudad Real,2017,10,Hombres
-1887,13 Ciudad Real,2016,9,Hombres
-1888,13 Ciudad Real,2015,2,Hombres
-1889,13 Ciudad Real,2014,5,Hombres
-1890,13 Ciudad Real,2013,6,Hombres
-1891,13 Ciudad Real,2012,5,Hombres
-1892,13 Ciudad Real,2011,6,Hombres
-1893,13 Ciudad Real,2010,5,Hombres
-1894,13 Ciudad Real,2009,5,Hombres
-1895,13 Ciudad Real,2008,6,Hombres
-1896,13 Ciudad Real,2007,7,Hombres
-1897,13 Ciudad Real,2006,9,Hombres
-1898,13 Ciudad Real,2005,5,Hombres
-1899,14 Córdoba,2020,17,Hombres
-1900,14 Córdoba,2019,28,Hombres
-1901,14 Córdoba,2018,29,Hombres
-1902,14 Córdoba,2017,28,Hombres
-1903,14 Córdoba,2016,24,Hombres
-1904,14 Córdoba,2015,12,Hombres
-1905,14 Córdoba,2014,17,Hombres
-1906,14 Córdoba,2013,9,Hombres
-1907,14 Córdoba,2012,11,Hombres
-1908,14 Córdoba,2011,19,Hombres
-1909,14 Córdoba,2010,14,Hombres
-1910,14 Córdoba,2009,18,Hombres
-1911,14 Córdoba,2008,11,Hombres
-1912,14 Córdoba,2007,18,Hombres
-1913,14 Córdoba,2006,23,Hombres
-1914,14 Córdoba,2005,4,Hombres
-1915,"15 Coruña, A",2020,19,Hombres
-1916,"15 Coruña, A",2019,45,Hombres
-1917,"15 Coruña, A",2018,34,Hombres
-1918,"15 Coruña, A",2017,36,Hombres
-1919,"15 Coruña, A",2016,28,Hombres
-1920,"15 Coruña, A",2015,26,Hombres
-1921,"15 Coruña, A",2014,22,Hombres
-1922,"15 Coruña, A",2013,22,Hombres
-1923,"15 Coruña, A",2012,30,Hombres
-1924,"15 Coruña, A",2011,32,Hombres
-1925,"15 Coruña, A",2010,21,Hombres
-1926,"15 Coruña, A",2009,25,Hombres
-1927,"15 Coruña, A",2008,30,Hombres
-1928,"15 Coruña, A",2007,25,Hombres
-1929,"15 Coruña, A",2006,24,Hombres
-1930,"15 Coruña, A",2005,16,Hombres
-1931,16 Cuenca,2020,1,Hombres
-1932,16 Cuenca,2019,3,Hombres
-1933,16 Cuenca,2018,2,Hombres
-1934,16 Cuenca,2017,4,Hombres
-1935,16 Cuenca,2015,7,Hombres
-1936,16 Cuenca,2014,3,Hombres
-1937,16 Cuenca,2013,2,Hombres
-1938,16 Cuenca,2012,1,Hombres
-1939,16 Cuenca,2010,3,Hombres
-1940,16 Cuenca,2008,3,Hombres
-1941,16 Cuenca,2007,1,Hombres
-1942,16 Cuenca,2006,1,Hombres
-1943,16 Cuenca,2005,1,Hombres
-1944,20 Gipuzkoa,2020,6,Hombres
-1945,20 Gipuzkoa,2019,23,Hombres
-1946,20 Gipuzkoa,2018,29,Hombres
-1947,20 Gipuzkoa,2017,30,Hombres
-1948,20 Gipuzkoa,2016,26,Hombres
-1949,20 Gipuzkoa,2015,18,Hombres
-1950,20 Gipuzkoa,2014,17,Hombres
-1951,20 Gipuzkoa,2013,17,Hombres
-1952,20 Gipuzkoa,2012,19,Hombres
-1953,20 Gipuzkoa,2011,25,Hombres
-1954,20 Gipuzkoa,2010,23,Hombres
-1955,20 Gipuzkoa,2009,23,Hombres
-1956,20 Gipuzkoa,2008,9,Hombres
-1957,20 Gipuzkoa,2007,22,Hombres
-1958,20 Gipuzkoa,2006,37,Hombres
-1959,20 Gipuzkoa,2005,19,Hombres
-1960,17 Girona,2020,15,Hombres
-1961,17 Girona,2019,27,Hombres
-1962,17 Girona,2018,21,Hombres
-1963,17 Girona,2017,27,Hombres
-1964,17 Girona,2016,37,Hombres
-1965,17 Girona,2015,30,Hombres
-1966,17 Girona,2014,23,Hombres
-1967,17 Girona,2013,24,Hombres
-1968,17 Girona,2012,31,Hombres
-1969,17 Girona,2011,36,Hombres
-1970,17 Girona,2010,27,Hombres
-1971,17 Girona,2009,33,Hombres
-1972,17 Girona,2008,26,Hombres
-1973,17 Girona,2007,28,Hombres
-1974,17 Girona,2006,42,Hombres
-1975,17 Girona,2005,22,Hombres
-1976,18 Granada,2020,25,Hombres
-1977,18 Granada,2019,57,Hombres
-1978,18 Granada,2018,29,Hombres
-1979,18 Granada,2017,36,Hombres
-1980,18 Granada,2016,41,Hombres
-1981,18 Granada,2015,31,Hombres
-1982,18 Granada,2014,23,Hombres
-1983,18 Granada,2013,18,Hombres
-1984,18 Granada,2012,30,Hombres
-1985,18 Granada,2011,30,Hombres
-1986,18 Granada,2010,16,Hombres
-1987,18 Granada,2009,30,Hombres
-1988,18 Granada,2008,31,Hombres
-1989,18 Granada,2007,24,Hombres
-1990,18 Granada,2006,49,Hombres
-1991,18 Granada,2005,10,Hombres
-1992,19 Guadalajara,2020,4,Hombres
-1993,19 Guadalajara,2019,9,Hombres
-1994,19 Guadalajara,2018,8,Hombres
-1995,19 Guadalajara,2017,6,Hombres
-1996,19 Guadalajara,2016,7,Hombres
-1997,19 Guadalajara,2015,3,Hombres
-1998,19 Guadalajara,2014,7,Hombres
-1999,19 Guadalajara,2013,5,Hombres
-2000,19 Guadalajara,2012,4,Hombres
-2001,19 Guadalajara,2011,10,Hombres
-2002,19 Guadalajara,2010,11,Hombres
-2003,19 Guadalajara,2009,4,Hombres
-2004,19 Guadalajara,2008,7,Hombres
-2005,19 Guadalajara,2007,8,Hombres
-2006,19 Guadalajara,2006,12,Hombres
-2007,19 Guadalajara,2005,1,Hombres
-2008,21 Huelva,2020,13,Hombres
-2009,21 Huelva,2019,12,Hombres
-2010,21 Huelva,2018,10,Hombres
-2011,21 Huelva,2017,14,Hombres
-2012,21 Huelva,2016,21,Hombres
-2013,21 Huelva,2015,17,Hombres
-2014,21 Huelva,2014,12,Hombres
-2015,21 Huelva,2013,11,Hombres
-2016,21 Huelva,2012,12,Hombres
-2017,21 Huelva,2011,8,Hombres
-2018,21 Huelva,2010,11,Hombres
-2019,21 Huelva,2009,7,Hombres
-2020,21 Huelva,2008,13,Hombres
-2021,21 Huelva,2007,5,Hombres
-2022,21 Huelva,2006,9,Hombres
-2023,21 Huelva,2005,6,Hombres
-2024,22 Huesca,2020,2,Hombres
-2025,22 Huesca,2019,3,Hombres
-2026,22 Huesca,2018,1,Hombres
-2027,22 Huesca,2017,2,Hombres
-2028,22 Huesca,2016,2,Hombres
-2029,22 Huesca,2015,4,Hombres
-2030,22 Huesca,2014,2,Hombres
-2031,22 Huesca,2013,1,Hombres
-2032,22 Huesca,2012,1,Hombres
-2033,22 Huesca,2011,3,Hombres
-2034,22 Huesca,2010,6,Hombres
-2035,22 Huesca,2009,1,Hombres
-2036,22 Huesca,2008,6,Hombres
-2037,22 Huesca,2007,1,Hombres
-2038,22 Huesca,2006,6,Hombres
-2039,22 Huesca,2005,1,Hombres
-2040,23 Jaén,2020,17,Hombres
-2041,23 Jaén,2019,21,Hombres
-2042,23 Jaén,2018,20,Hombres
-2043,23 Jaén,2017,16,Hombres
-2044,23 Jaén,2016,15,Hombres
-2045,23 Jaén,2015,9,Hombres
-2046,23 Jaén,2014,10,Hombres
-2047,23 Jaén,2013,8,Hombres
-2048,23 Jaén,2012,7,Hombres
-2049,23 Jaén,2011,9,Hombres
-2050,23 Jaén,2010,9,Hombres
-2051,23 Jaén,2009,5,Hombres
-2052,23 Jaén,2008,10,Hombres
-2053,23 Jaén,2007,6,Hombres
-2054,23 Jaén,2006,11,Hombres
-2055,23 Jaén,2005,5,Hombres
-2056,24 León,2020,7,Hombres
-2057,24 León,2019,7,Hombres
-2058,24 León,2018,8,Hombres
-2059,24 León,2017,7,Hombres
-2060,24 León,2016,12,Hombres
-2061,24 León,2015,12,Hombres
-2062,24 León,2014,8,Hombres
-2063,24 León,2013,2,Hombres
-2064,24 León,2012,6,Hombres
-2065,24 León,2011,8,Hombres
-2066,24 León,2010,4,Hombres
-2067,24 León,2009,7,Hombres
-2068,24 León,2008,4,Hombres
-2069,24 León,2007,11,Hombres
-2070,24 León,2006,9,Hombres
-2071,24 León,2005,1,Hombres
-2072,25 Lleida,2020,11,Hombres
-2073,25 Lleida,2019,15,Hombres
-2074,25 Lleida,2018,9,Hombres
-2075,25 Lleida,2017,6,Hombres
-2076,25 Lleida,2016,13,Hombres
-2077,25 Lleida,2015,10,Hombres
-2078,25 Lleida,2014,7,Hombres
-2079,25 Lleida,2013,5,Hombres
-2080,25 Lleida,2012,8,Hombres
-2081,25 Lleida,2011,4,Hombres
-2082,25 Lleida,2010,15,Hombres
-2083,25 Lleida,2009,9,Hombres
-2084,25 Lleida,2008,13,Hombres
-2085,25 Lleida,2007,5,Hombres
-2086,25 Lleida,2006,16,Hombres
-2087,25 Lleida,2005,6,Hombres
-2088,27 Lugo,2020,3,Hombres
-2089,27 Lugo,2019,1,Hombres
-2090,27 Lugo,2018,6,Hombres
-2091,27 Lugo,2017,7,Hombres
-2092,27 Lugo,2016,4,Hombres
-2093,27 Lugo,2015,5,Hombres
-2094,27 Lugo,2014,2,Hombres
-2095,27 Lugo,2013,3,Hombres
-2096,27 Lugo,2012,6,Hombres
-2097,27 Lugo,2011,1,Hombres
-2098,27 Lugo,2010,2,Hombres
-2099,27 Lugo,2009,1,Hombres
-2100,27 Lugo,2008,2,Hombres
-2101,27 Lugo,2007,4,Hombres
-2102,27 Lugo,2006,4,Hombres
-2103,28 Madrid,2020,324,Hombres
-2104,28 Madrid,2019,540,Hombres
-2105,28 Madrid,2018,500,Hombres
-2106,28 Madrid,2017,487,Hombres
-2107,28 Madrid,2016,453,Hombres
-2108,28 Madrid,2015,415,Hombres
-2109,28 Madrid,2014,352,Hombres
-2110,28 Madrid,2013,366,Hombres
-2111,28 Madrid,2012,424,Hombres
-2112,28 Madrid,2011,483,Hombres
-2113,28 Madrid,2010,440,Hombres
-2114,28 Madrid,2009,397,Hombres
-2115,28 Madrid,2008,469,Hombres
-2116,28 Madrid,2007,454,Hombres
-2117,28 Madrid,2006,662,Hombres
-2118,28 Madrid,2005,200,Hombres
-2119,29 Málaga,2020,80,Hombres
-2120,29 Málaga,2019,112,Hombres
-2121,29 Málaga,2018,119,Hombres
-2122,29 Málaga,2017,99,Hombres
-2123,29 Málaga,2016,108,Hombres
-2124,29 Málaga,2015,82,Hombres
-2125,29 Málaga,2014,66,Hombres
-2126,29 Málaga,2013,68,Hombres
-2127,29 Málaga,2012,82,Hombres
-2128,29 Málaga,2011,91,Hombres
-2129,29 Málaga,2010,103,Hombres
-2130,29 Málaga,2009,102,Hombres
-2131,29 Málaga,2008,123,Hombres
-2132,29 Málaga,2007,120,Hombres
-2133,29 Málaga,2006,165,Hombres
-2134,29 Málaga,2005,23,Hombres
-2135,30 Murcia,2020,37,Hombres
-2136,30 Murcia,2019,64,Hombres
-2137,30 Murcia,2018,61,Hombres
-2138,30 Murcia,2017,57,Hombres
-2139,30 Murcia,2016,56,Hombres
-2140,30 Murcia,2015,39,Hombres
-2141,30 Murcia,2014,51,Hombres
-2142,30 Murcia,2013,31,Hombres
-2143,30 Murcia,2012,44,Hombres
-2144,30 Murcia,2011,34,Hombres
-2145,30 Murcia,2010,45,Hombres
-2146,30 Murcia,2009,38,Hombres
-2147,30 Murcia,2008,42,Hombres
-2148,30 Murcia,2007,46,Hombres
-2149,30 Murcia,2006,41,Hombres
-2150,30 Murcia,2005,11,Hombres
-2151,31 Navarra,2020,14,Hombres
-2152,31 Navarra,2019,26,Hombres
-2153,31 Navarra,2018,16,Hombres
-2154,31 Navarra,2017,17,Hombres
-2155,31 Navarra,2016,12,Hombres
-2156,31 Navarra,2015,21,Hombres
-2157,31 Navarra,2014,11,Hombres
-2158,31 Navarra,2013,16,Hombres
-2159,31 Navarra,2012,13,Hombres
-2160,31 Navarra,2011,11,Hombres
-2161,31 Navarra,2010,18,Hombres
-2162,31 Navarra,2009,16,Hombres
-2163,31 Navarra,2008,14,Hombres
-2164,31 Navarra,2007,15,Hombres
-2165,31 Navarra,2006,23,Hombres
-2166,31 Navarra,2005,11,Hombres
-2167,32 Ourense,2020,4,Hombres
-2168,32 Ourense,2019,8,Hombres
-2169,32 Ourense,2018,5,Hombres
-2170,32 Ourense,2017,8,Hombres
-2171,32 Ourense,2016,3,Hombres
-2172,32 Ourense,2015,6,Hombres
-2173,32 Ourense,2014,2,Hombres
-2174,32 Ourense,2013,4,Hombres
-2175,32 Ourense,2012,3,Hombres
-2176,32 Ourense,2011,1,Hombres
-2177,32 Ourense,2010,3,Hombres
-2178,32 Ourense,2009,2,Hombres
-2179,32 Ourense,2008,4,Hombres
-2180,32 Ourense,2007,3,Hombres
-2181,32 Ourense,2006,2,Hombres
-2182,34 Palencia,2020,4,Hombres
-2183,34 Palencia,2019,2,Hombres
-2184,34 Palencia,2018,6,Hombres
-2185,34 Palencia,2017,1,Hombres
-2186,34 Palencia,2015,1,Hombres
-2187,34 Palencia,2014,3,Hombres
-2188,34 Palencia,2012,3,Hombres
-2189,34 Palencia,2011,1,Hombres
-2190,34 Palencia,2010,3,Hombres
-2191,34 Palencia,2009,4,Hombres
-2192,34 Palencia,2007,1,Hombres
-2193,34 Palencia,2006,5,Hombres
-2194,34 Palencia,2005,4,Hombres
-2195,"35 Palmas, Las",2020,74,Hombres
-2196,"35 Palmas, Las",2019,115,Hombres
-2197,"35 Palmas, Las",2018,77,Hombres
-2198,"35 Palmas, Las",2017,91,Hombres
-2199,"35 Palmas, Las",2016,86,Hombres
-2200,"35 Palmas, Las",2015,70,Hombres
-2201,"35 Palmas, Las",2014,63,Hombres
-2202,"35 Palmas, Las",2013,63,Hombres
-2203,"35 Palmas, Las",2012,68,Hombres
-2204,"35 Palmas, Las",2011,58,Hombres
-2205,"35 Palmas, Las",2010,58,Hombres
-2206,"35 Palmas, Las",2009,67,Hombres
-2207,"35 Palmas, Las",2008,59,Hombres
-2208,"35 Palmas, Las",2007,91,Hombres
-2209,"35 Palmas, Las",2006,98,Hombres
-2210,"35 Palmas, Las",2005,22,Hombres
-2211,36 Pontevedra,2020,15,Hombres
-2212,36 Pontevedra,2019,22,Hombres
-2213,36 Pontevedra,2018,16,Hombres
-2214,36 Pontevedra,2017,14,Hombres
-2215,36 Pontevedra,2016,26,Hombres
-2216,36 Pontevedra,2015,10,Hombres
-2217,36 Pontevedra,2014,17,Hombres
-2218,36 Pontevedra,2013,21,Hombres
-2219,36 Pontevedra,2012,13,Hombres
-2220,36 Pontevedra,2011,20,Hombres
-2221,36 Pontevedra,2010,14,Hombres
-2222,36 Pontevedra,2009,13,Hombres
-2223,36 Pontevedra,2008,16,Hombres
-2224,36 Pontevedra,2007,17,Hombres
-2225,36 Pontevedra,2006,18,Hombres
-2226,36 Pontevedra,2005,9,Hombres
-2227,"26 Rioja, La",2020,5,Hombres
-2228,"26 Rioja, La",2019,9,Hombres
-2229,"26 Rioja, La",2018,13,Hombres
-2230,"26 Rioja, La",2017,8,Hombres
-2231,"26 Rioja, La",2016,8,Hombres
-2232,"26 Rioja, La",2015,8,Hombres
-2233,"26 Rioja, La",2014,4,Hombres
-2234,"26 Rioja, La",2013,4,Hombres
-2235,"26 Rioja, La",2012,11,Hombres
-2236,"26 Rioja, La",2011,14,Hombres
-2237,"26 Rioja, La",2010,4,Hombres
-2238,"26 Rioja, La",2009,6,Hombres
-2239,"26 Rioja, La",2008,5,Hombres
-2240,"26 Rioja, La",2007,6,Hombres
-2241,"26 Rioja, La",2006,9,Hombres
-2242,"26 Rioja, La",2005,2,Hombres
-2243,37 Salamanca,2020,5,Hombres
-2244,37 Salamanca,2019,12,Hombres
-2245,37 Salamanca,2018,7,Hombres
-2246,37 Salamanca,2017,4,Hombres
-2247,37 Salamanca,2016,6,Hombres
-2248,37 Salamanca,2015,6,Hombres
-2249,37 Salamanca,2014,4,Hombres
-2250,37 Salamanca,2013,7,Hombres
-2251,37 Salamanca,2012,5,Hombres
-2252,37 Salamanca,2011,5,Hombres
-2253,37 Salamanca,2010,3,Hombres
-2254,37 Salamanca,2009,4,Hombres
-2255,37 Salamanca,2008,4,Hombres
-2256,37 Salamanca,2007,10,Hombres
-2257,37 Salamanca,2006,9,Hombres
-2258,37 Salamanca,2005,3,Hombres
-2259,38 Santa Cruz de Tenerife,2020,59,Hombres
-2260,38 Santa Cruz de Tenerife,2019,92,Hombres
-2261,38 Santa Cruz de Tenerife,2018,75,Hombres
-2262,38 Santa Cruz de Tenerife,2017,75,Hombres
-2263,38 Santa Cruz de Tenerife,2016,68,Hombres
-2264,38 Santa Cruz de Tenerife,2015,54,Hombres
-2265,38 Santa Cruz de Tenerife,2014,56,Hombres
-2266,38 Santa Cruz de Tenerife,2013,35,Hombres
-2267,38 Santa Cruz de Tenerife,2012,53,Hombres
-2268,38 Santa Cruz de Tenerife,2011,52,Hombres
-2269,38 Santa Cruz de Tenerife,2010,55,Hombres
-2270,38 Santa Cruz de Tenerife,2009,55,Hombres
-2271,38 Santa Cruz de Tenerife,2008,46,Hombres
-2272,38 Santa Cruz de Tenerife,2007,56,Hombres
-2273,38 Santa Cruz de Tenerife,2006,95,Hombres
-2274,38 Santa Cruz de Tenerife,2005,31,Hombres
-2275,40 Segovia,2019,5,Hombres
-2276,40 Segovia,2018,1,Hombres
-2277,40 Segovia,2017,3,Hombres
-2278,40 Segovia,2016,2,Hombres
-2279,40 Segovia,2015,7,Hombres
-2280,40 Segovia,2014,1,Hombres
-2281,40 Segovia,2013,3,Hombres
-2282,40 Segovia,2012,1,Hombres
-2283,40 Segovia,2011,3,Hombres
-2284,40 Segovia,2010,2,Hombres
-2285,40 Segovia,2009,2,Hombres
-2286,40 Segovia,2008,3,Hombres
-2287,40 Segovia,2007,2,Hombres
-2288,40 Segovia,2006,2,Hombres
-2289,40 Segovia,2005,3,Hombres
-2290,41 Sevilla,2020,64,Hombres
-2291,41 Sevilla,2019,107,Hombres
-2292,41 Sevilla,2018,86,Hombres
-2293,41 Sevilla,2017,91,Hombres
-2294,41 Sevilla,2016,81,Hombres
-2295,41 Sevilla,2015,60,Hombres
-2296,41 Sevilla,2014,54,Hombres
-2297,41 Sevilla,2013,61,Hombres
-2298,41 Sevilla,2012,63,Hombres
-2299,41 Sevilla,2011,72,Hombres
-2300,41 Sevilla,2010,59,Hombres
-2301,41 Sevilla,2009,61,Hombres
-2302,41 Sevilla,2008,60,Hombres
-2303,41 Sevilla,2007,94,Hombres
-2304,41 Sevilla,2006,112,Hombres
-2305,41 Sevilla,2005,33,Hombres
-2306,42 Soria,2019,5,Hombres
-2307,42 Soria,2018,1,Hombres
-2308,42 Soria,2017,1,Hombres
-2309,42 Soria,2016,2,Hombres
-2310,42 Soria,2015,2,Hombres
-2311,42 Soria,2014,1,Hombres
-2312,42 Soria,2013,1,Hombres
-2313,42 Soria,2012,3,Hombres
-2314,42 Soria,2010,1,Hombres
-2315,42 Soria,2007,1,Hombres
-2316,43 Tarragona,2020,17,Hombres
-2317,43 Tarragona,2019,33,Hombres
-2318,43 Tarragona,2018,33,Hombres
-2319,43 Tarragona,2017,40,Hombres
-2320,43 Tarragona,2016,36,Hombres
-2321,43 Tarragona,2015,27,Hombres
-2322,43 Tarragona,2014,22,Hombres
-2323,43 Tarragona,2013,31,Hombres
-2324,43 Tarragona,2012,24,Hombres
-2325,43 Tarragona,2011,34,Hombres
-2326,43 Tarragona,2010,40,Hombres
-2327,43 Tarragona,2009,29,Hombres
-2328,43 Tarragona,2008,44,Hombres
-2329,43 Tarragona,2007,34,Hombres
-2330,43 Tarragona,2006,39,Hombres
-2331,43 Tarragona,2005,10,Hombres
-2332,44 Teruel,2020,1,Hombres
-2333,44 Teruel,2019,1,Hombres
-2334,44 Teruel,2018,1,Hombres
-2335,44 Teruel,2016,1,Hombres
-2336,44 Teruel,2015,2,Hombres
-2337,44 Teruel,2013,3,Hombres
-2338,44 Teruel,2012,1,Hombres
-2339,44 Teruel,2009,4,Hombres
-2340,44 Teruel,2006,1,Hombres
-2341,44 Teruel,2005,1,Hombres
-2342,45 Toledo,2020,14,Hombres
-2343,45 Toledo,2019,26,Hombres
-2344,45 Toledo,2018,19,Hombres
-2345,45 Toledo,2017,22,Hombres
-2346,45 Toledo,2016,12,Hombres
-2347,45 Toledo,2015,19,Hombres
-2348,45 Toledo,2014,9,Hombres
-2349,45 Toledo,2013,12,Hombres
-2350,45 Toledo,2012,22,Hombres
-2351,45 Toledo,2011,22,Hombres
-2352,45 Toledo,2010,9,Hombres
-2353,45 Toledo,2009,7,Hombres
-2354,45 Toledo,2008,15,Hombres
-2355,45 Toledo,2007,8,Hombres
-2356,45 Toledo,2006,9,Hombres
-2357,45 Toledo,2005,4,Hombres
-2358,46 Valencia/València,2020,114,Hombres
-2359,46 Valencia/València,2019,150,Hombres
-2360,46 Valencia/València,2018,138,Hombres
-2361,46 Valencia/València,2017,131,Hombres
-2362,46 Valencia/València,2016,137,Hombres
-2363,46 Valencia/València,2015,139,Hombres
-2364,46 Valencia/València,2014,107,Hombres
-2365,46 Valencia/València,2013,95,Hombres
-2366,46 Valencia/València,2012,137,Hombres
-2367,46 Valencia/València,2011,125,Hombres
-2368,46 Valencia/València,2010,93,Hombres
-2369,46 Valencia/València,2009,145,Hombres
-2370,46 Valencia/València,2008,126,Hombres
-2371,46 Valencia/València,2007,158,Hombres
-2372,46 Valencia/València,2006,207,Hombres
-2373,46 Valencia/València,2005,101,Hombres
-2374,47 Valladolid,2020,6,Hombres
-2375,47 Valladolid,2019,20,Hombres
-2376,47 Valladolid,2018,16,Hombres
-2377,47 Valladolid,2017,8,Hombres
-2378,47 Valladolid,2016,12,Hombres
-2379,47 Valladolid,2015,9,Hombres
-2380,47 Valladolid,2014,14,Hombres
-2381,47 Valladolid,2013,8,Hombres
-2382,47 Valladolid,2012,10,Hombres
-2383,47 Valladolid,2011,9,Hombres
-2384,47 Valladolid,2010,9,Hombres
-2385,47 Valladolid,2009,8,Hombres
-2386,47 Valladolid,2008,10,Hombres
-2387,47 Valladolid,2007,6,Hombres
-2388,47 Valladolid,2006,11,Hombres
-2389,47 Valladolid,2005,1,Hombres
-2390,49 Zamora,2019,3,Hombres
-2391,49 Zamora,2018,1,Hombres
-2392,49 Zamora,2017,3,Hombres
-2393,49 Zamora,2016,1,Hombres
-2394,49 Zamora,2015,2,Hombres
-2395,49 Zamora,2014,2,Hombres
-2396,49 Zamora,2013,1,Hombres
-2397,49 Zamora,2012,1,Hombres
-2398,49 Zamora,2011,1,Hombres
-2399,49 Zamora,2010,1,Hombres
-2400,49 Zamora,2009,1,Hombres
-2401,49 Zamora,2008,2,Hombres
-2402,49 Zamora,2006,2,Hombres
-2403,49 Zamora,2005,1,Hombres
-2404,50 Zaragoza,2020,21,Hombres
-2405,50 Zaragoza,2019,32,Hombres
-2406,50 Zaragoza,2018,30,Hombres
-2407,50 Zaragoza,2017,32,Hombres
-2408,50 Zaragoza,2016,25,Hombres
-2409,50 Zaragoza,2015,24,Hombres
-2410,50 Zaragoza,2014,24,Hombres
-2411,50 Zaragoza,2013,21,Hombres
-2412,50 Zaragoza,2012,25,Hombres
-2413,50 Zaragoza,2011,19,Hombres
-2414,50 Zaragoza,2010,17,Hombres
-2415,50 Zaragoza,2009,19,Hombres
-2416,50 Zaragoza,2008,20,Hombres
-2417,50 Zaragoza,2007,22,Hombres
-2418,50 Zaragoza,2006,49,Hombres
-2419,50 Zaragoza,2005,9,Hombres
-2420,51 Ceuta,2020,3,Hombres
-2421,51 Ceuta,2019,4,Hombres
-2422,51 Ceuta,2018,2,Hombres
-2423,51 Ceuta,2017,1,Hombres
-2424,51 Ceuta,2016,2,Hombres
-2425,51 Ceuta,2015,1,Hombres
-2426,51 Ceuta,2011,2,Hombres
-2427,51 Ceuta,2010,2,Hombres
-2428,51 Ceuta,2009,1,Hombres
-2429,51 Ceuta,2008,2,Hombres
-2430,51 Ceuta,2005,1,Hombres
-2431,52 Melilla,2019,2,Hombres
-2432,52 Melilla,2017,1,Hombres
-2433,52 Melilla,2016,1,Hombres
-2434,52 Melilla,2015,1,Hombres
-2435,52 Melilla,2013,1,Hombres
-2436,52 Melilla,2011,1,Hombres
-2437,52 Melilla,2010,1,Hombres
-2438,52 Melilla,2009,1,Hombres
-2439,52 Melilla,2008,1,Hombres
-2440,52 Melilla,2007,2,Hombres
-2441,52 Melilla,2006,1,Hombres
-2442,No residente,2020,17,Hombres
-2443,No residente,2019,19,Hombres
-2444,No residente,2018,23,Hombres
-2445,No residente,2017,29,Hombres
-2446,No residente,2016,25,Hombres
-2447,No residente,2015,30,Hombres
-2448,No residente,2014,39,Hombres
-2449,No residente,2013,27,Hombres
-2450,No residente,2012,29,Hombres
-2451,No residente,2011,23,Hombres
-2452,No residente,2010,35,Hombres
-2453,No residente,2009,24,Hombres
-2454,No residente,2008,25,Hombres
-2455,No residente,2007,34,Hombres
-2456,No residente,2006,36,Hombres
-2457,No residente,2005,13,Hombres
+Provincias,Periodo,Total,Sexo
+02 Albacete,2020,552,Mujer-Hombre
+02 Albacete,2019,1203,Mujer-Hombre
+02 Albacete,2018,1267,Mujer-Hombre
+02 Albacete,2017,1367,Mujer-Hombre
+02 Albacete,2016,1417,Mujer-Hombre
+02 Albacete,2015,1344,Mujer-Hombre
+02 Albacete,2014,1300,Mujer-Hombre
+02 Albacete,2013,1191,Mujer-Hombre
+02 Albacete,2012,1345,Mujer-Hombre
+02 Albacete,2011,1309,Mujer-Hombre
+02 Albacete,2010,1346,Mujer-Hombre
+02 Albacete,2009,1399,Mujer-Hombre
+02 Albacete,2008,1483,Mujer-Hombre
+02 Albacete,2007,1628,Mujer-Hombre
+02 Albacete,2006,1661,Mujer-Hombre
+02 Albacete,2005,1720,Mujer-Hombre
+03 Alicante/Alacant,2020,3828,Mujer-Hombre
+03 Alicante/Alacant,2019,6013,Mujer-Hombre
+03 Alicante/Alacant,2018,6273,Mujer-Hombre
+03 Alicante/Alacant,2017,6590,Mujer-Hombre
+03 Alicante/Alacant,2016,6576,Mujer-Hombre
+03 Alicante/Alacant,2015,5977,Mujer-Hombre
+03 Alicante/Alacant,2014,5754,Mujer-Hombre
+03 Alicante/Alacant,2013,5318,Mujer-Hombre
+03 Alicante/Alacant,2012,5538,Mujer-Hombre
+03 Alicante/Alacant,2011,5344,Mujer-Hombre
+03 Alicante/Alacant,2010,5466,Mujer-Hombre
+03 Alicante/Alacant,2009,5877,Mujer-Hombre
+03 Alicante/Alacant,2008,6921,Mujer-Hombre
+03 Alicante/Alacant,2007,7350,Mujer-Hombre
+03 Alicante/Alacant,2006,7606,Mujer-Hombre
+03 Alicante/Alacant,2005,7935,Mujer-Hombre
+04 Almería,2020,1143,Mujer-Hombre
+04 Almería,2019,2091,Mujer-Hombre
+04 Almería,2018,2139,Mujer-Hombre
+04 Almería,2017,2136,Mujer-Hombre
+04 Almería,2016,2216,Mujer-Hombre
+04 Almería,2015,2082,Mujer-Hombre
+04 Almería,2014,1977,Mujer-Hombre
+04 Almería,2013,1954,Mujer-Hombre
+04 Almería,2012,2293,Mujer-Hombre
+04 Almería,2011,2048,Mujer-Hombre
+04 Almería,2010,2128,Mujer-Hombre
+04 Almería,2009,2379,Mujer-Hombre
+04 Almería,2008,2759,Mujer-Hombre
+04 Almería,2007,2836,Mujer-Hombre
+04 Almería,2006,3015,Mujer-Hombre
+04 Almería,2005,2973,Mujer-Hombre
+01 Araba/Álava,2020,516,Mujer-Hombre
+01 Araba/Álava,2019,1004,Mujer-Hombre
+01 Araba/Álava,2018,1092,Mujer-Hombre
+01 Araba/Álava,2017,1067,Mujer-Hombre
+01 Araba/Álava,2016,1111,Mujer-Hombre
+01 Araba/Álava,2015,1187,Mujer-Hombre
+01 Araba/Álava,2014,1191,Mujer-Hombre
+01 Araba/Álava,2013,1080,Mujer-Hombre
+01 Araba/Álava,2012,1186,Mujer-Hombre
+01 Araba/Álava,2011,1140,Mujer-Hombre
+01 Araba/Álava,2010,1258,Mujer-Hombre
+01 Araba/Álava,2009,1205,Mujer-Hombre
+01 Araba/Álava,2008,1240,Mujer-Hombre
+01 Araba/Álava,2007,1216,Mujer-Hombre
+01 Araba/Álava,2006,1263,Mujer-Hombre
+01 Araba/Álava,2005,1277,Mujer-Hombre
+33 Asturias,2020,1807,Mujer-Hombre
+33 Asturias,2019,3255,Mujer-Hombre
+33 Asturias,2018,3425,Mujer-Hombre
+33 Asturias,2017,3569,Mujer-Hombre
+33 Asturias,2016,3679,Mujer-Hombre
+33 Asturias,2015,3483,Mujer-Hombre
+33 Asturias,2014,3498,Mujer-Hombre
+33 Asturias,2013,3327,Mujer-Hombre
+33 Asturias,2012,3968,Mujer-Hombre
+33 Asturias,2011,3884,Mujer-Hombre
+33 Asturias,2010,4233,Mujer-Hombre
+33 Asturias,2009,4485,Mujer-Hombre
+33 Asturias,2008,4775,Mujer-Hombre
+33 Asturias,2007,4857,Mujer-Hombre
+33 Asturias,2006,4810,Mujer-Hombre
+33 Asturias,2005,4905,Mujer-Hombre
+05 Ávila,2020,234,Mujer-Hombre
+05 Ávila,2019,437,Mujer-Hombre
+05 Ávila,2018,436,Mujer-Hombre
+05 Ávila,2017,435,Mujer-Hombre
+05 Ávila,2016,460,Mujer-Hombre
+05 Ávila,2015,434,Mujer-Hombre
+05 Ávila,2014,425,Mujer-Hombre
+05 Ávila,2013,433,Mujer-Hombre
+05 Ávila,2012,465,Mujer-Hombre
+05 Ávila,2011,466,Mujer-Hombre
+05 Ávila,2010,500,Mujer-Hombre
+05 Ávila,2009,531,Mujer-Hombre
+05 Ávila,2008,596,Mujer-Hombre
+05 Ávila,2007,579,Mujer-Hombre
+05 Ávila,2006,594,Mujer-Hombre
+05 Ávila,2005,588,Mujer-Hombre
+06 Badajoz,2020,996,Mujer-Hombre
+06 Badajoz,2019,2166,Mujer-Hombre
+06 Badajoz,2018,2156,Mujer-Hombre
+06 Badajoz,2017,2304,Mujer-Hombre
+06 Badajoz,2016,2311,Mujer-Hombre
+06 Badajoz,2015,2271,Mujer-Hombre
+06 Badajoz,2014,2160,Mujer-Hombre
+06 Badajoz,2013,2044,Mujer-Hombre
+06 Badajoz,2012,2452,Mujer-Hombre
+06 Badajoz,2011,2368,Mujer-Hombre
+06 Badajoz,2010,2682,Mujer-Hombre
+06 Badajoz,2009,2832,Mujer-Hombre
+06 Badajoz,2008,2917,Mujer-Hombre
+06 Badajoz,2007,2892,Mujer-Hombre
+06 Badajoz,2006,3083,Mujer-Hombre
+06 Badajoz,2005,3050,Mujer-Hombre
+"07 Balears, Illes",2020,2847,Mujer-Hombre
+"07 Balears, Illes",2019,4880,Mujer-Hombre
+"07 Balears, Illes",2018,4615,Mujer-Hombre
+"07 Balears, Illes",2017,4570,Mujer-Hombre
+"07 Balears, Illes",2016,4593,Mujer-Hombre
+"07 Balears, Illes",2015,4496,Mujer-Hombre
+"07 Balears, Illes",2014,4104,Mujer-Hombre
+"07 Balears, Illes",2013,3942,Mujer-Hombre
+"07 Balears, Illes",2012,3925,Mujer-Hombre
+"07 Balears, Illes",2011,3950,Mujer-Hombre
+"07 Balears, Illes",2010,3947,Mujer-Hombre
+"07 Balears, Illes",2009,4151,Mujer-Hombre
+"07 Balears, Illes",2008,4138,Mujer-Hombre
+"07 Balears, Illes",2007,4345,Mujer-Hombre
+"07 Balears, Illes",2006,4260,Mujer-Hombre
+"07 Balears, Illes",2005,4267,Mujer-Hombre
+08 Barcelona,2020,10954,Mujer-Hombre
+08 Barcelona,2019,19122,Mujer-Hombre
+08 Barcelona,2018,20014,Mujer-Hombre
+08 Barcelona,2017,21223,Mujer-Hombre
+08 Barcelona,2016,21230,Mujer-Hombre
+08 Barcelona,2015,19812,Mujer-Hombre
+08 Barcelona,2014,19181,Mujer-Hombre
+08 Barcelona,2013,18795,Mujer-Hombre
+08 Barcelona,2012,19757,Mujer-Hombre
+08 Barcelona,2011,19066,Mujer-Hombre
+08 Barcelona,2010,20162,Mujer-Hombre
+08 Barcelona,2009,20303,Mujer-Hombre
+08 Barcelona,2008,22430,Mujer-Hombre
+08 Barcelona,2007,22382,Mujer-Hombre
+08 Barcelona,2006,22831,Mujer-Hombre
+08 Barcelona,2005,24133,Mujer-Hombre
+48 Bizkaia,2020,1881,Mujer-Hombre
+48 Bizkaia,2019,3529,Mujer-Hombre
+48 Bizkaia,2018,3561,Mujer-Hombre
+48 Bizkaia,2017,3790,Mujer-Hombre
+48 Bizkaia,2016,3777,Mujer-Hombre
+48 Bizkaia,2015,3608,Mujer-Hombre
+48 Bizkaia,2014,3599,Mujer-Hombre
+48 Bizkaia,2013,3632,Mujer-Hombre
+48 Bizkaia,2012,4094,Mujer-Hombre
+48 Bizkaia,2011,4204,Mujer-Hombre
+48 Bizkaia,2010,4297,Mujer-Hombre
+48 Bizkaia,2009,4307,Mujer-Hombre
+48 Bizkaia,2008,4731,Mujer-Hombre
+48 Bizkaia,2007,4753,Mujer-Hombre
+48 Bizkaia,2006,4740,Mujer-Hombre
+48 Bizkaia,2005,4979,Mujer-Hombre
+09 Burgos,2020,514,Mujer-Hombre
+09 Burgos,2019,1051,Mujer-Hombre
+09 Burgos,2018,1050,Mujer-Hombre
+09 Burgos,2017,1129,Mujer-Hombre
+09 Burgos,2016,1082,Mujer-Hombre
+09 Burgos,2015,1098,Mujer-Hombre
+09 Burgos,2014,1043,Mujer-Hombre
+09 Burgos,2013,1047,Mujer-Hombre
+09 Burgos,2012,1192,Mujer-Hombre
+09 Burgos,2011,1137,Mujer-Hombre
+09 Burgos,2010,1287,Mujer-Hombre
+09 Burgos,2009,1245,Mujer-Hombre
+09 Burgos,2008,1365,Mujer-Hombre
+09 Burgos,2007,1447,Mujer-Hombre
+09 Burgos,2006,1407,Mujer-Hombre
+09 Burgos,2005,1430,Mujer-Hombre
+10 Cáceres,2020,552,Mujer-Hombre
+10 Cáceres,2019,1112,Mujer-Hombre
+10 Cáceres,2018,1110,Mujer-Hombre
+10 Cáceres,2017,1159,Mujer-Hombre
+10 Cáceres,2016,1274,Mujer-Hombre
+10 Cáceres,2015,1172,Mujer-Hombre
+10 Cáceres,2014,1138,Mujer-Hombre
+10 Cáceres,2013,1066,Mujer-Hombre
+10 Cáceres,2012,1192,Mujer-Hombre
+10 Cáceres,2011,1143,Mujer-Hombre
+10 Cáceres,2010,1167,Mujer-Hombre
+10 Cáceres,2009,1346,Mujer-Hombre
+10 Cáceres,2008,1481,Mujer-Hombre
+10 Cáceres,2007,1527,Mujer-Hombre
+10 Cáceres,2006,1588,Mujer-Hombre
+10 Cáceres,2005,1537,Mujer-Hombre
+11 Cádiz,2020,2408,Mujer-Hombre
+11 Cádiz,2019,4900,Mujer-Hombre
+11 Cádiz,2018,4446,Mujer-Hombre
+11 Cádiz,2017,4708,Mujer-Hombre
+11 Cádiz,2016,4703,Mujer-Hombre
+11 Cádiz,2015,4573,Mujer-Hombre
+11 Cádiz,2014,4251,Mujer-Hombre
+11 Cádiz,2013,3911,Mujer-Hombre
+11 Cádiz,2012,4383,Mujer-Hombre
+11 Cádiz,2011,4054,Mujer-Hombre
+11 Cádiz,2010,4263,Mujer-Hombre
+11 Cádiz,2009,4635,Mujer-Hombre
+11 Cádiz,2008,5587,Mujer-Hombre
+11 Cádiz,2007,5892,Mujer-Hombre
+11 Cádiz,2006,6253,Mujer-Hombre
+11 Cádiz,2005,6728,Mujer-Hombre
+39 Cantabria,2020,1111,Mujer-Hombre
+39 Cantabria,2019,1951,Mujer-Hombre
+39 Cantabria,2018,2067,Mujer-Hombre
+39 Cantabria,2017,2079,Mujer-Hombre
+39 Cantabria,2016,2228,Mujer-Hombre
+39 Cantabria,2015,2124,Mujer-Hombre
+39 Cantabria,2014,2069,Mujer-Hombre
+39 Cantabria,2013,1936,Mujer-Hombre
+39 Cantabria,2012,2326,Mujer-Hombre
+39 Cantabria,2011,2184,Mujer-Hombre
+39 Cantabria,2010,2500,Mujer-Hombre
+39 Cantabria,2009,2581,Mujer-Hombre
+39 Cantabria,2008,2936,Mujer-Hombre
+39 Cantabria,2007,2948,Mujer-Hombre
+39 Cantabria,2006,2822,Mujer-Hombre
+39 Cantabria,2005,2876,Mujer-Hombre
+12 Castellón/Castelló,2020,1123,Mujer-Hombre
+12 Castellón/Castelló,2019,2029,Mujer-Hombre
+12 Castellón/Castelló,2018,1892,Mujer-Hombre
+12 Castellón/Castelló,2017,2022,Mujer-Hombre
+12 Castellón/Castelló,2016,2007,Mujer-Hombre
+12 Castellón/Castelló,2015,1992,Mujer-Hombre
+12 Castellón/Castelló,2014,1922,Mujer-Hombre
+12 Castellón/Castelló,2013,1763,Mujer-Hombre
+12 Castellón/Castelló,2012,1880,Mujer-Hombre
+12 Castellón/Castelló,2011,1805,Mujer-Hombre
+12 Castellón/Castelló,2010,2037,Mujer-Hombre
+12 Castellón/Castelló,2009,2135,Mujer-Hombre
+12 Castellón/Castelló,2008,2484,Mujer-Hombre
+12 Castellón/Castelló,2007,2695,Mujer-Hombre
+12 Castellón/Castelló,2006,2638,Mujer-Hombre
+12 Castellón/Castelló,2005,2708,Mujer-Hombre
+13 Ciudad Real,2020,654,Mujer-Hombre
+13 Ciudad Real,2019,1643,Mujer-Hombre
+13 Ciudad Real,2018,1698,Mujer-Hombre
+13 Ciudad Real,2017,1659,Mujer-Hombre
+13 Ciudad Real,2016,1722,Mujer-Hombre
+13 Ciudad Real,2015,1651,Mujer-Hombre
+13 Ciudad Real,2014,1557,Mujer-Hombre
+13 Ciudad Real,2013,1527,Mujer-Hombre
+13 Ciudad Real,2012,1731,Mujer-Hombre
+13 Ciudad Real,2011,1633,Mujer-Hombre
+13 Ciudad Real,2010,1748,Mujer-Hombre
+13 Ciudad Real,2009,1918,Mujer-Hombre
+13 Ciudad Real,2008,2228,Mujer-Hombre
+13 Ciudad Real,2007,2321,Mujer-Hombre
+13 Ciudad Real,2006,2257,Mujer-Hombre
+13 Ciudad Real,2005,2330,Mujer-Hombre
+14 Córdoba,2020,1193,Mujer-Hombre
+14 Córdoba,2019,2750,Mujer-Hombre
+14 Córdoba,2018,2769,Mujer-Hombre
+14 Córdoba,2017,2841,Mujer-Hombre
+14 Córdoba,2016,2952,Mujer-Hombre
+14 Córdoba,2015,2701,Mujer-Hombre
+14 Córdoba,2014,2550,Mujer-Hombre
+14 Córdoba,2013,2336,Mujer-Hombre
+14 Córdoba,2012,2708,Mujer-Hombre
+14 Córdoba,2011,2760,Mujer-Hombre
+14 Córdoba,2010,2911,Mujer-Hombre
+14 Córdoba,2009,3290,Mujer-Hombre
+14 Córdoba,2008,3893,Mujer-Hombre
+14 Córdoba,2007,3971,Mujer-Hombre
+14 Córdoba,2006,4042,Mujer-Hombre
+14 Córdoba,2005,3979,Mujer-Hombre
+"15 Coruña, A",2020,2400,Mujer-Hombre
+"15 Coruña, A",2019,4034,Mujer-Hombre
+"15 Coruña, A",2018,3879,Mujer-Hombre
+"15 Coruña, A",2017,4055,Mujer-Hombre
+"15 Coruña, A",2016,4120,Mujer-Hombre
+"15 Coruña, A",2015,4120,Mujer-Hombre
+"15 Coruña, A",2014,3963,Mujer-Hombre
+"15 Coruña, A",2013,3789,Mujer-Hombre
+"15 Coruña, A",2012,4292,Mujer-Hombre
+"15 Coruña, A",2011,4077,Mujer-Hombre
+"15 Coruña, A",2010,4290,Mujer-Hombre
+"15 Coruña, A",2009,4397,Mujer-Hombre
+"15 Coruña, A",2008,4741,Mujer-Hombre
+"15 Coruña, A",2007,4749,Mujer-Hombre
+"15 Coruña, A",2006,4776,Mujer-Hombre
+"15 Coruña, A",2005,4683,Mujer-Hombre
+16 Cuenca,2020,243,Mujer-Hombre
+16 Cuenca,2019,547,Mujer-Hombre
+16 Cuenca,2018,567,Mujer-Hombre
+16 Cuenca,2017,489,Mujer-Hombre
+16 Cuenca,2016,544,Mujer-Hombre
+16 Cuenca,2015,582,Mujer-Hombre
+16 Cuenca,2014,566,Mujer-Hombre
+16 Cuenca,2013,553,Mujer-Hombre
+16 Cuenca,2012,609,Mujer-Hombre
+16 Cuenca,2011,557,Mujer-Hombre
+16 Cuenca,2010,592,Mujer-Hombre
+16 Cuenca,2009,572,Mujer-Hombre
+16 Cuenca,2008,688,Mujer-Hombre
+16 Cuenca,2007,699,Mujer-Hombre
+16 Cuenca,2006,699,Mujer-Hombre
+16 Cuenca,2005,738,Mujer-Hombre
+20 Gipuzkoa,2020,1332,Mujer-Hombre
+20 Gipuzkoa,2019,2496,Mujer-Hombre
+20 Gipuzkoa,2018,2484,Mujer-Hombre
+20 Gipuzkoa,2017,2581,Mujer-Hombre
+20 Gipuzkoa,2016,2492,Mujer-Hombre
+20 Gipuzkoa,2015,2450,Mujer-Hombre
+20 Gipuzkoa,2014,2504,Mujer-Hombre
+20 Gipuzkoa,2013,2477,Mujer-Hombre
+20 Gipuzkoa,2012,2659,Mujer-Hombre
+20 Gipuzkoa,2011,2742,Mujer-Hombre
+20 Gipuzkoa,2010,2825,Mujer-Hombre
+20 Gipuzkoa,2009,2981,Mujer-Hombre
+20 Gipuzkoa,2008,3068,Mujer-Hombre
+20 Gipuzkoa,2007,3093,Mujer-Hombre
+20 Gipuzkoa,2006,3191,Mujer-Hombre
+20 Gipuzkoa,2005,3300,Mujer-Hombre
+17 Girona,2020,1600,Mujer-Hombre
+17 Girona,2019,2820,Mujer-Hombre
+17 Girona,2018,2770,Mujer-Hombre
+17 Girona,2017,2810,Mujer-Hombre
+17 Girona,2016,2776,Mujer-Hombre
+17 Girona,2015,2838,Mujer-Hombre
+17 Girona,2014,2815,Mujer-Hombre
+17 Girona,2013,2597,Mujer-Hombre
+17 Girona,2012,2526,Mujer-Hombre
+17 Girona,2011,2534,Mujer-Hombre
+17 Girona,2010,2499,Mujer-Hombre
+17 Girona,2009,2674,Mujer-Hombre
+17 Girona,2008,2840,Mujer-Hombre
+17 Girona,2007,2865,Mujer-Hombre
+17 Girona,2006,2853,Mujer-Hombre
+17 Girona,2005,2826,Mujer-Hombre
+18 Granada,2020,1448,Mujer-Hombre
+18 Granada,2019,3078,Mujer-Hombre
+18 Granada,2018,2986,Mujer-Hombre
+18 Granada,2017,3125,Mujer-Hombre
+18 Granada,2016,3183,Mujer-Hombre
+18 Granada,2015,3137,Mujer-Hombre
+18 Granada,2014,3099,Mujer-Hombre
+18 Granada,2013,2747,Mujer-Hombre
+18 Granada,2012,3020,Mujer-Hombre
+18 Granada,2011,2814,Mujer-Hombre
+18 Granada,2010,2976,Mujer-Hombre
+18 Granada,2009,3201,Mujer-Hombre
+18 Granada,2008,3783,Mujer-Hombre
+18 Granada,2007,4177,Mujer-Hombre
+18 Granada,2006,4084,Mujer-Hombre
+18 Granada,2005,4281,Mujer-Hombre
+19 Guadalajara,2020,520,Mujer-Hombre
+19 Guadalajara,2019,953,Mujer-Hombre
+19 Guadalajara,2018,976,Mujer-Hombre
+19 Guadalajara,2017,939,Mujer-Hombre
+19 Guadalajara,2016,999,Mujer-Hombre
+19 Guadalajara,2015,1011,Mujer-Hombre
+19 Guadalajara,2014,928,Mujer-Hombre
+19 Guadalajara,2013,925,Mujer-Hombre
+19 Guadalajara,2012,1069,Mujer-Hombre
+19 Guadalajara,2011,1001,Mujer-Hombre
+19 Guadalajara,2010,1083,Mujer-Hombre
+19 Guadalajara,2009,1032,Mujer-Hombre
+19 Guadalajara,2008,1199,Mujer-Hombre
+19 Guadalajara,2007,1244,Mujer-Hombre
+19 Guadalajara,2006,1182,Mujer-Hombre
+19 Guadalajara,2005,1142,Mujer-Hombre
+21 Huelva,2020,995,Mujer-Hombre
+21 Huelva,2019,1811,Mujer-Hombre
+21 Huelva,2018,1647,Mujer-Hombre
+21 Huelva,2017,1666,Mujer-Hombre
+21 Huelva,2016,1856,Mujer-Hombre
+21 Huelva,2015,1723,Mujer-Hombre
+21 Huelva,2014,1671,Mujer-Hombre
+21 Huelva,2013,1558,Mujer-Hombre
+21 Huelva,2012,1863,Mujer-Hombre
+21 Huelva,2011,1695,Mujer-Hombre
+21 Huelva,2010,1750,Mujer-Hombre
+21 Huelva,2009,1810,Mujer-Hombre
+21 Huelva,2008,2384,Mujer-Hombre
+21 Huelva,2007,2469,Mujer-Hombre
+21 Huelva,2006,2539,Mujer-Hombre
+21 Huelva,2005,2645,Mujer-Hombre
+22 Huesca,2020,355,Mujer-Hombre
+22 Huesca,2019,694,Mujer-Hombre
+22 Huesca,2018,625,Mujer-Hombre
+22 Huesca,2017,615,Mujer-Hombre
+22 Huesca,2016,686,Mujer-Hombre
+22 Huesca,2015,605,Mujer-Hombre
+22 Huesca,2014,674,Mujer-Hombre
+22 Huesca,2013,643,Mujer-Hombre
+22 Huesca,2012,766,Mujer-Hombre
+22 Huesca,2011,626,Mujer-Hombre
+22 Huesca,2010,670,Mujer-Hombre
+22 Huesca,2009,694,Mujer-Hombre
+22 Huesca,2008,732,Mujer-Hombre
+22 Huesca,2007,796,Mujer-Hombre
+22 Huesca,2006,819,Mujer-Hombre
+22 Huesca,2005,797,Mujer-Hombre
+23 Jaén,2020,718,Mujer-Hombre
+23 Jaén,2019,2182,Mujer-Hombre
+23 Jaén,2018,2259,Mujer-Hombre
+23 Jaén,2017,2274,Mujer-Hombre
+23 Jaén,2016,2244,Mujer-Hombre
+23 Jaén,2015,2143,Mujer-Hombre
+23 Jaén,2014,2052,Mujer-Hombre
+23 Jaén,2013,1818,Mujer-Hombre
+23 Jaén,2012,2226,Mujer-Hombre
+23 Jaén,2011,2175,Mujer-Hombre
+23 Jaén,2010,2198,Mujer-Hombre
+23 Jaén,2009,2449,Mujer-Hombre
+23 Jaén,2008,2959,Mujer-Hombre
+23 Jaén,2007,3108,Mujer-Hombre
+23 Jaén,2006,3186,Mujer-Hombre
+23 Jaén,2005,3198,Mujer-Hombre
+24 León,2020,690,Mujer-Hombre
+24 León,2019,1251,Mujer-Hombre
+24 León,2018,1343,Mujer-Hombre
+24 León,2017,1412,Mujer-Hombre
+24 León,2016,1380,Mujer-Hombre
+24 León,2015,1294,Mujer-Hombre
+24 León,2014,1430,Mujer-Hombre
+24 León,2013,1367,Mujer-Hombre
+24 León,2012,1586,Mujer-Hombre
+24 León,2011,1448,Mujer-Hombre
+24 León,2010,1518,Mujer-Hombre
+24 León,2009,1517,Mujer-Hombre
+24 León,2008,1646,Mujer-Hombre
+24 León,2007,1760,Mujer-Hombre
+24 León,2006,1623,Mujer-Hombre
+24 León,2005,1727,Mujer-Hombre
+25 Lleida,2020,827,Mujer-Hombre
+25 Lleida,2019,1349,Mujer-Hombre
+25 Lleida,2018,1334,Mujer-Hombre
+25 Lleida,2017,1411,Mujer-Hombre
+25 Lleida,2016,1442,Mujer-Hombre
+25 Lleida,2015,1311,Mujer-Hombre
+25 Lleida,2014,1413,Mujer-Hombre
+25 Lleida,2013,1330,Mujer-Hombre
+25 Lleida,2012,1443,Mujer-Hombre
+25 Lleida,2011,1433,Mujer-Hombre
+25 Lleida,2010,1560,Mujer-Hombre
+25 Lleida,2009,1582,Mujer-Hombre
+25 Lleida,2008,1785,Mujer-Hombre
+25 Lleida,2007,1821,Mujer-Hombre
+25 Lleida,2006,1778,Mujer-Hombre
+25 Lleida,2005,1726,Mujer-Hombre
+27 Lugo,2020,633,Mujer-Hombre
+27 Lugo,2019,998,Mujer-Hombre
+27 Lugo,2018,1018,Mujer-Hombre
+27 Lugo,2017,1053,Mujer-Hombre
+27 Lugo,2016,1045,Mujer-Hombre
+27 Lugo,2015,975,Mujer-Hombre
+27 Lugo,2014,977,Mujer-Hombre
+27 Lugo,2013,924,Mujer-Hombre
+27 Lugo,2012,1026,Mujer-Hombre
+27 Lugo,2011,1027,Mujer-Hombre
+27 Lugo,2010,1069,Mujer-Hombre
+27 Lugo,2009,1080,Mujer-Hombre
+27 Lugo,2008,1122,Mujer-Hombre
+27 Lugo,2007,1141,Mujer-Hombre
+27 Lugo,2006,1113,Mujer-Hombre
+27 Lugo,2005,1075,Mujer-Hombre
+28 Madrid,2020,12394,Mujer-Hombre
+28 Madrid,2019,23538,Mujer-Hombre
+28 Madrid,2018,23797,Mujer-Hombre
+28 Madrid,2017,25039,Mujer-Hombre
+28 Madrid,2016,25215,Mujer-Hombre
+28 Madrid,2015,24848,Mujer-Hombre
+28 Madrid,2014,23222,Mujer-Hombre
+28 Madrid,2013,23878,Mujer-Hombre
+28 Madrid,2012,24526,Mujer-Hombre
+28 Madrid,2011,24306,Mujer-Hombre
+28 Madrid,2010,24603,Mujer-Hombre
+28 Madrid,2009,24505,Mujer-Hombre
+28 Madrid,2008,26583,Mujer-Hombre
+28 Madrid,2007,28000,Mujer-Hombre
+28 Madrid,2006,27684,Mujer-Hombre
+28 Madrid,2005,28387,Mujer-Hombre
+29 Málaga,2020,3055,Mujer-Hombre
+29 Málaga,2019,5537,Mujer-Hombre
+29 Málaga,2018,5446,Mujer-Hombre
+29 Málaga,2017,5720,Mujer-Hombre
+29 Málaga,2016,5554,Mujer-Hombre
+29 Málaga,2015,5551,Mujer-Hombre
+29 Málaga,2014,5392,Mujer-Hombre
+29 Málaga,2013,5036,Mujer-Hombre
+29 Málaga,2012,5355,Mujer-Hombre
+29 Málaga,2011,5156,Mujer-Hombre
+29 Málaga,2010,5591,Mujer-Hombre
+29 Málaga,2009,5868,Mujer-Hombre
+29 Málaga,2008,6994,Mujer-Hombre
+29 Málaga,2007,7238,Mujer-Hombre
+29 Málaga,2006,7463,Mujer-Hombre
+29 Málaga,2005,7349,Mujer-Hombre
+30 Murcia,2020,2601,Mujer-Hombre
+30 Murcia,2019,4955,Mujer-Hombre
+30 Murcia,2018,5079,Mujer-Hombre
+30 Murcia,2017,5094,Mujer-Hombre
+30 Murcia,2016,5067,Mujer-Hombre
+30 Murcia,2015,4815,Mujer-Hombre
+30 Murcia,2014,4846,Mujer-Hombre
+30 Murcia,2013,4375,Mujer-Hombre
+30 Murcia,2012,4867,Mujer-Hombre
+30 Murcia,2011,4656,Mujer-Hombre
+30 Murcia,2010,4996,Mujer-Hombre
+30 Murcia,2009,5125,Mujer-Hombre
+30 Murcia,2008,5765,Mujer-Hombre
+30 Murcia,2007,6647,Mujer-Hombre
+30 Murcia,2006,6484,Mujer-Hombre
+30 Murcia,2005,6668,Mujer-Hombre
+31 Navarra,2020,1279,Mujer-Hombre
+31 Navarra,2019,2050,Mujer-Hombre
+31 Navarra,2018,2050,Mujer-Hombre
+31 Navarra,2017,2295,Mujer-Hombre
+31 Navarra,2016,2383,Mujer-Hombre
+31 Navarra,2015,2616,Mujer-Hombre
+31 Navarra,2014,2301,Mujer-Hombre
+31 Navarra,2013,2097,Mujer-Hombre
+31 Navarra,2012,2232,Mujer-Hombre
+31 Navarra,2011,2218,Mujer-Hombre
+31 Navarra,2010,2285,Mujer-Hombre
+31 Navarra,2009,2492,Mujer-Hombre
+31 Navarra,2008,2681,Mujer-Hombre
+31 Navarra,2007,2705,Mujer-Hombre
+31 Navarra,2006,2727,Mujer-Hombre
+31 Navarra,2005,2671,Mujer-Hombre
+32 Ourense,2020,496,Mujer-Hombre
+32 Ourense,2019,860,Mujer-Hombre
+32 Ourense,2018,737,Mujer-Hombre
+32 Ourense,2017,819,Mujer-Hombre
+32 Ourense,2016,825,Mujer-Hombre
+32 Ourense,2015,825,Mujer-Hombre
+32 Ourense,2014,846,Mujer-Hombre
+32 Ourense,2013,861,Mujer-Hombre
+32 Ourense,2012,917,Mujer-Hombre
+32 Ourense,2011,881,Mujer-Hombre
+32 Ourense,2010,908,Mujer-Hombre
+32 Ourense,2009,936,Mujer-Hombre
+32 Ourense,2008,1062,Mujer-Hombre
+32 Ourense,2007,1263,Mujer-Hombre
+32 Ourense,2006,1147,Mujer-Hombre
+32 Ourense,2005,1119,Mujer-Hombre
+34 Palencia,2020,190,Mujer-Hombre
+34 Palencia,2019,443,Mujer-Hombre
+34 Palencia,2018,477,Mujer-Hombre
+34 Palencia,2017,500,Mujer-Hombre
+34 Palencia,2016,531,Mujer-Hombre
+34 Palencia,2015,492,Mujer-Hombre
+34 Palencia,2014,495,Mujer-Hombre
+34 Palencia,2013,440,Mujer-Hombre
+34 Palencia,2012,550,Mujer-Hombre
+34 Palencia,2011,480,Mujer-Hombre
+34 Palencia,2010,542,Mujer-Hombre
+34 Palencia,2009,525,Mujer-Hombre
+34 Palencia,2008,596,Mujer-Hombre
+34 Palencia,2007,621,Mujer-Hombre
+34 Palencia,2006,671,Mujer-Hombre
+34 Palencia,2005,695,Mujer-Hombre
+"35 Palmas, Las",2020,2399,Mujer-Hombre
+"35 Palmas, Las",2019,3913,Mujer-Hombre
+"35 Palmas, Las",2018,3884,Mujer-Hombre
+"35 Palmas, Las",2017,3787,Mujer-Hombre
+"35 Palmas, Las",2016,3744,Mujer-Hombre
+"35 Palmas, Las",2015,3487,Mujer-Hombre
+"35 Palmas, Las",2014,3337,Mujer-Hombre
+"35 Palmas, Las",2013,3283,Mujer-Hombre
+"35 Palmas, Las",2012,2996,Mujer-Hombre
+"35 Palmas, Las",2011,2756,Mujer-Hombre
+"35 Palmas, Las",2010,2704,Mujer-Hombre
+"35 Palmas, Las",2009,2926,Mujer-Hombre
+"35 Palmas, Las",2008,3153,Mujer-Hombre
+"35 Palmas, Las",2007,3274,Mujer-Hombre
+"35 Palmas, Las",2006,3340,Mujer-Hombre
+"35 Palmas, Las",2005,3339,Mujer-Hombre
+36 Pontevedra,2020,1987,Mujer-Hombre
+36 Pontevedra,2019,3303,Mujer-Hombre
+36 Pontevedra,2018,2879,Mujer-Hombre
+36 Pontevedra,2017,3223,Mujer-Hombre
+36 Pontevedra,2016,3256,Mujer-Hombre
+36 Pontevedra,2015,3224,Mujer-Hombre
+36 Pontevedra,2014,2934,Mujer-Hombre
+36 Pontevedra,2013,2917,Mujer-Hombre
+36 Pontevedra,2012,3185,Mujer-Hombre
+36 Pontevedra,2011,3179,Mujer-Hombre
+36 Pontevedra,2010,3440,Mujer-Hombre
+36 Pontevedra,2009,3440,Mujer-Hombre
+36 Pontevedra,2008,3868,Mujer-Hombre
+36 Pontevedra,2007,3958,Mujer-Hombre
+36 Pontevedra,2006,4036,Mujer-Hombre
+36 Pontevedra,2005,4061,Mujer-Hombre
+"26 Rioja, La",2020,600,Mujer-Hombre
+"26 Rioja, La",2019,1093,Mujer-Hombre
+"26 Rioja, La",2018,1117,Mujer-Hombre
+"26 Rioja, La",2017,1035,Mujer-Hombre
+"26 Rioja, La",2016,1133,Mujer-Hombre
+"26 Rioja, La",2015,1063,Mujer-Hombre
+"26 Rioja, La",2014,1114,Mujer-Hombre
+"26 Rioja, La",2013,994,Mujer-Hombre
+"26 Rioja, La",2012,1111,Mujer-Hombre
+"26 Rioja, La",2011,1069,Mujer-Hombre
+"26 Rioja, La",2010,1126,Mujer-Hombre
+"26 Rioja, La",2009,1205,Mujer-Hombre
+"26 Rioja, La",2008,1323,Mujer-Hombre
+"26 Rioja, La",2007,1354,Mujer-Hombre
+"26 Rioja, La",2006,1373,Mujer-Hombre
+"26 Rioja, La",2005,1407,Mujer-Hombre
+37 Salamanca,2020,367,Mujer-Hombre
+37 Salamanca,2019,944,Mujer-Hombre
+37 Salamanca,2018,974,Mujer-Hombre
+37 Salamanca,2017,1080,Mujer-Hombre
+37 Salamanca,2016,1041,Mujer-Hombre
+37 Salamanca,2015,1044,Mujer-Hombre
+37 Salamanca,2014,1081,Mujer-Hombre
+37 Salamanca,2013,1069,Mujer-Hombre
+37 Salamanca,2012,1139,Mujer-Hombre
+37 Salamanca,2011,935,Mujer-Hombre
+37 Salamanca,2010,1075,Mujer-Hombre
+37 Salamanca,2009,1211,Mujer-Hombre
+37 Salamanca,2008,1324,Mujer-Hombre
+37 Salamanca,2007,1370,Mujer-Hombre
+37 Salamanca,2006,1336,Mujer-Hombre
+37 Salamanca,2005,1408,Mujer-Hombre
+38 Santa Cruz de Tenerife,2020,2209,Mujer-Hombre
+38 Santa Cruz de Tenerife,2019,3475,Mujer-Hombre
+38 Santa Cruz de Tenerife,2018,3514,Mujer-Hombre
+38 Santa Cruz de Tenerife,2017,3449,Mujer-Hombre
+38 Santa Cruz de Tenerife,2016,3314,Mujer-Hombre
+38 Santa Cruz de Tenerife,2015,3176,Mujer-Hombre
+38 Santa Cruz de Tenerife,2014,2992,Mujer-Hombre
+38 Santa Cruz de Tenerife,2013,2697,Mujer-Hombre
+38 Santa Cruz de Tenerife,2012,2683,Mujer-Hombre
+38 Santa Cruz de Tenerife,2011,2676,Mujer-Hombre
+38 Santa Cruz de Tenerife,2010,2753,Mujer-Hombre
+38 Santa Cruz de Tenerife,2009,2990,Mujer-Hombre
+38 Santa Cruz de Tenerife,2008,3185,Mujer-Hombre
+38 Santa Cruz de Tenerife,2007,3129,Mujer-Hombre
+38 Santa Cruz de Tenerife,2006,3456,Mujer-Hombre
+38 Santa Cruz de Tenerife,2005,3401,Mujer-Hombre
+40 Segovia,2020,228,Mujer-Hombre
+40 Segovia,2019,532,Mujer-Hombre
+40 Segovia,2018,481,Mujer-Hombre
+40 Segovia,2017,549,Mujer-Hombre
+40 Segovia,2016,484,Mujer-Hombre
+40 Segovia,2015,520,Mujer-Hombre
+40 Segovia,2014,452,Mujer-Hombre
+40 Segovia,2013,439,Mujer-Hombre
+40 Segovia,2012,481,Mujer-Hombre
+40 Segovia,2011,513,Mujer-Hombre
+40 Segovia,2010,534,Mujer-Hombre
+40 Segovia,2009,566,Mujer-Hombre
+40 Segovia,2008,664,Mujer-Hombre
+40 Segovia,2007,594,Mujer-Hombre
+40 Segovia,2006,586,Mujer-Hombre
+40 Segovia,2005,604,Mujer-Hombre
+41 Sevilla,2020,3663,Mujer-Hombre
+41 Sevilla,2019,7601,Mujer-Hombre
+41 Sevilla,2018,7346,Mujer-Hombre
+41 Sevilla,2017,7284,Mujer-Hombre
+41 Sevilla,2016,7681,Mujer-Hombre
+41 Sevilla,2015,7456,Mujer-Hombre
+41 Sevilla,2014,7105,Mujer-Hombre
+41 Sevilla,2013,6643,Mujer-Hombre
+41 Sevilla,2012,7312,Mujer-Hombre
+41 Sevilla,2011,7110,Mujer-Hombre
+41 Sevilla,2010,7528,Mujer-Hombre
+41 Sevilla,2009,8150,Mujer-Hombre
+41 Sevilla,2008,9565,Mujer-Hombre
+41 Sevilla,2007,10365,Mujer-Hombre
+41 Sevilla,2006,10574,Mujer-Hombre
+41 Sevilla,2005,10885,Mujer-Hombre
+42 Soria,2020,147,Mujer-Hombre
+42 Soria,2019,269,Mujer-Hombre
+42 Soria,2018,273,Mujer-Hombre
+42 Soria,2017,262,Mujer-Hombre
+42 Soria,2016,270,Mujer-Hombre
+42 Soria,2015,240,Mujer-Hombre
+42 Soria,2014,253,Mujer-Hombre
+42 Soria,2013,233,Mujer-Hombre
+42 Soria,2012,277,Mujer-Hombre
+42 Soria,2011,250,Mujer-Hombre
+42 Soria,2010,273,Mujer-Hombre
+42 Soria,2009,290,Mujer-Hombre
+42 Soria,2008,254,Mujer-Hombre
+42 Soria,2007,288,Mujer-Hombre
+42 Soria,2006,308,Mujer-Hombre
+42 Soria,2005,290,Mujer-Hombre
+43 Tarragona,2020,1726,Mujer-Hombre
+43 Tarragona,2019,2725,Mujer-Hombre
+43 Tarragona,2018,2633,Mujer-Hombre
+43 Tarragona,2017,2861,Mujer-Hombre
+43 Tarragona,2016,2948,Mujer-Hombre
+43 Tarragona,2015,2832,Mujer-Hombre
+43 Tarragona,2014,2705,Mujer-Hombre
+43 Tarragona,2013,2620,Mujer-Hombre
+43 Tarragona,2012,2783,Mujer-Hombre
+43 Tarragona,2011,2714,Mujer-Hombre
+43 Tarragona,2010,2955,Mujer-Hombre
+43 Tarragona,2009,3028,Mujer-Hombre
+43 Tarragona,2008,3454,Mujer-Hombre
+43 Tarragona,2007,3477,Mujer-Hombre
+43 Tarragona,2006,3508,Mujer-Hombre
+43 Tarragona,2005,3482,Mujer-Hombre
+44 Teruel,2020,257,Mujer-Hombre
+44 Teruel,2019,367,Mujer-Hombre
+44 Teruel,2018,377,Mujer-Hombre
+44 Teruel,2017,397,Mujer-Hombre
+44 Teruel,2016,386,Mujer-Hombre
+44 Teruel,2015,377,Mujer-Hombre
+44 Teruel,2014,430,Mujer-Hombre
+44 Teruel,2013,407,Mujer-Hombre
+44 Teruel,2012,421,Mujer-Hombre
+44 Teruel,2011,397,Mujer-Hombre
+44 Teruel,2010,415,Mujer-Hombre
+44 Teruel,2009,428,Mujer-Hombre
+44 Teruel,2008,453,Mujer-Hombre
+44 Teruel,2007,481,Mujer-Hombre
+44 Teruel,2006,489,Mujer-Hombre
+44 Teruel,2005,532,Mujer-Hombre
+45 Toledo,2020,1185,Mujer-Hombre
+45 Toledo,2019,2496,Mujer-Hombre
+45 Toledo,2018,2520,Mujer-Hombre
+45 Toledo,2017,2579,Mujer-Hombre
+45 Toledo,2016,2597,Mujer-Hombre
+45 Toledo,2015,2423,Mujer-Hombre
+45 Toledo,2014,2438,Mujer-Hombre
+45 Toledo,2013,2302,Mujer-Hombre
+45 Toledo,2012,2663,Mujer-Hombre
+45 Toledo,2011,2627,Mujer-Hombre
+45 Toledo,2010,2603,Mujer-Hombre
+45 Toledo,2009,2847,Mujer-Hombre
+45 Toledo,2008,3291,Mujer-Hombre
+45 Toledo,2007,3091,Mujer-Hombre
+45 Toledo,2006,3034,Mujer-Hombre
+45 Toledo,2005,3063,Mujer-Hombre
+46 Valencia/València,2020,5279,Mujer-Hombre
+46 Valencia/València,2019,8937,Mujer-Hombre
+46 Valencia/València,2018,9328,Mujer-Hombre
+46 Valencia/València,2017,9450,Mujer-Hombre
+46 Valencia/València,2016,9834,Mujer-Hombre
+46 Valencia/València,2015,9589,Mujer-Hombre
+46 Valencia/València,2014,9281,Mujer-Hombre
+46 Valencia/València,2013,8989,Mujer-Hombre
+46 Valencia/València,2012,9437,Mujer-Hombre
+46 Valencia/València,2011,9285,Mujer-Hombre
+46 Valencia/València,2010,9676,Mujer-Hombre
+46 Valencia/València,2009,10130,Mujer-Hombre
+46 Valencia/València,2008,11407,Mujer-Hombre
+46 Valencia/València,2007,12165,Mujer-Hombre
+46 Valencia/València,2006,12652,Mujer-Hombre
+46 Valencia/València,2005,13391,Mujer-Hombre
+47 Valladolid,2020,751,Mujer-Hombre
+47 Valladolid,2019,1642,Mujer-Hombre
+47 Valladolid,2018,1642,Mujer-Hombre
+47 Valladolid,2017,1806,Mujer-Hombre
+47 Valladolid,2016,1764,Mujer-Hombre
+47 Valladolid,2015,1784,Mujer-Hombre
+47 Valladolid,2014,1805,Mujer-Hombre
+47 Valladolid,2013,1770,Mujer-Hombre
+47 Valladolid,2012,1975,Mujer-Hombre
+47 Valladolid,2011,1911,Mujer-Hombre
+47 Valladolid,2010,1999,Mujer-Hombre
+47 Valladolid,2009,2147,Mujer-Hombre
+47 Valladolid,2008,2342,Mujer-Hombre
+47 Valladolid,2007,2553,Mujer-Hombre
+47 Valladolid,2006,2504,Mujer-Hombre
+47 Valladolid,2005,2499,Mujer-Hombre
+49 Zamora,2020,186,Mujer-Hombre
+49 Zamora,2019,395,Mujer-Hombre
+49 Zamora,2018,416,Mujer-Hombre
+49 Zamora,2017,402,Mujer-Hombre
+49 Zamora,2016,447,Mujer-Hombre
+49 Zamora,2015,425,Mujer-Hombre
+49 Zamora,2014,422,Mujer-Hombre
+49 Zamora,2013,386,Mujer-Hombre
+49 Zamora,2012,477,Mujer-Hombre
+49 Zamora,2011,464,Mujer-Hombre
+49 Zamora,2010,480,Mujer-Hombre
+49 Zamora,2009,537,Mujer-Hombre
+49 Zamora,2008,551,Mujer-Hombre
+49 Zamora,2007,597,Mujer-Hombre
+49 Zamora,2006,565,Mujer-Hombre
+49 Zamora,2005,597,Mujer-Hombre
+50 Zaragoza,2020,1625,Mujer-Hombre
+50 Zaragoza,2019,2832,Mujer-Hombre
+50 Zaragoza,2018,3089,Mujer-Hombre
+50 Zaragoza,2017,3214,Mujer-Hombre
+50 Zaragoza,2016,3297,Mujer-Hombre
+50 Zaragoza,2015,3263,Mujer-Hombre
+50 Zaragoza,2014,3059,Mujer-Hombre
+50 Zaragoza,2013,3273,Mujer-Hombre
+50 Zaragoza,2012,3478,Mujer-Hombre
+50 Zaragoza,2011,3245,Mujer-Hombre
+50 Zaragoza,2010,3352,Mujer-Hombre
+50 Zaragoza,2009,3597,Mujer-Hombre
+50 Zaragoza,2008,3861,Mujer-Hombre
+50 Zaragoza,2007,4031,Mujer-Hombre
+50 Zaragoza,2006,4192,Mujer-Hombre
+50 Zaragoza,2005,4347,Mujer-Hombre
+51 Ceuta,2020,253,Mujer-Hombre
+51 Ceuta,2019,502,Mujer-Hombre
+51 Ceuta,2018,429,Mujer-Hombre
+51 Ceuta,2017,445,Mujer-Hombre
+51 Ceuta,2016,494,Mujer-Hombre
+51 Ceuta,2015,423,Mujer-Hombre
+51 Ceuta,2014,394,Mujer-Hombre
+51 Ceuta,2013,383,Mujer-Hombre
+51 Ceuta,2012,407,Mujer-Hombre
+51 Ceuta,2011,445,Mujer-Hombre
+51 Ceuta,2010,397,Mujer-Hombre
+51 Ceuta,2009,397,Mujer-Hombre
+51 Ceuta,2008,366,Mujer-Hombre
+51 Ceuta,2007,373,Mujer-Hombre
+51 Ceuta,2006,325,Mujer-Hombre
+51 Ceuta,2005,361,Mujer-Hombre
+52 Melilla,2020,157,Mujer-Hombre
+52 Melilla,2019,306,Mujer-Hombre
+52 Melilla,2018,313,Mujer-Hombre
+52 Melilla,2017,362,Mujer-Hombre
+52 Melilla,2016,395,Mujer-Hombre
+52 Melilla,2015,288,Mujer-Hombre
+52 Melilla,2014,319,Mujer-Hombre
+52 Melilla,2013,311,Mujer-Hombre
+52 Melilla,2012,381,Mujer-Hombre
+52 Melilla,2011,323,Mujer-Hombre
+52 Melilla,2010,444,Mujer-Hombre
+52 Melilla,2009,409,Mujer-Hombre
+52 Melilla,2008,470,Mujer-Hombre
+52 Melilla,2007,525,Mujer-Hombre
+52 Melilla,2006,399,Mujer-Hombre
+52 Melilla,2005,323,Mujer-Hombre
+No residente,2020,373,Mujer-Hombre
+No residente,2019,1325,Mujer-Hombre
+No residente,2018,2044,Mujer-Hombre
+No residente,2017,2259,Mujer-Hombre
+No residente,2016,2258,Mujer-Hombre
+No residente,2015,2217,Mujer-Hombre
+No residente,2014,2245,Mujer-Hombre
+No residente,2013,1942,Mujer-Hombre
+No residente,2012,1928,Mujer-Hombre
+No residente,2011,1578,Mujer-Hombre
+No residente,2010,1606,Mujer-Hombre
+No residente,2009,1705,Mujer-Hombre
+No residente,2008,1899,Mujer-Hombre
+No residente,2007,1919,Mujer-Hombre
+No residente,2006,1887,Mujer-Hombre
+No residente,2005,1714,Mujer-Hombre
+02 Albacete,2020,9,Mujeres
+02 Albacete,2019,17,Mujeres
+02 Albacete,2018,17,Mujeres
+02 Albacete,2017,7,Mujeres
+02 Albacete,2016,6,Mujeres
+02 Albacete,2015,5,Mujeres
+02 Albacete,2014,8,Mujeres
+02 Albacete,2013,11,Mujeres
+02 Albacete,2012,1,Mujeres
+02 Albacete,2011,5,Mujeres
+02 Albacete,2010,2,Mujeres
+02 Albacete,2009,7,Mujeres
+02 Albacete,2008,4,Mujeres
+02 Albacete,2007,2,Mujeres
+02 Albacete,2006,4,Mujeres
+03 Alicante/Alacant,2020,76,Mujeres
+03 Alicante/Alacant,2019,117,Mujeres
+03 Alicante/Alacant,2018,123,Mujeres
+03 Alicante/Alacant,2017,115,Mujeres
+03 Alicante/Alacant,2016,87,Mujeres
+03 Alicante/Alacant,2015,79,Mujeres
+03 Alicante/Alacant,2014,84,Mujeres
+03 Alicante/Alacant,2013,68,Mujeres
+03 Alicante/Alacant,2012,58,Mujeres
+03 Alicante/Alacant,2011,70,Mujeres
+03 Alicante/Alacant,2010,39,Mujeres
+03 Alicante/Alacant,2009,47,Mujeres
+03 Alicante/Alacant,2008,60,Mujeres
+03 Alicante/Alacant,2007,39,Mujeres
+03 Alicante/Alacant,2006,72,Mujeres
+03 Alicante/Alacant,2005,16,Mujeres
+04 Almería,2020,21,Mujeres
+04 Almería,2019,28,Mujeres
+04 Almería,2018,24,Mujeres
+04 Almería,2017,21,Mujeres
+04 Almería,2016,15,Mujeres
+04 Almería,2015,25,Mujeres
+04 Almería,2014,11,Mujeres
+04 Almería,2013,17,Mujeres
+04 Almería,2012,15,Mujeres
+04 Almería,2011,19,Mujeres
+04 Almería,2010,16,Mujeres
+04 Almería,2009,6,Mujeres
+04 Almería,2008,14,Mujeres
+04 Almería,2007,9,Mujeres
+04 Almería,2006,12,Mujeres
+04 Almería,2005,1,Mujeres
+01 Araba/Álava,2020,14,Mujeres
+01 Araba/Álava,2019,15,Mujeres
+01 Araba/Álava,2018,15,Mujeres
+01 Araba/Álava,2017,16,Mujeres
+01 Araba/Álava,2016,13,Mujeres
+01 Araba/Álava,2015,12,Mujeres
+01 Araba/Álava,2014,16,Mujeres
+01 Araba/Álava,2013,5,Mujeres
+01 Araba/Álava,2012,6,Mujeres
+01 Araba/Álava,2011,10,Mujeres
+01 Araba/Álava,2010,5,Mujeres
+01 Araba/Álava,2009,10,Mujeres
+01 Araba/Álava,2008,3,Mujeres
+01 Araba/Álava,2007,3,Mujeres
+01 Araba/Álava,2006,8,Mujeres
+01 Araba/Álava,2005,2,Mujeres
+33 Asturias,2020,14,Mujeres
+33 Asturias,2019,34,Mujeres
+33 Asturias,2018,21,Mujeres
+33 Asturias,2017,29,Mujeres
+33 Asturias,2016,18,Mujeres
+33 Asturias,2015,22,Mujeres
+33 Asturias,2014,26,Mujeres
+33 Asturias,2013,14,Mujeres
+33 Asturias,2012,19,Mujeres
+33 Asturias,2011,23,Mujeres
+33 Asturias,2010,20,Mujeres
+33 Asturias,2009,16,Mujeres
+33 Asturias,2008,27,Mujeres
+33 Asturias,2007,22,Mujeres
+33 Asturias,2006,20,Mujeres
+33 Asturias,2005,7,Mujeres
+05 Ávila,2020,1,Mujeres
+05 Ávila,2019,3,Mujeres
+05 Ávila,2018,5,Mujeres
+05 Ávila,2017,2,Mujeres
+05 Ávila,2016,3,Mujeres
+05 Ávila,2015,2,Mujeres
+05 Ávila,2014,1,Mujeres
+05 Ávila,2013,3,Mujeres
+05 Ávila,2012,2,Mujeres
+05 Ávila,2011,4,Mujeres
+05 Ávila,2010,7,Mujeres
+05 Ávila,2008,1,Mujeres
+05 Ávila,2007,1,Mujeres
+05 Ávila,2006,2,Mujeres
+05 Ávila,2005,1,Mujeres
+06 Badajoz,2020,19,Mujeres
+06 Badajoz,2019,30,Mujeres
+06 Badajoz,2018,22,Mujeres
+06 Badajoz,2017,23,Mujeres
+06 Badajoz,2016,25,Mujeres
+06 Badajoz,2015,11,Mujeres
+06 Badajoz,2014,13,Mujeres
+06 Badajoz,2013,10,Mujeres
+06 Badajoz,2012,24,Mujeres
+06 Badajoz,2011,14,Mujeres
+06 Badajoz,2010,15,Mujeres
+06 Badajoz,2009,6,Mujeres
+06 Badajoz,2008,6,Mujeres
+06 Badajoz,2007,2,Mujeres
+06 Badajoz,2006,3,Mujeres
+06 Badajoz,2005,3,Mujeres
+"07 Balears, Illes",2020,56,Mujeres
+"07 Balears, Illes",2019,88,Mujeres
+"07 Balears, Illes",2018,84,Mujeres
+"07 Balears, Illes",2017,96,Mujeres
+"07 Balears, Illes",2016,80,Mujeres
+"07 Balears, Illes",2015,66,Mujeres
+"07 Balears, Illes",2014,60,Mujeres
+"07 Balears, Illes",2013,54,Mujeres
+"07 Balears, Illes",2012,50,Mujeres
+"07 Balears, Illes",2011,43,Mujeres
+"07 Balears, Illes",2010,42,Mujeres
+"07 Balears, Illes",2009,38,Mujeres
+"07 Balears, Illes",2008,36,Mujeres
+"07 Balears, Illes",2007,42,Mujeres
+"07 Balears, Illes",2006,53,Mujeres
+"07 Balears, Illes",2005,9,Mujeres
+08 Barcelona,2020,251,Mujeres
+08 Barcelona,2019,400,Mujeres
+08 Barcelona,2018,426,Mujeres
+08 Barcelona,2017,439,Mujeres
+08 Barcelona,2016,381,Mujeres
+08 Barcelona,2015,289,Mujeres
+08 Barcelona,2014,283,Mujeres
+08 Barcelona,2013,253,Mujeres
+08 Barcelona,2012,302,Mujeres
+08 Barcelona,2011,298,Mujeres
+08 Barcelona,2010,253,Mujeres
+08 Barcelona,2009,255,Mujeres
+08 Barcelona,2008,222,Mujeres
+08 Barcelona,2007,213,Mujeres
+08 Barcelona,2006,290,Mujeres
+08 Barcelona,2005,74,Mujeres
+48 Bizkaia,2020,49,Mujeres
+48 Bizkaia,2019,59,Mujeres
+48 Bizkaia,2018,55,Mujeres
+48 Bizkaia,2017,48,Mujeres
+48 Bizkaia,2016,45,Mujeres
+48 Bizkaia,2015,44,Mujeres
+48 Bizkaia,2014,37,Mujeres
+48 Bizkaia,2013,34,Mujeres
+48 Bizkaia,2012,28,Mujeres
+48 Bizkaia,2011,25,Mujeres
+48 Bizkaia,2010,29,Mujeres
+48 Bizkaia,2009,21,Mujeres
+48 Bizkaia,2008,27,Mujeres
+48 Bizkaia,2007,23,Mujeres
+48 Bizkaia,2006,31,Mujeres
+48 Bizkaia,2005,6,Mujeres
+09 Burgos,2020,5,Mujeres
+09 Burgos,2019,10,Mujeres
+09 Burgos,2018,5,Mujeres
+09 Burgos,2017,10,Mujeres
+09 Burgos,2016,7,Mujeres
+09 Burgos,2015,4,Mujeres
+09 Burgos,2014,3,Mujeres
+09 Burgos,2013,5,Mujeres
+09 Burgos,2012,5,Mujeres
+09 Burgos,2011,6,Mujeres
+09 Burgos,2010,3,Mujeres
+09 Burgos,2009,5,Mujeres
+09 Burgos,2008,5,Mujeres
+09 Burgos,2007,8,Mujeres
+09 Burgos,2006,4,Mujeres
+09 Burgos,2005,2,Mujeres
+10 Cáceres,2020,5,Mujeres
+10 Cáceres,2019,13,Mujeres
+10 Cáceres,2018,7,Mujeres
+10 Cáceres,2017,8,Mujeres
+10 Cáceres,2016,7,Mujeres
+10 Cáceres,2015,1,Mujeres
+10 Cáceres,2014,10,Mujeres
+10 Cáceres,2013,4,Mujeres
+10 Cáceres,2012,5,Mujeres
+10 Cáceres,2011,5,Mujeres
+10 Cáceres,2010,6,Mujeres
+10 Cáceres,2009,4,Mujeres
+10 Cáceres,2008,1,Mujeres
+10 Cáceres,2006,4,Mujeres
+10 Cáceres,2005,3,Mujeres
+11 Cádiz,2020,47,Mujeres
+11 Cádiz,2019,70,Mujeres
+11 Cádiz,2018,48,Mujeres
+11 Cádiz,2017,74,Mujeres
+11 Cádiz,2016,59,Mujeres
+11 Cádiz,2015,60,Mujeres
+11 Cádiz,2014,47,Mujeres
+11 Cádiz,2013,24,Mujeres
+11 Cádiz,2012,37,Mujeres
+11 Cádiz,2011,30,Mujeres
+11 Cádiz,2010,17,Mujeres
+11 Cádiz,2009,24,Mujeres
+11 Cádiz,2008,22,Mujeres
+11 Cádiz,2007,19,Mujeres
+11 Cádiz,2006,21,Mujeres
+11 Cádiz,2005,12,Mujeres
+39 Cantabria,2020,16,Mujeres
+39 Cantabria,2019,28,Mujeres
+39 Cantabria,2018,21,Mujeres
+39 Cantabria,2017,23,Mujeres
+39 Cantabria,2016,18,Mujeres
+39 Cantabria,2015,11,Mujeres
+39 Cantabria,2014,17,Mujeres
+39 Cantabria,2013,11,Mujeres
+39 Cantabria,2012,11,Mujeres
+39 Cantabria,2011,11,Mujeres
+39 Cantabria,2010,11,Mujeres
+39 Cantabria,2009,7,Mujeres
+39 Cantabria,2008,8,Mujeres
+39 Cantabria,2007,9,Mujeres
+39 Cantabria,2006,11,Mujeres
+39 Cantabria,2005,3,Mujeres
+12 Castellón/Castelló,2020,19,Mujeres
+12 Castellón/Castelló,2019,27,Mujeres
+12 Castellón/Castelló,2018,18,Mujeres
+12 Castellón/Castelló,2017,17,Mujeres
+12 Castellón/Castelló,2016,25,Mujeres
+12 Castellón/Castelló,2015,20,Mujeres
+12 Castellón/Castelló,2014,9,Mujeres
+12 Castellón/Castelló,2013,13,Mujeres
+12 Castellón/Castelló,2012,13,Mujeres
+12 Castellón/Castelló,2011,18,Mujeres
+12 Castellón/Castelló,2010,16,Mujeres
+12 Castellón/Castelló,2009,10,Mujeres
+12 Castellón/Castelló,2008,12,Mujeres
+12 Castellón/Castelló,2007,16,Mujeres
+12 Castellón/Castelló,2006,8,Mujeres
+12 Castellón/Castelló,2005,3,Mujeres
+13 Ciudad Real,2020,9,Mujeres
+13 Ciudad Real,2019,15,Mujeres
+13 Ciudad Real,2018,13,Mujeres
+13 Ciudad Real,2017,10,Mujeres
+13 Ciudad Real,2016,12,Mujeres
+13 Ciudad Real,2015,10,Mujeres
+13 Ciudad Real,2014,6,Mujeres
+13 Ciudad Real,2013,5,Mujeres
+13 Ciudad Real,2012,5,Mujeres
+13 Ciudad Real,2011,3,Mujeres
+13 Ciudad Real,2010,3,Mujeres
+13 Ciudad Real,2009,6,Mujeres
+13 Ciudad Real,2008,8,Mujeres
+13 Ciudad Real,2007,2,Mujeres
+13 Ciudad Real,2006,4,Mujeres
+14 Córdoba,2020,14,Mujeres
+14 Córdoba,2019,32,Mujeres
+14 Córdoba,2018,30,Mujeres
+14 Córdoba,2017,24,Mujeres
+14 Córdoba,2016,29,Mujeres
+14 Córdoba,2015,25,Mujeres
+14 Córdoba,2014,19,Mujeres
+14 Córdoba,2013,16,Mujeres
+14 Córdoba,2012,14,Mujeres
+14 Córdoba,2011,18,Mujeres
+14 Córdoba,2010,15,Mujeres
+14 Córdoba,2009,6,Mujeres
+14 Córdoba,2008,15,Mujeres
+14 Córdoba,2007,11,Mujeres
+14 Córdoba,2006,13,Mujeres
+14 Córdoba,2005,4,Mujeres
+"15 Coruña, A",2020,22,Mujeres
+"15 Coruña, A",2019,30,Mujeres
+"15 Coruña, A",2018,31,Mujeres
+"15 Coruña, A",2017,31,Mujeres
+"15 Coruña, A",2016,36,Mujeres
+"15 Coruña, A",2015,28,Mujeres
+"15 Coruña, A",2014,29,Mujeres
+"15 Coruña, A",2013,19,Mujeres
+"15 Coruña, A",2012,19,Mujeres
+"15 Coruña, A",2011,17,Mujeres
+"15 Coruña, A",2010,24,Mujeres
+"15 Coruña, A",2009,10,Mujeres
+"15 Coruña, A",2008,7,Mujeres
+"15 Coruña, A",2007,15,Mujeres
+"15 Coruña, A",2006,13,Mujeres
+"15 Coruña, A",2005,11,Mujeres
+16 Cuenca,2020,2,Mujeres
+16 Cuenca,2019,3,Mujeres
+16 Cuenca,2018,4,Mujeres
+16 Cuenca,2017,6,Mujeres
+16 Cuenca,2016,1,Mujeres
+16 Cuenca,2015,2,Mujeres
+16 Cuenca,2014,2,Mujeres
+16 Cuenca,2013,2,Mujeres
+16 Cuenca,2012,4,Mujeres
+16 Cuenca,2011,1,Mujeres
+16 Cuenca,2010,3,Mujeres
+16 Cuenca,2008,1,Mujeres
+16 Cuenca,2006,1,Mujeres
+20 Gipuzkoa,2020,28,Mujeres
+20 Gipuzkoa,2019,42,Mujeres
+20 Gipuzkoa,2018,41,Mujeres
+20 Gipuzkoa,2017,45,Mujeres
+20 Gipuzkoa,2016,36,Mujeres
+20 Gipuzkoa,2015,32,Mujeres
+20 Gipuzkoa,2014,22,Mujeres
+20 Gipuzkoa,2013,19,Mujeres
+20 Gipuzkoa,2012,31,Mujeres
+20 Gipuzkoa,2011,15,Mujeres
+20 Gipuzkoa,2010,18,Mujeres
+20 Gipuzkoa,2009,17,Mujeres
+20 Gipuzkoa,2008,21,Mujeres
+20 Gipuzkoa,2007,15,Mujeres
+20 Gipuzkoa,2006,21,Mujeres
+20 Gipuzkoa,2005,7,Mujeres
+17 Girona,2020,29,Mujeres
+17 Girona,2019,48,Mujeres
+17 Girona,2018,41,Mujeres
+17 Girona,2017,48,Mujeres
+17 Girona,2016,40,Mujeres
+17 Girona,2015,30,Mujeres
+17 Girona,2014,39,Mujeres
+17 Girona,2013,21,Mujeres
+17 Girona,2012,22,Mujeres
+17 Girona,2011,21,Mujeres
+17 Girona,2010,20,Mujeres
+17 Girona,2009,22,Mujeres
+17 Girona,2008,26,Mujeres
+17 Girona,2007,17,Mujeres
+17 Girona,2006,21,Mujeres
+17 Girona,2005,6,Mujeres
+18 Granada,2020,30,Mujeres
+18 Granada,2019,50,Mujeres
+18 Granada,2018,42,Mujeres
+18 Granada,2017,45,Mujeres
+18 Granada,2016,37,Mujeres
+18 Granada,2015,33,Mujeres
+18 Granada,2014,27,Mujeres
+18 Granada,2013,29,Mujeres
+18 Granada,2012,21,Mujeres
+18 Granada,2011,23,Mujeres
+18 Granada,2010,24,Mujeres
+18 Granada,2009,17,Mujeres
+18 Granada,2008,28,Mujeres
+18 Granada,2007,14,Mujeres
+18 Granada,2006,17,Mujeres
+18 Granada,2005,3,Mujeres
+19 Guadalajara,2020,12,Mujeres
+19 Guadalajara,2019,15,Mujeres
+19 Guadalajara,2018,10,Mujeres
+19 Guadalajara,2017,8,Mujeres
+19 Guadalajara,2016,9,Mujeres
+19 Guadalajara,2015,10,Mujeres
+19 Guadalajara,2014,6,Mujeres
+19 Guadalajara,2013,12,Mujeres
+19 Guadalajara,2012,4,Mujeres
+19 Guadalajara,2011,9,Mujeres
+19 Guadalajara,2010,10,Mujeres
+19 Guadalajara,2009,7,Mujeres
+19 Guadalajara,2008,5,Mujeres
+19 Guadalajara,2007,4,Mujeres
+19 Guadalajara,2006,10,Mujeres
+19 Guadalajara,2005,1,Mujeres
+21 Huelva,2020,16,Mujeres
+21 Huelva,2019,31,Mujeres
+21 Huelva,2018,22,Mujeres
+21 Huelva,2017,27,Mujeres
+21 Huelva,2016,19,Mujeres
+21 Huelva,2015,17,Mujeres
+21 Huelva,2014,12,Mujeres
+21 Huelva,2013,12,Mujeres
+21 Huelva,2012,21,Mujeres
+21 Huelva,2011,19,Mujeres
+21 Huelva,2010,11,Mujeres
+21 Huelva,2009,3,Mujeres
+21 Huelva,2008,11,Mujeres
+21 Huelva,2007,8,Mujeres
+21 Huelva,2006,5,Mujeres
+21 Huelva,2005,4,Mujeres
+22 Huesca,2020,2,Mujeres
+22 Huesca,2019,6,Mujeres
+22 Huesca,2018,1,Mujeres
+22 Huesca,2017,6,Mujeres
+22 Huesca,2016,1,Mujeres
+22 Huesca,2015,2,Mujeres
+22 Huesca,2014,4,Mujeres
+22 Huesca,2013,2,Mujeres
+22 Huesca,2012,2,Mujeres
+22 Huesca,2011,4,Mujeres
+22 Huesca,2010,3,Mujeres
+22 Huesca,2009,2,Mujeres
+22 Huesca,2008,1,Mujeres
+22 Huesca,2006,2,Mujeres
+23 Jaén,2020,10,Mujeres
+23 Jaén,2019,25,Mujeres
+23 Jaén,2018,21,Mujeres
+23 Jaén,2017,18,Mujeres
+23 Jaén,2016,12,Mujeres
+23 Jaén,2015,7,Mujeres
+23 Jaén,2014,8,Mujeres
+23 Jaén,2013,7,Mujeres
+23 Jaén,2012,7,Mujeres
+23 Jaén,2011,7,Mujeres
+23 Jaén,2010,3,Mujeres
+23 Jaén,2009,5,Mujeres
+23 Jaén,2008,2,Mujeres
+23 Jaén,2007,2,Mujeres
+23 Jaén,2006,3,Mujeres
+23 Jaén,2005,2,Mujeres
+24 León,2020,6,Mujeres
+24 León,2019,8,Mujeres
+24 León,2018,9,Mujeres
+24 León,2017,9,Mujeres
+24 León,2016,9,Mujeres
+24 León,2015,8,Mujeres
+24 León,2014,7,Mujeres
+24 León,2013,3,Mujeres
+24 León,2012,7,Mujeres
+24 León,2011,4,Mujeres
+24 León,2010,8,Mujeres
+24 León,2009,5,Mujeres
+24 León,2008,4,Mujeres
+24 León,2007,2,Mujeres
+24 León,2006,4,Mujeres
+24 León,2005,2,Mujeres
+25 Lleida,2020,12,Mujeres
+25 Lleida,2019,13,Mujeres
+25 Lleida,2018,8,Mujeres
+25 Lleida,2017,10,Mujeres
+25 Lleida,2016,10,Mujeres
+25 Lleida,2015,14,Mujeres
+25 Lleida,2014,10,Mujeres
+25 Lleida,2013,5,Mujeres
+25 Lleida,2012,10,Mujeres
+25 Lleida,2011,11,Mujeres
+25 Lleida,2010,6,Mujeres
+25 Lleida,2009,11,Mujeres
+25 Lleida,2008,7,Mujeres
+25 Lleida,2007,6,Mujeres
+25 Lleida,2006,11,Mujeres
+25 Lleida,2005,2,Mujeres
+27 Lugo,2020,5,Mujeres
+27 Lugo,2019,4,Mujeres
+27 Lugo,2018,7,Mujeres
+27 Lugo,2017,7,Mujeres
+27 Lugo,2016,3,Mujeres
+27 Lugo,2015,1,Mujeres
+27 Lugo,2014,3,Mujeres
+27 Lugo,2013,3,Mujeres
+27 Lugo,2012,3,Mujeres
+27 Lugo,2011,4,Mujeres
+27 Lugo,2010,2,Mujeres
+27 Lugo,2009,3,Mujeres
+27 Lugo,2007,1,Mujeres
+27 Lugo,2006,2,Mujeres
+28 Madrid,2020,247,Mujeres
+28 Madrid,2019,482,Mujeres
+28 Madrid,2018,456,Mujeres
+28 Madrid,2017,347,Mujeres
+28 Madrid,2016,329,Mujeres
+28 Madrid,2015,311,Mujeres
+28 Madrid,2014,241,Mujeres
+28 Madrid,2013,268,Mujeres
+28 Madrid,2012,250,Mujeres
+28 Madrid,2011,246,Mujeres
+28 Madrid,2010,193,Mujeres
+28 Madrid,2009,156,Mujeres
+28 Madrid,2008,203,Mujeres
+28 Madrid,2007,186,Mujeres
+28 Madrid,2006,236,Mujeres
+28 Madrid,2005,58,Mujeres
+29 Málaga,2020,77,Mujeres
+29 Málaga,2019,125,Mujeres
+29 Málaga,2018,108,Mujeres
+29 Málaga,2017,84,Mujeres
+29 Málaga,2016,83,Mujeres
+29 Málaga,2015,65,Mujeres
+29 Málaga,2014,49,Mujeres
+29 Málaga,2013,48,Mujeres
+29 Málaga,2012,48,Mujeres
+29 Málaga,2011,35,Mujeres
+29 Málaga,2010,49,Mujeres
+29 Málaga,2009,35,Mujeres
+29 Málaga,2008,40,Mujeres
+29 Málaga,2007,45,Mujeres
+29 Málaga,2006,55,Mujeres
+29 Málaga,2005,10,Mujeres
+30 Murcia,2020,51,Mujeres
+30 Murcia,2019,74,Mujeres
+30 Murcia,2018,84,Mujeres
+30 Murcia,2017,64,Mujeres
+30 Murcia,2016,54,Mujeres
+30 Murcia,2015,46,Mujeres
+30 Murcia,2014,44,Mujeres
+30 Murcia,2013,35,Mujeres
+30 Murcia,2012,46,Mujeres
+30 Murcia,2011,37,Mujeres
+30 Murcia,2010,40,Mujeres
+30 Murcia,2009,24,Mujeres
+30 Murcia,2008,17,Mujeres
+30 Murcia,2007,22,Mujeres
+30 Murcia,2006,22,Mujeres
+30 Murcia,2005,4,Mujeres
+31 Navarra,2020,16,Mujeres
+31 Navarra,2019,34,Mujeres
+31 Navarra,2018,34,Mujeres
+31 Navarra,2017,18,Mujeres
+31 Navarra,2016,28,Mujeres
+31 Navarra,2015,29,Mujeres
+31 Navarra,2014,10,Mujeres
+31 Navarra,2013,10,Mujeres
+31 Navarra,2012,18,Mujeres
+31 Navarra,2011,13,Mujeres
+31 Navarra,2010,20,Mujeres
+31 Navarra,2009,15,Mujeres
+31 Navarra,2008,19,Mujeres
+31 Navarra,2007,12,Mujeres
+31 Navarra,2006,13,Mujeres
+31 Navarra,2005,2,Mujeres
+32 Ourense,2020,5,Mujeres
+32 Ourense,2019,6,Mujeres
+32 Ourense,2018,6,Mujeres
+32 Ourense,2017,5,Mujeres
+32 Ourense,2016,6,Mujeres
+32 Ourense,2015,5,Mujeres
+32 Ourense,2014,2,Mujeres
+32 Ourense,2012,1,Mujeres
+32 Ourense,2011,1,Mujeres
+32 Ourense,2010,2,Mujeres
+32 Ourense,2009,5,Mujeres
+32 Ourense,2008,2,Mujeres
+32 Ourense,2006,2,Mujeres
+34 Palencia,2020,2,Mujeres
+34 Palencia,2019,4,Mujeres
+34 Palencia,2018,2,Mujeres
+34 Palencia,2017,4,Mujeres
+34 Palencia,2016,4,Mujeres
+34 Palencia,2015,1,Mujeres
+34 Palencia,2013,2,Mujeres
+34 Palencia,2012,3,Mujeres
+34 Palencia,2011,3,Mujeres
+34 Palencia,2010,2,Mujeres
+34 Palencia,2007,1,Mujeres
+34 Palencia,2006,1,Mujeres
+"35 Palmas, Las",2020,63,Mujeres
+"35 Palmas, Las",2019,122,Mujeres
+"35 Palmas, Las",2018,103,Mujeres
+"35 Palmas, Las",2017,86,Mujeres
+"35 Palmas, Las",2016,95,Mujeres
+"35 Palmas, Las",2015,86,Mujeres
+"35 Palmas, Las",2014,67,Mujeres
+"35 Palmas, Las",2013,69,Mujeres
+"35 Palmas, Las",2012,57,Mujeres
+"35 Palmas, Las",2011,57,Mujeres
+"35 Palmas, Las",2010,41,Mujeres
+"35 Palmas, Las",2009,43,Mujeres
+"35 Palmas, Las",2008,50,Mujeres
+"35 Palmas, Las",2007,41,Mujeres
+"35 Palmas, Las",2006,53,Mujeres
+"35 Palmas, Las",2005,10,Mujeres
+36 Pontevedra,2020,28,Mujeres
+36 Pontevedra,2019,20,Mujeres
+36 Pontevedra,2018,19,Mujeres
+36 Pontevedra,2017,29,Mujeres
+36 Pontevedra,2016,27,Mujeres
+36 Pontevedra,2015,17,Mujeres
+36 Pontevedra,2014,8,Mujeres
+36 Pontevedra,2013,10,Mujeres
+36 Pontevedra,2012,10,Mujeres
+36 Pontevedra,2011,16,Mujeres
+36 Pontevedra,2010,12,Mujeres
+36 Pontevedra,2009,10,Mujeres
+36 Pontevedra,2008,13,Mujeres
+36 Pontevedra,2007,9,Mujeres
+36 Pontevedra,2006,12,Mujeres
+36 Pontevedra,2005,2,Mujeres
+"26 Rioja, La",2020,18,Mujeres
+"26 Rioja, La",2019,15,Mujeres
+"26 Rioja, La",2018,11,Mujeres
+"26 Rioja, La",2017,8,Mujeres
+"26 Rioja, La",2016,9,Mujeres
+"26 Rioja, La",2015,7,Mujeres
+"26 Rioja, La",2014,9,Mujeres
+"26 Rioja, La",2013,5,Mujeres
+"26 Rioja, La",2012,11,Mujeres
+"26 Rioja, La",2011,8,Mujeres
+"26 Rioja, La",2010,5,Mujeres
+"26 Rioja, La",2009,6,Mujeres
+"26 Rioja, La",2008,4,Mujeres
+"26 Rioja, La",2007,2,Mujeres
+"26 Rioja, La",2006,3,Mujeres
+"26 Rioja, La",2005,3,Mujeres
+37 Salamanca,2020,1,Mujeres
+37 Salamanca,2019,12,Mujeres
+37 Salamanca,2018,8,Mujeres
+37 Salamanca,2017,7,Mujeres
+37 Salamanca,2016,7,Mujeres
+37 Salamanca,2015,7,Mujeres
+37 Salamanca,2014,4,Mujeres
+37 Salamanca,2013,9,Mujeres
+37 Salamanca,2012,8,Mujeres
+37 Salamanca,2011,4,Mujeres
+37 Salamanca,2010,3,Mujeres
+37 Salamanca,2009,3,Mujeres
+37 Salamanca,2008,7,Mujeres
+37 Salamanca,2007,2,Mujeres
+37 Salamanca,2006,2,Mujeres
+38 Santa Cruz de Tenerife,2020,65,Mujeres
+38 Santa Cruz de Tenerife,2019,94,Mujeres
+38 Santa Cruz de Tenerife,2018,78,Mujeres
+38 Santa Cruz de Tenerife,2017,75,Mujeres
+38 Santa Cruz de Tenerife,2016,85,Mujeres
+38 Santa Cruz de Tenerife,2015,55,Mujeres
+38 Santa Cruz de Tenerife,2014,59,Mujeres
+38 Santa Cruz de Tenerife,2013,52,Mujeres
+38 Santa Cruz de Tenerife,2012,42,Mujeres
+38 Santa Cruz de Tenerife,2011,36,Mujeres
+38 Santa Cruz de Tenerife,2010,33,Mujeres
+38 Santa Cruz de Tenerife,2009,41,Mujeres
+38 Santa Cruz de Tenerife,2008,30,Mujeres
+38 Santa Cruz de Tenerife,2007,33,Mujeres
+38 Santa Cruz de Tenerife,2006,29,Mujeres
+38 Santa Cruz de Tenerife,2005,7,Mujeres
+40 Segovia,2020,3,Mujeres
+40 Segovia,2019,4,Mujeres
+40 Segovia,2018,3,Mujeres
+40 Segovia,2017,6,Mujeres
+40 Segovia,2016,4,Mujeres
+40 Segovia,2015,3,Mujeres
+40 Segovia,2014,2,Mujeres
+40 Segovia,2013,2,Mujeres
+40 Segovia,2012,2,Mujeres
+40 Segovia,2011,5,Mujeres
+40 Segovia,2010,6,Mujeres
+40 Segovia,2009,1,Mujeres
+40 Segovia,2008,1,Mujeres
+40 Segovia,2007,1,Mujeres
+40 Segovia,2006,4,Mujeres
+40 Segovia,2005,1,Mujeres
+41 Sevilla,2020,87,Mujeres
+41 Sevilla,2019,123,Mujeres
+41 Sevilla,2018,115,Mujeres
+41 Sevilla,2017,104,Mujeres
+41 Sevilla,2016,113,Mujeres
+41 Sevilla,2015,83,Mujeres
+41 Sevilla,2014,76,Mujeres
+41 Sevilla,2013,64,Mujeres
+41 Sevilla,2012,59,Mujeres
+41 Sevilla,2011,57,Mujeres
+41 Sevilla,2010,38,Mujeres
+41 Sevilla,2009,42,Mujeres
+41 Sevilla,2008,48,Mujeres
+41 Sevilla,2007,53,Mujeres
+41 Sevilla,2006,64,Mujeres
+41 Sevilla,2005,15,Mujeres
+42 Soria,2020,2,Mujeres
+42 Soria,2019,3,Mujeres
+42 Soria,2018,3,Mujeres
+42 Soria,2016,1,Mujeres
+42 Soria,2015,2,Mujeres
+42 Soria,2013,1,Mujeres
+42 Soria,2011,1,Mujeres
+42 Soria,2007,1,Mujeres
+43 Tarragona,2020,29,Mujeres
+43 Tarragona,2019,38,Mujeres
+43 Tarragona,2018,39,Mujeres
+43 Tarragona,2017,26,Mujeres
+43 Tarragona,2016,28,Mujeres
+43 Tarragona,2015,34,Mujeres
+43 Tarragona,2014,21,Mujeres
+43 Tarragona,2013,29,Mujeres
+43 Tarragona,2012,39,Mujeres
+43 Tarragona,2011,29,Mujeres
+43 Tarragona,2010,24,Mujeres
+43 Tarragona,2009,21,Mujeres
+43 Tarragona,2008,19,Mujeres
+43 Tarragona,2007,22,Mujeres
+43 Tarragona,2006,24,Mujeres
+43 Tarragona,2005,11,Mujeres
+44 Teruel,2020,2,Mujeres
+44 Teruel,2019,2,Mujeres
+44 Teruel,2018,1,Mujeres
+44 Teruel,2017,1,Mujeres
+44 Teruel,2016,1,Mujeres
+44 Teruel,2014,2,Mujeres
+44 Teruel,2012,1,Mujeres
+44 Teruel,2010,2,Mujeres
+44 Teruel,2009,1,Mujeres
+44 Teruel,2008,1,Mujeres
+44 Teruel,2007,1,Mujeres
+44 Teruel,2006,1,Mujeres
+45 Toledo,2020,13,Mujeres
+45 Toledo,2019,23,Mujeres
+45 Toledo,2018,31,Mujeres
+45 Toledo,2017,24,Mujeres
+45 Toledo,2016,20,Mujeres
+45 Toledo,2015,17,Mujeres
+45 Toledo,2014,19,Mujeres
+45 Toledo,2013,13,Mujeres
+45 Toledo,2012,23,Mujeres
+45 Toledo,2011,17,Mujeres
+45 Toledo,2010,9,Mujeres
+45 Toledo,2009,9,Mujeres
+45 Toledo,2008,6,Mujeres
+45 Toledo,2007,4,Mujeres
+45 Toledo,2006,5,Mujeres
+45 Toledo,2005,3,Mujeres
+46 Valencia/València,2020,138,Mujeres
+46 Valencia/València,2019,146,Mujeres
+46 Valencia/València,2018,167,Mujeres
+46 Valencia/València,2017,142,Mujeres
+46 Valencia/València,2016,144,Mujeres
+46 Valencia/València,2015,126,Mujeres
+46 Valencia/València,2014,114,Mujeres
+46 Valencia/València,2013,88,Mujeres
+46 Valencia/València,2012,107,Mujeres
+46 Valencia/València,2011,121,Mujeres
+46 Valencia/València,2010,78,Mujeres
+46 Valencia/València,2009,78,Mujeres
+46 Valencia/València,2008,68,Mujeres
+46 Valencia/València,2007,79,Mujeres
+46 Valencia/València,2006,85,Mujeres
+46 Valencia/València,2005,36,Mujeres
+47 Valladolid,2020,12,Mujeres
+47 Valladolid,2019,16,Mujeres
+47 Valladolid,2018,12,Mujeres
+47 Valladolid,2017,12,Mujeres
+47 Valladolid,2016,10,Mujeres
+47 Valladolid,2015,10,Mujeres
+47 Valladolid,2014,7,Mujeres
+47 Valladolid,2013,3,Mujeres
+47 Valladolid,2012,9,Mujeres
+47 Valladolid,2011,7,Mujeres
+47 Valladolid,2010,7,Mujeres
+47 Valladolid,2009,4,Mujeres
+47 Valladolid,2008,4,Mujeres
+47 Valladolid,2007,3,Mujeres
+47 Valladolid,2006,5,Mujeres
+47 Valladolid,2005,2,Mujeres
+49 Zamora,2018,1,Mujeres
+49 Zamora,2017,1,Mujeres
+49 Zamora,2016,1,Mujeres
+49 Zamora,2015,2,Mujeres
+49 Zamora,2013,1,Mujeres
+49 Zamora,2009,1,Mujeres
+49 Zamora,2007,1,Mujeres
+49 Zamora,2006,1,Mujeres
+50 Zaragoza,2020,20,Mujeres
+50 Zaragoza,2019,32,Mujeres
+50 Zaragoza,2018,34,Mujeres
+50 Zaragoza,2017,27,Mujeres
+50 Zaragoza,2016,26,Mujeres
+50 Zaragoza,2015,23,Mujeres
+50 Zaragoza,2014,26,Mujeres
+50 Zaragoza,2013,26,Mujeres
+50 Zaragoza,2012,21,Mujeres
+50 Zaragoza,2011,21,Mujeres
+50 Zaragoza,2010,28,Mujeres
+50 Zaragoza,2009,22,Mujeres
+50 Zaragoza,2008,12,Mujeres
+50 Zaragoza,2007,14,Mujeres
+50 Zaragoza,2006,20,Mujeres
+50 Zaragoza,2005,4,Mujeres
+51 Ceuta,2020,1,Mujeres
+51 Ceuta,2019,1,Mujeres
+51 Ceuta,2017,2,Mujeres
+51 Ceuta,2016,1,Mujeres
+51 Ceuta,2014,1,Mujeres
+51 Ceuta,2012,2,Mujeres
+51 Ceuta,2011,1,Mujeres
+51 Ceuta,2010,1,Mujeres
+51 Ceuta,2009,2,Mujeres
+51 Ceuta,2008,1,Mujeres
+51 Ceuta,2007,1,Mujeres
+51 Ceuta,2005,1,Mujeres
+52 Melilla,2020,1,Mujeres
+52 Melilla,2019,3,Mujeres
+52 Melilla,2018,7,Mujeres
+52 Melilla,2017,2,Mujeres
+52 Melilla,2016,2,Mujeres
+52 Melilla,2015,2,Mujeres
+52 Melilla,2014,2,Mujeres
+52 Melilla,2011,2,Mujeres
+52 Melilla,2009,3,Mujeres
+52 Melilla,2008,2,Mujeres
+52 Melilla,2007,2,Mujeres
+No residente,2020,5,Mujeres
+No residente,2019,9,Mujeres
+No residente,2018,19,Mujeres
+No residente,2017,18,Mujeres
+No residente,2016,11,Mujeres
+No residente,2015,12,Mujeres
+No residente,2014,14,Mujeres
+No residente,2013,7,Mujeres
+No residente,2012,17,Mujeres
+No residente,2011,13,Mujeres
+No residente,2010,14,Mujeres
+No residente,2009,6,Mujeres
+No residente,2008,12,Mujeres
+No residente,2007,12,Mujeres
+No residente,2006,6,Mujeres
+No residente,2005,2,Mujeres
+02 Albacete,2020,6,Hombres
+02 Albacete,2019,8,Hombres
+02 Albacete,2018,10,Hombres
+02 Albacete,2017,9,Hombres
+02 Albacete,2016,6,Hombres
+02 Albacete,2015,8,Hombres
+02 Albacete,2014,8,Hombres
+02 Albacete,2013,1,Hombres
+02 Albacete,2012,6,Hombres
+02 Albacete,2011,7,Hombres
+02 Albacete,2010,5,Hombres
+02 Albacete,2009,3,Hombres
+02 Albacete,2008,3,Hombres
+02 Albacete,2007,2,Hombres
+02 Albacete,2006,9,Hombres
+02 Albacete,2005,1,Hombres
+03 Alicante/Alacant,2020,82,Hombres
+03 Alicante/Alacant,2019,96,Hombres
+03 Alicante/Alacant,2018,116,Hombres
+03 Alicante/Alacant,2017,137,Hombres
+03 Alicante/Alacant,2016,109,Hombres
+03 Alicante/Alacant,2015,88,Hombres
+03 Alicante/Alacant,2014,91,Hombres
+03 Alicante/Alacant,2013,79,Hombres
+03 Alicante/Alacant,2012,95,Hombres
+03 Alicante/Alacant,2011,86,Hombres
+03 Alicante/Alacant,2010,83,Hombres
+03 Alicante/Alacant,2009,101,Hombres
+03 Alicante/Alacant,2008,90,Hombres
+03 Alicante/Alacant,2007,117,Hombres
+03 Alicante/Alacant,2006,168,Hombres
+03 Alicante/Alacant,2005,39,Hombres
+04 Almería,2020,17,Hombres
+04 Almería,2019,25,Hombres
+04 Almería,2018,19,Hombres
+04 Almería,2017,22,Hombres
+04 Almería,2016,13,Hombres
+04 Almería,2015,16,Hombres
+04 Almería,2014,13,Hombres
+04 Almería,2013,22,Hombres
+04 Almería,2012,9,Hombres
+04 Almería,2011,16,Hombres
+04 Almería,2010,20,Hombres
+04 Almería,2009,11,Hombres
+04 Almería,2008,21,Hombres
+04 Almería,2007,12,Hombres
+04 Almería,2006,30,Hombres
+04 Almería,2005,5,Hombres
+01 Araba/Álava,2020,7,Hombres
+01 Araba/Álava,2019,13,Hombres
+01 Araba/Álava,2018,11,Hombres
+01 Araba/Álava,2017,7,Hombres
+01 Araba/Álava,2016,7,Hombres
+01 Araba/Álava,2015,6,Hombres
+01 Araba/Álava,2014,9,Hombres
+01 Araba/Álava,2013,11,Hombres
+01 Araba/Álava,2012,4,Hombres
+01 Araba/Álava,2011,15,Hombres
+01 Araba/Álava,2010,13,Hombres
+01 Araba/Álava,2009,2,Hombres
+01 Araba/Álava,2008,6,Hombres
+01 Araba/Álava,2007,10,Hombres
+01 Araba/Álava,2006,6,Hombres
+01 Araba/Álava,2005,6,Hombres
+33 Asturias,2020,28,Hombres
+33 Asturias,2019,45,Hombres
+33 Asturias,2018,29,Hombres
+33 Asturias,2017,36,Hombres
+33 Asturias,2016,30,Hombres
+33 Asturias,2015,32,Hombres
+33 Asturias,2014,23,Hombres
+33 Asturias,2013,22,Hombres
+33 Asturias,2012,25,Hombres
+33 Asturias,2011,23,Hombres
+33 Asturias,2010,34,Hombres
+33 Asturias,2009,36,Hombres
+33 Asturias,2008,35,Hombres
+33 Asturias,2007,27,Hombres
+33 Asturias,2006,51,Hombres
+33 Asturias,2005,24,Hombres
+05 Ávila,2020,1,Hombres
+05 Ávila,2019,3,Hombres
+05 Ávila,2018,3,Hombres
+05 Ávila,2017,2,Hombres
+05 Ávila,2016,5,Hombres
+05 Ávila,2014,3,Hombres
+05 Ávila,2012,1,Hombres
+05 Ávila,2010,1,Hombres
+05 Ávila,2009,4,Hombres
+05 Ávila,2008,2,Hombres
+05 Ávila,2007,2,Hombres
+05 Ávila,2006,2,Hombres
+06 Badajoz,2020,6,Hombres
+06 Badajoz,2019,17,Hombres
+06 Badajoz,2018,25,Hombres
+06 Badajoz,2017,18,Hombres
+06 Badajoz,2016,11,Hombres
+06 Badajoz,2015,13,Hombres
+06 Badajoz,2014,9,Hombres
+06 Badajoz,2013,9,Hombres
+06 Badajoz,2012,15,Hombres
+06 Badajoz,2011,14,Hombres
+06 Badajoz,2010,10,Hombres
+06 Badajoz,2009,13,Hombres
+06 Badajoz,2008,7,Hombres
+06 Badajoz,2007,6,Hombres
+06 Badajoz,2006,7,Hombres
+06 Badajoz,2005,2,Hombres
+"07 Balears, Illes",2020,57,Hombres
+"07 Balears, Illes",2019,114,Hombres
+"07 Balears, Illes",2018,110,Hombres
+"07 Balears, Illes",2017,84,Hombres
+"07 Balears, Illes",2016,78,Hombres
+"07 Balears, Illes",2015,72,Hombres
+"07 Balears, Illes",2014,63,Hombres
+"07 Balears, Illes",2013,75,Hombres
+"07 Balears, Illes",2012,56,Hombres
+"07 Balears, Illes",2011,82,Hombres
+"07 Balears, Illes",2010,71,Hombres
+"07 Balears, Illes",2009,86,Hombres
+"07 Balears, Illes",2008,56,Hombres
+"07 Balears, Illes",2007,87,Hombres
+"07 Balears, Illes",2006,95,Hombres
+"07 Balears, Illes",2005,33,Hombres
+08 Barcelona,2020,191,Hombres
+08 Barcelona,2019,349,Hombres
+08 Barcelona,2018,410,Hombres
+08 Barcelona,2017,434,Hombres
+08 Barcelona,2016,414,Hombres
+08 Barcelona,2015,365,Hombres
+08 Barcelona,2014,304,Hombres
+08 Barcelona,2013,334,Hombres
+08 Barcelona,2012,413,Hombres
+08 Barcelona,2011,453,Hombres
+08 Barcelona,2010,446,Hombres
+08 Barcelona,2009,466,Hombres
+08 Barcelona,2008,474,Hombres
+08 Barcelona,2007,446,Hombres
+08 Barcelona,2006,636,Hombres
+08 Barcelona,2005,146,Hombres
+48 Bizkaia,2020,32,Hombres
+48 Bizkaia,2019,41,Hombres
+48 Bizkaia,2018,40,Hombres
+48 Bizkaia,2017,31,Hombres
+48 Bizkaia,2016,42,Hombres
+48 Bizkaia,2015,26,Hombres
+48 Bizkaia,2014,26,Hombres
+48 Bizkaia,2013,28,Hombres
+48 Bizkaia,2012,36,Hombres
+48 Bizkaia,2011,35,Hombres
+48 Bizkaia,2010,25,Hombres
+48 Bizkaia,2009,29,Hombres
+48 Bizkaia,2008,34,Hombres
+48 Bizkaia,2007,19,Hombres
+48 Bizkaia,2006,47,Hombres
+48 Bizkaia,2005,28,Hombres
+09 Burgos,2020,5,Hombres
+09 Burgos,2019,6,Hombres
+09 Burgos,2018,1,Hombres
+09 Burgos,2017,6,Hombres
+09 Burgos,2016,5,Hombres
+09 Burgos,2015,5,Hombres
+09 Burgos,2014,3,Hombres
+09 Burgos,2013,5,Hombres
+09 Burgos,2012,6,Hombres
+09 Burgos,2011,3,Hombres
+09 Burgos,2010,1,Hombres
+09 Burgos,2009,4,Hombres
+09 Burgos,2008,4,Hombres
+09 Burgos,2007,5,Hombres
+09 Burgos,2006,2,Hombres
+10 Cáceres,2020,4,Hombres
+10 Cáceres,2019,8,Hombres
+10 Cáceres,2018,12,Hombres
+10 Cáceres,2017,7,Hombres
+10 Cáceres,2016,2,Hombres
+10 Cáceres,2015,5,Hombres
+10 Cáceres,2014,7,Hombres
+10 Cáceres,2013,3,Hombres
+10 Cáceres,2012,6,Hombres
+10 Cáceres,2011,4,Hombres
+10 Cáceres,2010,5,Hombres
+10 Cáceres,2009,3,Hombres
+10 Cáceres,2008,4,Hombres
+10 Cáceres,2007,7,Hombres
+10 Cáceres,2006,7,Hombres
+10 Cáceres,2005,3,Hombres
+11 Cádiz,2020,17,Hombres
+11 Cádiz,2019,54,Hombres
+11 Cádiz,2018,52,Hombres
+11 Cádiz,2017,42,Hombres
+11 Cádiz,2016,36,Hombres
+11 Cádiz,2015,33,Hombres
+11 Cádiz,2014,39,Hombres
+11 Cádiz,2013,25,Hombres
+11 Cádiz,2012,26,Hombres
+11 Cádiz,2011,31,Hombres
+11 Cádiz,2010,37,Hombres
+11 Cádiz,2009,31,Hombres
+11 Cádiz,2008,22,Hombres
+11 Cádiz,2007,31,Hombres
+11 Cádiz,2006,54,Hombres
+11 Cádiz,2005,23,Hombres
+39 Cantabria,2020,19,Hombres
+39 Cantabria,2019,21,Hombres
+39 Cantabria,2018,20,Hombres
+39 Cantabria,2017,19,Hombres
+39 Cantabria,2016,18,Hombres
+39 Cantabria,2015,16,Hombres
+39 Cantabria,2014,11,Hombres
+39 Cantabria,2013,15,Hombres
+39 Cantabria,2012,12,Hombres
+39 Cantabria,2011,16,Hombres
+39 Cantabria,2010,9,Hombres
+39 Cantabria,2009,11,Hombres
+39 Cantabria,2008,19,Hombres
+39 Cantabria,2007,12,Hombres
+39 Cantabria,2006,18,Hombres
+39 Cantabria,2005,9,Hombres
+12 Castellón/Castelló,2020,12,Hombres
+12 Castellón/Castelló,2019,19,Hombres
+12 Castellón/Castelló,2018,27,Hombres
+12 Castellón/Castelló,2017,17,Hombres
+12 Castellón/Castelló,2016,10,Hombres
+12 Castellón/Castelló,2015,19,Hombres
+12 Castellón/Castelló,2014,10,Hombres
+12 Castellón/Castelló,2013,7,Hombres
+12 Castellón/Castelló,2012,19,Hombres
+12 Castellón/Castelló,2011,16,Hombres
+12 Castellón/Castelló,2010,13,Hombres
+12 Castellón/Castelló,2009,10,Hombres
+12 Castellón/Castelló,2008,13,Hombres
+12 Castellón/Castelló,2007,13,Hombres
+12 Castellón/Castelló,2006,20,Hombres
+12 Castellón/Castelló,2005,5,Hombres
+13 Ciudad Real,2020,2,Hombres
+13 Ciudad Real,2019,13,Hombres
+13 Ciudad Real,2018,21,Hombres
+13 Ciudad Real,2017,10,Hombres
+13 Ciudad Real,2016,9,Hombres
+13 Ciudad Real,2015,2,Hombres
+13 Ciudad Real,2014,5,Hombres
+13 Ciudad Real,2013,6,Hombres
+13 Ciudad Real,2012,5,Hombres
+13 Ciudad Real,2011,6,Hombres
+13 Ciudad Real,2010,5,Hombres
+13 Ciudad Real,2009,5,Hombres
+13 Ciudad Real,2008,6,Hombres
+13 Ciudad Real,2007,7,Hombres
+13 Ciudad Real,2006,9,Hombres
+13 Ciudad Real,2005,5,Hombres
+14 Córdoba,2020,17,Hombres
+14 Córdoba,2019,28,Hombres
+14 Córdoba,2018,29,Hombres
+14 Córdoba,2017,28,Hombres
+14 Córdoba,2016,24,Hombres
+14 Córdoba,2015,12,Hombres
+14 Córdoba,2014,17,Hombres
+14 Córdoba,2013,9,Hombres
+14 Córdoba,2012,11,Hombres
+14 Córdoba,2011,19,Hombres
+14 Córdoba,2010,14,Hombres
+14 Córdoba,2009,18,Hombres
+14 Córdoba,2008,11,Hombres
+14 Córdoba,2007,18,Hombres
+14 Córdoba,2006,23,Hombres
+14 Córdoba,2005,4,Hombres
+"15 Coruña, A",2020,19,Hombres
+"15 Coruña, A",2019,45,Hombres
+"15 Coruña, A",2018,34,Hombres
+"15 Coruña, A",2017,36,Hombres
+"15 Coruña, A",2016,28,Hombres
+"15 Coruña, A",2015,26,Hombres
+"15 Coruña, A",2014,22,Hombres
+"15 Coruña, A",2013,22,Hombres
+"15 Coruña, A",2012,30,Hombres
+"15 Coruña, A",2011,32,Hombres
+"15 Coruña, A",2010,21,Hombres
+"15 Coruña, A",2009,25,Hombres
+"15 Coruña, A",2008,30,Hombres
+"15 Coruña, A",2007,25,Hombres
+"15 Coruña, A",2006,24,Hombres
+"15 Coruña, A",2005,16,Hombres
+16 Cuenca,2020,1,Hombres
+16 Cuenca,2019,3,Hombres
+16 Cuenca,2018,2,Hombres
+16 Cuenca,2017,4,Hombres
+16 Cuenca,2015,7,Hombres
+16 Cuenca,2014,3,Hombres
+16 Cuenca,2013,2,Hombres
+16 Cuenca,2012,1,Hombres
+16 Cuenca,2010,3,Hombres
+16 Cuenca,2008,3,Hombres
+16 Cuenca,2007,1,Hombres
+16 Cuenca,2006,1,Hombres
+16 Cuenca,2005,1,Hombres
+20 Gipuzkoa,2020,6,Hombres
+20 Gipuzkoa,2019,23,Hombres
+20 Gipuzkoa,2018,29,Hombres
+20 Gipuzkoa,2017,30,Hombres
+20 Gipuzkoa,2016,26,Hombres
+20 Gipuzkoa,2015,18,Hombres
+20 Gipuzkoa,2014,17,Hombres
+20 Gipuzkoa,2013,17,Hombres
+20 Gipuzkoa,2012,19,Hombres
+20 Gipuzkoa,2011,25,Hombres
+20 Gipuzkoa,2010,23,Hombres
+20 Gipuzkoa,2009,23,Hombres
+20 Gipuzkoa,2008,9,Hombres
+20 Gipuzkoa,2007,22,Hombres
+20 Gipuzkoa,2006,37,Hombres
+20 Gipuzkoa,2005,19,Hombres
+17 Girona,2020,15,Hombres
+17 Girona,2019,27,Hombres
+17 Girona,2018,21,Hombres
+17 Girona,2017,27,Hombres
+17 Girona,2016,37,Hombres
+17 Girona,2015,30,Hombres
+17 Girona,2014,23,Hombres
+17 Girona,2013,24,Hombres
+17 Girona,2012,31,Hombres
+17 Girona,2011,36,Hombres
+17 Girona,2010,27,Hombres
+17 Girona,2009,33,Hombres
+17 Girona,2008,26,Hombres
+17 Girona,2007,28,Hombres
+17 Girona,2006,42,Hombres
+17 Girona,2005,22,Hombres
+18 Granada,2020,25,Hombres
+18 Granada,2019,57,Hombres
+18 Granada,2018,29,Hombres
+18 Granada,2017,36,Hombres
+18 Granada,2016,41,Hombres
+18 Granada,2015,31,Hombres
+18 Granada,2014,23,Hombres
+18 Granada,2013,18,Hombres
+18 Granada,2012,30,Hombres
+18 Granada,2011,30,Hombres
+18 Granada,2010,16,Hombres
+18 Granada,2009,30,Hombres
+18 Granada,2008,31,Hombres
+18 Granada,2007,24,Hombres
+18 Granada,2006,49,Hombres
+18 Granada,2005,10,Hombres
+19 Guadalajara,2020,4,Hombres
+19 Guadalajara,2019,9,Hombres
+19 Guadalajara,2018,8,Hombres
+19 Guadalajara,2017,6,Hombres
+19 Guadalajara,2016,7,Hombres
+19 Guadalajara,2015,3,Hombres
+19 Guadalajara,2014,7,Hombres
+19 Guadalajara,2013,5,Hombres
+19 Guadalajara,2012,4,Hombres
+19 Guadalajara,2011,10,Hombres
+19 Guadalajara,2010,11,Hombres
+19 Guadalajara,2009,4,Hombres
+19 Guadalajara,2008,7,Hombres
+19 Guadalajara,2007,8,Hombres
+19 Guadalajara,2006,12,Hombres
+19 Guadalajara,2005,1,Hombres
+21 Huelva,2020,13,Hombres
+21 Huelva,2019,12,Hombres
+21 Huelva,2018,10,Hombres
+21 Huelva,2017,14,Hombres
+21 Huelva,2016,21,Hombres
+21 Huelva,2015,17,Hombres
+21 Huelva,2014,12,Hombres
+21 Huelva,2013,11,Hombres
+21 Huelva,2012,12,Hombres
+21 Huelva,2011,8,Hombres
+21 Huelva,2010,11,Hombres
+21 Huelva,2009,7,Hombres
+21 Huelva,2008,13,Hombres
+21 Huelva,2007,5,Hombres
+21 Huelva,2006,9,Hombres
+21 Huelva,2005,6,Hombres
+22 Huesca,2020,2,Hombres
+22 Huesca,2019,3,Hombres
+22 Huesca,2018,1,Hombres
+22 Huesca,2017,2,Hombres
+22 Huesca,2016,2,Hombres
+22 Huesca,2015,4,Hombres
+22 Huesca,2014,2,Hombres
+22 Huesca,2013,1,Hombres
+22 Huesca,2012,1,Hombres
+22 Huesca,2011,3,Hombres
+22 Huesca,2010,6,Hombres
+22 Huesca,2009,1,Hombres
+22 Huesca,2008,6,Hombres
+22 Huesca,2007,1,Hombres
+22 Huesca,2006,6,Hombres
+22 Huesca,2005,1,Hombres
+23 Jaén,2020,17,Hombres
+23 Jaén,2019,21,Hombres
+23 Jaén,2018,20,Hombres
+23 Jaén,2017,16,Hombres
+23 Jaén,2016,15,Hombres
+23 Jaén,2015,9,Hombres
+23 Jaén,2014,10,Hombres
+23 Jaén,2013,8,Hombres
+23 Jaén,2012,7,Hombres
+23 Jaén,2011,9,Hombres
+23 Jaén,2010,9,Hombres
+23 Jaén,2009,5,Hombres
+23 Jaén,2008,10,Hombres
+23 Jaén,2007,6,Hombres
+23 Jaén,2006,11,Hombres
+23 Jaén,2005,5,Hombres
+24 León,2020,7,Hombres
+24 León,2019,7,Hombres
+24 León,2018,8,Hombres
+24 León,2017,7,Hombres
+24 León,2016,12,Hombres
+24 León,2015,12,Hombres
+24 León,2014,8,Hombres
+24 León,2013,2,Hombres
+24 León,2012,6,Hombres
+24 León,2011,8,Hombres
+24 León,2010,4,Hombres
+24 León,2009,7,Hombres
+24 León,2008,4,Hombres
+24 León,2007,11,Hombres
+24 León,2006,9,Hombres
+24 León,2005,1,Hombres
+25 Lleida,2020,11,Hombres
+25 Lleida,2019,15,Hombres
+25 Lleida,2018,9,Hombres
+25 Lleida,2017,6,Hombres
+25 Lleida,2016,13,Hombres
+25 Lleida,2015,10,Hombres
+25 Lleida,2014,7,Hombres
+25 Lleida,2013,5,Hombres
+25 Lleida,2012,8,Hombres
+25 Lleida,2011,4,Hombres
+25 Lleida,2010,15,Hombres
+25 Lleida,2009,9,Hombres
+25 Lleida,2008,13,Hombres
+25 Lleida,2007,5,Hombres
+25 Lleida,2006,16,Hombres
+25 Lleida,2005,6,Hombres
+27 Lugo,2020,3,Hombres
+27 Lugo,2019,1,Hombres
+27 Lugo,2018,6,Hombres
+27 Lugo,2017,7,Hombres
+27 Lugo,2016,4,Hombres
+27 Lugo,2015,5,Hombres
+27 Lugo,2014,2,Hombres
+27 Lugo,2013,3,Hombres
+27 Lugo,2012,6,Hombres
+27 Lugo,2011,1,Hombres
+27 Lugo,2010,2,Hombres
+27 Lugo,2009,1,Hombres
+27 Lugo,2008,2,Hombres
+27 Lugo,2007,4,Hombres
+27 Lugo,2006,4,Hombres
+28 Madrid,2020,324,Hombres
+28 Madrid,2019,540,Hombres
+28 Madrid,2018,500,Hombres
+28 Madrid,2017,487,Hombres
+28 Madrid,2016,453,Hombres
+28 Madrid,2015,415,Hombres
+28 Madrid,2014,352,Hombres
+28 Madrid,2013,366,Hombres
+28 Madrid,2012,424,Hombres
+28 Madrid,2011,483,Hombres
+28 Madrid,2010,440,Hombres
+28 Madrid,2009,397,Hombres
+28 Madrid,2008,469,Hombres
+28 Madrid,2007,454,Hombres
+28 Madrid,2006,662,Hombres
+28 Madrid,2005,200,Hombres
+29 Málaga,2020,80,Hombres
+29 Málaga,2019,112,Hombres
+29 Málaga,2018,119,Hombres
+29 Málaga,2017,99,Hombres
+29 Málaga,2016,108,Hombres
+29 Málaga,2015,82,Hombres
+29 Málaga,2014,66,Hombres
+29 Málaga,2013,68,Hombres
+29 Málaga,2012,82,Hombres
+29 Málaga,2011,91,Hombres
+29 Málaga,2010,103,Hombres
+29 Málaga,2009,102,Hombres
+29 Málaga,2008,123,Hombres
+29 Málaga,2007,120,Hombres
+29 Málaga,2006,165,Hombres
+29 Málaga,2005,23,Hombres
+30 Murcia,2020,37,Hombres
+30 Murcia,2019,64,Hombres
+30 Murcia,2018,61,Hombres
+30 Murcia,2017,57,Hombres
+30 Murcia,2016,56,Hombres
+30 Murcia,2015,39,Hombres
+30 Murcia,2014,51,Hombres
+30 Murcia,2013,31,Hombres
+30 Murcia,2012,44,Hombres
+30 Murcia,2011,34,Hombres
+30 Murcia,2010,45,Hombres
+30 Murcia,2009,38,Hombres
+30 Murcia,2008,42,Hombres
+30 Murcia,2007,46,Hombres
+30 Murcia,2006,41,Hombres
+30 Murcia,2005,11,Hombres
+31 Navarra,2020,14,Hombres
+31 Navarra,2019,26,Hombres
+31 Navarra,2018,16,Hombres
+31 Navarra,2017,17,Hombres
+31 Navarra,2016,12,Hombres
+31 Navarra,2015,21,Hombres
+31 Navarra,2014,11,Hombres
+31 Navarra,2013,16,Hombres
+31 Navarra,2012,13,Hombres
+31 Navarra,2011,11,Hombres
+31 Navarra,2010,18,Hombres
+31 Navarra,2009,16,Hombres
+31 Navarra,2008,14,Hombres
+31 Navarra,2007,15,Hombres
+31 Navarra,2006,23,Hombres
+31 Navarra,2005,11,Hombres
+32 Ourense,2020,4,Hombres
+32 Ourense,2019,8,Hombres
+32 Ourense,2018,5,Hombres
+32 Ourense,2017,8,Hombres
+32 Ourense,2016,3,Hombres
+32 Ourense,2015,6,Hombres
+32 Ourense,2014,2,Hombres
+32 Ourense,2013,4,Hombres
+32 Ourense,2012,3,Hombres
+32 Ourense,2011,1,Hombres
+32 Ourense,2010,3,Hombres
+32 Ourense,2009,2,Hombres
+32 Ourense,2008,4,Hombres
+32 Ourense,2007,3,Hombres
+32 Ourense,2006,2,Hombres
+34 Palencia,2020,4,Hombres
+34 Palencia,2019,2,Hombres
+34 Palencia,2018,6,Hombres
+34 Palencia,2017,1,Hombres
+34 Palencia,2015,1,Hombres
+34 Palencia,2014,3,Hombres
+34 Palencia,2012,3,Hombres
+34 Palencia,2011,1,Hombres
+34 Palencia,2010,3,Hombres
+34 Palencia,2009,4,Hombres
+34 Palencia,2007,1,Hombres
+34 Palencia,2006,5,Hombres
+34 Palencia,2005,4,Hombres
+"35 Palmas, Las",2020,74,Hombres
+"35 Palmas, Las",2019,115,Hombres
+"35 Palmas, Las",2018,77,Hombres
+"35 Palmas, Las",2017,91,Hombres
+"35 Palmas, Las",2016,86,Hombres
+"35 Palmas, Las",2015,70,Hombres
+"35 Palmas, Las",2014,63,Hombres
+"35 Palmas, Las",2013,63,Hombres
+"35 Palmas, Las",2012,68,Hombres
+"35 Palmas, Las",2011,58,Hombres
+"35 Palmas, Las",2010,58,Hombres
+"35 Palmas, Las",2009,67,Hombres
+"35 Palmas, Las",2008,59,Hombres
+"35 Palmas, Las",2007,91,Hombres
+"35 Palmas, Las",2006,98,Hombres
+"35 Palmas, Las",2005,22,Hombres
+36 Pontevedra,2020,15,Hombres
+36 Pontevedra,2019,22,Hombres
+36 Pontevedra,2018,16,Hombres
+36 Pontevedra,2017,14,Hombres
+36 Pontevedra,2016,26,Hombres
+36 Pontevedra,2015,10,Hombres
+36 Pontevedra,2014,17,Hombres
+36 Pontevedra,2013,21,Hombres
+36 Pontevedra,2012,13,Hombres
+36 Pontevedra,2011,20,Hombres
+36 Pontevedra,2010,14,Hombres
+36 Pontevedra,2009,13,Hombres
+36 Pontevedra,2008,16,Hombres
+36 Pontevedra,2007,17,Hombres
+36 Pontevedra,2006,18,Hombres
+36 Pontevedra,2005,9,Hombres
+"26 Rioja, La",2020,5,Hombres
+"26 Rioja, La",2019,9,Hombres
+"26 Rioja, La",2018,13,Hombres
+"26 Rioja, La",2017,8,Hombres
+"26 Rioja, La",2016,8,Hombres
+"26 Rioja, La",2015,8,Hombres
+"26 Rioja, La",2014,4,Hombres
+"26 Rioja, La",2013,4,Hombres
+"26 Rioja, La",2012,11,Hombres
+"26 Rioja, La",2011,14,Hombres
+"26 Rioja, La",2010,4,Hombres
+"26 Rioja, La",2009,6,Hombres
+"26 Rioja, La",2008,5,Hombres
+"26 Rioja, La",2007,6,Hombres
+"26 Rioja, La",2006,9,Hombres
+"26 Rioja, La",2005,2,Hombres
+37 Salamanca,2020,5,Hombres
+37 Salamanca,2019,12,Hombres
+37 Salamanca,2018,7,Hombres
+37 Salamanca,2017,4,Hombres
+37 Salamanca,2016,6,Hombres
+37 Salamanca,2015,6,Hombres
+37 Salamanca,2014,4,Hombres
+37 Salamanca,2013,7,Hombres
+37 Salamanca,2012,5,Hombres
+37 Salamanca,2011,5,Hombres
+37 Salamanca,2010,3,Hombres
+37 Salamanca,2009,4,Hombres
+37 Salamanca,2008,4,Hombres
+37 Salamanca,2007,10,Hombres
+37 Salamanca,2006,9,Hombres
+37 Salamanca,2005,3,Hombres
+38 Santa Cruz de Tenerife,2020,59,Hombres
+38 Santa Cruz de Tenerife,2019,92,Hombres
+38 Santa Cruz de Tenerife,2018,75,Hombres
+38 Santa Cruz de Tenerife,2017,75,Hombres
+38 Santa Cruz de Tenerife,2016,68,Hombres
+38 Santa Cruz de Tenerife,2015,54,Hombres
+38 Santa Cruz de Tenerife,2014,56,Hombres
+38 Santa Cruz de Tenerife,2013,35,Hombres
+38 Santa Cruz de Tenerife,2012,53,Hombres
+38 Santa Cruz de Tenerife,2011,52,Hombres
+38 Santa Cruz de Tenerife,2010,55,Hombres
+38 Santa Cruz de Tenerife,2009,55,Hombres
+38 Santa Cruz de Tenerife,2008,46,Hombres
+38 Santa Cruz de Tenerife,2007,56,Hombres
+38 Santa Cruz de Tenerife,2006,95,Hombres
+38 Santa Cruz de Tenerife,2005,31,Hombres
+40 Segovia,2019,5,Hombres
+40 Segovia,2018,1,Hombres
+40 Segovia,2017,3,Hombres
+40 Segovia,2016,2,Hombres
+40 Segovia,2015,7,Hombres
+40 Segovia,2014,1,Hombres
+40 Segovia,2013,3,Hombres
+40 Segovia,2012,1,Hombres
+40 Segovia,2011,3,Hombres
+40 Segovia,2010,2,Hombres
+40 Segovia,2009,2,Hombres
+40 Segovia,2008,3,Hombres
+40 Segovia,2007,2,Hombres
+40 Segovia,2006,2,Hombres
+40 Segovia,2005,3,Hombres
+41 Sevilla,2020,64,Hombres
+41 Sevilla,2019,107,Hombres
+41 Sevilla,2018,86,Hombres
+41 Sevilla,2017,91,Hombres
+41 Sevilla,2016,81,Hombres
+41 Sevilla,2015,60,Hombres
+41 Sevilla,2014,54,Hombres
+41 Sevilla,2013,61,Hombres
+41 Sevilla,2012,63,Hombres
+41 Sevilla,2011,72,Hombres
+41 Sevilla,2010,59,Hombres
+41 Sevilla,2009,61,Hombres
+41 Sevilla,2008,60,Hombres
+41 Sevilla,2007,94,Hombres
+41 Sevilla,2006,112,Hombres
+41 Sevilla,2005,33,Hombres
+42 Soria,2019,5,Hombres
+42 Soria,2018,1,Hombres
+42 Soria,2017,1,Hombres
+42 Soria,2016,2,Hombres
+42 Soria,2015,2,Hombres
+42 Soria,2014,1,Hombres
+42 Soria,2013,1,Hombres
+42 Soria,2012,3,Hombres
+42 Soria,2010,1,Hombres
+42 Soria,2007,1,Hombres
+43 Tarragona,2020,17,Hombres
+43 Tarragona,2019,33,Hombres
+43 Tarragona,2018,33,Hombres
+43 Tarragona,2017,40,Hombres
+43 Tarragona,2016,36,Hombres
+43 Tarragona,2015,27,Hombres
+43 Tarragona,2014,22,Hombres
+43 Tarragona,2013,31,Hombres
+43 Tarragona,2012,24,Hombres
+43 Tarragona,2011,34,Hombres
+43 Tarragona,2010,40,Hombres
+43 Tarragona,2009,29,Hombres
+43 Tarragona,2008,44,Hombres
+43 Tarragona,2007,34,Hombres
+43 Tarragona,2006,39,Hombres
+43 Tarragona,2005,10,Hombres
+44 Teruel,2020,1,Hombres
+44 Teruel,2019,1,Hombres
+44 Teruel,2018,1,Hombres
+44 Teruel,2016,1,Hombres
+44 Teruel,2015,2,Hombres
+44 Teruel,2013,3,Hombres
+44 Teruel,2012,1,Hombres
+44 Teruel,2009,4,Hombres
+44 Teruel,2006,1,Hombres
+44 Teruel,2005,1,Hombres
+45 Toledo,2020,14,Hombres
+45 Toledo,2019,26,Hombres
+45 Toledo,2018,19,Hombres
+45 Toledo,2017,22,Hombres
+45 Toledo,2016,12,Hombres
+45 Toledo,2015,19,Hombres
+45 Toledo,2014,9,Hombres
+45 Toledo,2013,12,Hombres
+45 Toledo,2012,22,Hombres
+45 Toledo,2011,22,Hombres
+45 Toledo,2010,9,Hombres
+45 Toledo,2009,7,Hombres
+45 Toledo,2008,15,Hombres
+45 Toledo,2007,8,Hombres
+45 Toledo,2006,9,Hombres
+45 Toledo,2005,4,Hombres
+46 Valencia/València,2020,114,Hombres
+46 Valencia/València,2019,150,Hombres
+46 Valencia/València,2018,138,Hombres
+46 Valencia/València,2017,131,Hombres
+46 Valencia/València,2016,137,Hombres
+46 Valencia/València,2015,139,Hombres
+46 Valencia/València,2014,107,Hombres
+46 Valencia/València,2013,95,Hombres
+46 Valencia/València,2012,137,Hombres
+46 Valencia/València,2011,125,Hombres
+46 Valencia/València,2010,93,Hombres
+46 Valencia/València,2009,145,Hombres
+46 Valencia/València,2008,126,Hombres
+46 Valencia/València,2007,158,Hombres
+46 Valencia/València,2006,207,Hombres
+46 Valencia/València,2005,101,Hombres
+47 Valladolid,2020,6,Hombres
+47 Valladolid,2019,20,Hombres
+47 Valladolid,2018,16,Hombres
+47 Valladolid,2017,8,Hombres
+47 Valladolid,2016,12,Hombres
+47 Valladolid,2015,9,Hombres
+47 Valladolid,2014,14,Hombres
+47 Valladolid,2013,8,Hombres
+47 Valladolid,2012,10,Hombres
+47 Valladolid,2011,9,Hombres
+47 Valladolid,2010,9,Hombres
+47 Valladolid,2009,8,Hombres
+47 Valladolid,2008,10,Hombres
+47 Valladolid,2007,6,Hombres
+47 Valladolid,2006,11,Hombres
+47 Valladolid,2005,1,Hombres
+49 Zamora,2019,3,Hombres
+49 Zamora,2018,1,Hombres
+49 Zamora,2017,3,Hombres
+49 Zamora,2016,1,Hombres
+49 Zamora,2015,2,Hombres
+49 Zamora,2014,2,Hombres
+49 Zamora,2013,1,Hombres
+49 Zamora,2012,1,Hombres
+49 Zamora,2011,1,Hombres
+49 Zamora,2010,1,Hombres
+49 Zamora,2009,1,Hombres
+49 Zamora,2008,2,Hombres
+49 Zamora,2006,2,Hombres
+49 Zamora,2005,1,Hombres
+50 Zaragoza,2020,21,Hombres
+50 Zaragoza,2019,32,Hombres
+50 Zaragoza,2018,30,Hombres
+50 Zaragoza,2017,32,Hombres
+50 Zaragoza,2016,25,Hombres
+50 Zaragoza,2015,24,Hombres
+50 Zaragoza,2014,24,Hombres
+50 Zaragoza,2013,21,Hombres
+50 Zaragoza,2012,25,Hombres
+50 Zaragoza,2011,19,Hombres
+50 Zaragoza,2010,17,Hombres
+50 Zaragoza,2009,19,Hombres
+50 Zaragoza,2008,20,Hombres
+50 Zaragoza,2007,22,Hombres
+50 Zaragoza,2006,49,Hombres
+50 Zaragoza,2005,9,Hombres
+51 Ceuta,2020,3,Hombres
+51 Ceuta,2019,4,Hombres
+51 Ceuta,2018,2,Hombres
+51 Ceuta,2017,1,Hombres
+51 Ceuta,2016,2,Hombres
+51 Ceuta,2015,1,Hombres
+51 Ceuta,2011,2,Hombres
+51 Ceuta,2010,2,Hombres
+51 Ceuta,2009,1,Hombres
+51 Ceuta,2008,2,Hombres
+51 Ceuta,2005,1,Hombres
+52 Melilla,2019,2,Hombres
+52 Melilla,2017,1,Hombres
+52 Melilla,2016,1,Hombres
+52 Melilla,2015,1,Hombres
+52 Melilla,2013,1,Hombres
+52 Melilla,2011,1,Hombres
+52 Melilla,2010,1,Hombres
+52 Melilla,2009,1,Hombres
+52 Melilla,2008,1,Hombres
+52 Melilla,2007,2,Hombres
+52 Melilla,2006,1,Hombres
+No residente,2020,17,Hombres
+No residente,2019,19,Hombres
+No residente,2018,23,Hombres
+No residente,2017,29,Hombres
+No residente,2016,25,Hombres
+No residente,2015,30,Hombres
+No residente,2014,39,Hombres
+No residente,2013,27,Hombres
+No residente,2012,29,Hombres
+No residente,2011,23,Hombres
+No residente,2010,35,Hombres
+No residente,2009,24,Hombres
+No residente,2008,25,Hombres
+No residente,2007,34,Hombres
+No residente,2006,36,Hombres
+No residente,2005,13,Hombres
