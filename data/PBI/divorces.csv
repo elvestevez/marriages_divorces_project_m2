@@ -1,0 +1,55 @@
+Periodo,Sexo,Tipo de divorcio,Total,Tipo sexo,Tipo separacion
+2021,Mujer-Hombre,Divorcio de mutuo acuerdo,66969,distinto,acuerdo
+2020,Mujer-Hombre,Divorcio de mutuo acuerdo,61766,distinto,acuerdo
+2019,Mujer-Hombre,Divorcio de mutuo acuerdo,71370,distinto,acuerdo
+2018,Mujer-Hombre,Divorcio de mutuo acuerdo,73029,distinto,acuerdo
+2017,Mujer-Hombre,Divorcio de mutuo acuerdo,74758,distinto,acuerdo
+2016,Mujer-Hombre,Divorcio de mutuo acuerdo,72959,distinto,acuerdo
+2015,Mujer-Hombre,Divorcio de mutuo acuerdo,72529,distinto,acuerdo
+2014,Mujer-Hombre,Divorcio de mutuo acuerdo,75908,distinto,acuerdo
+2013,Mujer-Hombre,Divorcio de mutuo acuerdo,71499,distinto,acuerdo
+2021,Mujer-Hombre,Divorcio contencioso,18209,distinto,contencioso
+2020,Mujer-Hombre,Divorcio contencioso,14338,distinto,contencioso
+2019,Mujer-Hombre,Divorcio contencioso,19176,distinto,contencioso
+2018,Mujer-Hombre,Divorcio contencioso,21083,distinto,contencioso
+2017,Mujer-Hombre,Divorcio contencioso,22164,distinto,contencioso
+2016,Mujer-Hombre,Divorcio contencioso,22542,distinto,contencioso
+2015,Mujer-Hombre,Divorcio contencioso,23156,distinto,contencioso
+2014,Mujer-Hombre,Divorcio contencioso,23974,distinto,contencioso
+2013,Mujer-Hombre,Divorcio contencioso,23386,distinto,contencioso
+2021,Hombres,Divorcio de mutuo acuerdo,800,mismo,acuerdo
+2020,Hombres,Divorcio de mutuo acuerdo,469,mismo,acuerdo
+2019,Hombres,Divorcio de mutuo acuerdo,455,mismo,acuerdo
+2018,Hombres,Divorcio de mutuo acuerdo,502,mismo,acuerdo
+2017,Hombres,Divorcio de mutuo acuerdo,420,mismo,acuerdo
+2016,Hombres,Divorcio de mutuo acuerdo,749,mismo,acuerdo
+2015,Hombres,Divorcio de mutuo acuerdo,425,mismo,acuerdo
+2014,Hombres,Divorcio de mutuo acuerdo,410,mismo,acuerdo
+2013,Hombres,Divorcio de mutuo acuerdo,274,mismo,acuerdo
+2021,Mujeres,Divorcio de mutuo acuerdo,680,mismo,acuerdo
+2020,Mujeres,Divorcio de mutuo acuerdo,502,mismo,acuerdo
+2019,Mujeres,Divorcio de mutuo acuerdo,473,mismo,acuerdo
+2018,Mujeres,Divorcio de mutuo acuerdo,449,mismo,acuerdo
+2017,Mujeres,Divorcio de mutuo acuerdo,438,mismo,acuerdo
+2016,Mujeres,Divorcio de mutuo acuerdo,454,mismo,acuerdo
+2015,Mujeres,Divorcio de mutuo acuerdo,324,mismo,acuerdo
+2014,Mujeres,Divorcio de mutuo acuerdo,328,mismo,acuerdo
+2013,Mujeres,Divorcio de mutuo acuerdo,187,mismo,acuerdo
+2021,Hombres,Divorcio contencioso,100,mismo,contencioso
+2020,Hombres,Divorcio contencioso,75,mismo,contencioso
+2019,Hombres,Divorcio contencioso,104,mismo,contencioso
+2018,Hombres,Divorcio contencioso,94,mismo,contencioso
+2017,Hombres,Divorcio contencioso,106,mismo,contencioso
+2016,Hombres,Divorcio contencioso,71,mismo,contencioso
+2015,Hombres,Divorcio contencioso,64,mismo,contencioso
+2014,Hombres,Divorcio contencioso,73,mismo,contencioso
+2013,Hombres,Divorcio contencioso,47,mismo,contencioso
+2021,Mujeres,Divorcio contencioso,92,mismo,contencioso
+2020,Mujeres,Divorcio contencioso,48,mismo,contencioso
+2019,Mujeres,Divorcio contencioso,67,mismo,contencioso
+2018,Mujeres,Divorcio contencioso,97,mismo,contencioso
+2017,Mujeres,Divorcio contencioso,74,mismo,contencioso
+2016,Mujeres,Divorcio contencioso,49,mismo,contencioso
+2015,Mujeres,Divorcio contencioso,64,mismo,contencioso
+2014,Mujeres,Divorcio contencioso,53,mismo,contencioso
+2013,Mujeres,Divorcio contencioso,34,mismo,contencioso
