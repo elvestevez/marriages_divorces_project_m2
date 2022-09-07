@@ -1,5 +1,4 @@
 Periodo,Sexo,Tipo de divorcio,Total
-2021,Mujer-Hombre,Divorcio de mutuo acuerdo,66969
 2020,Mujer-Hombre,Divorcio de mutuo acuerdo,61766
 2019,Mujer-Hombre,Divorcio de mutuo acuerdo,71370
 2018,Mujer-Hombre,Divorcio de mutuo acuerdo,73029
@@ -8,7 +7,6 @@ Periodo,Sexo,Tipo de divorcio,Total
 2015,Mujer-Hombre,Divorcio de mutuo acuerdo,72529
 2014,Mujer-Hombre,Divorcio de mutuo acuerdo,75908
 2013,Mujer-Hombre,Divorcio de mutuo acuerdo,71499
-2021,Mujer-Hombre,Divorcio contencioso,18209
 2020,Mujer-Hombre,Divorcio contencioso,14338
 2019,Mujer-Hombre,Divorcio contencioso,19176
 2018,Mujer-Hombre,Divorcio contencioso,21083
@@ -17,7 +15,6 @@ Periodo,Sexo,Tipo de divorcio,Total
 2015,Mujer-Hombre,Divorcio contencioso,23156
 2014,Mujer-Hombre,Divorcio contencioso,23974
 2013,Mujer-Hombre,Divorcio contencioso,23386
-2021,Hombres,Divorcio de mutuo acuerdo,800
 2020,Hombres,Divorcio de mutuo acuerdo,469
 2019,Hombres,Divorcio de mutuo acuerdo,455
 2018,Hombres,Divorcio de mutuo acuerdo,502
@@ -26,7 +23,6 @@ Periodo,Sexo,Tipo de divorcio,Total
 2015,Hombres,Divorcio de mutuo acuerdo,425
 2014,Hombres,Divorcio de mutuo acuerdo,410
 2013,Hombres,Divorcio de mutuo acuerdo,274
-2021,Mujeres,Divorcio de mutuo acuerdo,680
 2020,Mujeres,Divorcio de mutuo acuerdo,502
 2019,Mujeres,Divorcio de mutuo acuerdo,473
 2018,Mujeres,Divorcio de mutuo acuerdo,449
@@ -35,7 +31,6 @@ Periodo,Sexo,Tipo de divorcio,Total
 2015,Mujeres,Divorcio de mutuo acuerdo,324
 2014,Mujeres,Divorcio de mutuo acuerdo,328
 2013,Mujeres,Divorcio de mutuo acuerdo,187
-2021,Hombres,Divorcio contencioso,100
 2020,Hombres,Divorcio contencioso,75
 2019,Hombres,Divorcio contencioso,104
 2018,Hombres,Divorcio contencioso,94
@@ -44,7 +39,6 @@ Periodo,Sexo,Tipo de divorcio,Total
 2015,Hombres,Divorcio contencioso,64
 2014,Hombres,Divorcio contencioso,73
 2013,Hombres,Divorcio contencioso,47
-2021,Mujeres,Divorcio contencioso,92
 2020,Mujeres,Divorcio contencioso,48
 2019,Mujeres,Divorcio contencioso,67
 2018,Mujeres,Divorcio contencioso,97

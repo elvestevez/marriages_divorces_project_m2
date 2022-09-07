@@ -1,5 +1,4 @@
 Sexo,Estado civil,Periodo,Total
-Hombres,Solteros/Solteras,2021,7585500
 Hombres,Solteros/Solteras,2020,7462400
 Hombres,Solteros/Solteras,2019,7329900
 Hombres,Solteros/Solteras,2018,7083300
@@ -16,7 +15,6 @@ Hombres,Solteros/Solteras,2008,6964900
 Hombres,Solteros/Solteras,2007,6915800
 Hombres,Solteros/Solteras,2006,6740700
 Hombres,Solteros/Solteras,2005,6617700
-Hombres,Casados/Casadas,2021,9969700
 Hombres,Casados/Casadas,2020,10087400
 Hombres,Casados/Casadas,2019,10181700
 Hombres,Casados/Casadas,2018,10208500
@@ -33,7 +31,6 @@ Hombres,Casados/Casadas,2008,10678600
 Hombres,Casados/Casadas,2007,10516800
 Hombres,Casados/Casadas,2006,10374500
 Hombres,Casados/Casadas,2005,10258300
-Hombres,Viudos/Viudas,2021,575600
 Hombres,Viudos/Viudas,2020,586600
 Hombres,Viudos/Viudas,2019,557000
 Hombres,Viudos/Viudas,2018,554400
@@ -50,7 +47,6 @@ Hombres,Viudos/Viudas,2008,567100
 Hombres,Viudos/Viudas,2007,559600
 Hombres,Viudos/Viudas,2006,548200
 Hombres,Viudos/Viudas,2005,534400
-Hombres,Separados/Separadas o Divorciados/Divorciadas,2021,1161800
 Hombres,Separados/Separadas o Divorciados/Divorciadas,2020,1132800
 Hombres,Separados/Separadas o Divorciados/Divorciadas,2019,1101700
 Hombres,Separados/Separadas o Divorciados/Divorciadas,2018,1125300
@@ -67,7 +63,6 @@ Hombres,Separados/Separadas o Divorciados/Divorciadas,2008,737600
 Hombres,Separados/Separadas o Divorciados/Divorciadas,2007,729900
 Hombres,Separados/Separadas o Divorciados/Divorciadas,2006,677700
 Hombres,Separados/Separadas o Divorciados/Divorciadas,2005,626800
-Mujeres,Solteros/Solteras,2021,6569400
 Mujeres,Solteros/Solteras,2020,6418300
 Mujeres,Solteros/Solteras,2019,6271600
 Mujeres,Solteros/Solteras,2018,6022300
@@ -84,7 +79,6 @@ Mujeres,Solteros/Solteras,2008,5591800
 Mujeres,Solteros/Solteras,2007,5551400
 Mujeres,Solteros/Solteras,2006,5523900
 Mujeres,Solteros/Solteras,2005,5371400
-Mujeres,Casados/Casadas,2021,9898600
 Mujeres,Casados/Casadas,2020,10074200
 Mujeres,Casados/Casadas,2019,10149000
 Mujeres,Casados/Casadas,2018,10195700
@@ -101,7 +95,6 @@ Mujeres,Casados/Casadas,2008,10601700
 Mujeres,Casados/Casadas,2007,10450200
 Mujeres,Casados/Casadas,2006,10261400
 Mujeres,Casados/Casadas,2005,10197400
-Mujeres,Viudos/Viudas,2021,2342400
 Mujeres,Viudos/Viudas,2020,2331200
 Mujeres,Viudos/Viudas,2019,2363800
 Mujeres,Viudos/Viudas,2018,2383400
@@ -118,7 +111,6 @@ Mujeres,Viudos/Viudas,2008,2399400
 Mujeres,Viudos/Viudas,2007,2395300
 Mujeres,Viudos/Viudas,2006,2393500
 Mujeres,Viudos/Viudas,2005,2377300
-Mujeres,Separados/Separadas o Divorciados/Divorciadas,2021,1603900
 Mujeres,Separados/Separadas o Divorciados/Divorciadas,2020,1542600
 Mujeres,Separados/Separadas o Divorciados/Divorciadas,2019,1472600
 Mujeres,Separados/Separadas o Divorciados/Divorciadas,2018,1446600
