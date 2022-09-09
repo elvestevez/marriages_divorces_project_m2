@@ -1,0 +1,40 @@
+Estado civil
+
+Datos anuales desde 2005 hasta 2021:
+- Desde 2005 han disminuido los casados/as y viudos/as, mientras que han aumentado los solteros/as y divorciados/as y separados/as.
+- Hay una relación directa del número de personas casdas con el número de viudos/as (obvio, para estar viudo/a hay que estar casado/a).
+- Hay una relación indirecta de los casados con los solteros/as (se casan menos) y con los divorciados/as y separados/as.
+- La mayor diferencia se aprecia en divorciados/as y separados/as.
+- No hay una diferencia significativa en el estado civil entre hombres y mujeres, que no se ha visto afectado por el paso de estos años.
+
+
+Relaciones: matrimonios, divorcios, separaciones y nulidades
+
+Datos anuales desde 2005 en matrimonios y desde 2013 en divorcios, separaciones y nulidades, hasta 2021:
+- El número de separaciones y nulidades es despreciable, especialmente nulidades.
+- Las nulidades, además de ser totalmente despreciables, descienden, ¿hay un mejor sistema para evitar errores?
+- Las separaciones, además de ser ínfimas, tienen tendencia a la baja, ¿mejor divorcio?
+- El número de matrimonios y divorcios se mantiene relativamente estable, incluso tienden a la baja (se casa menos gente, se divorcia menos gente).
+- El número del conjunto divorcios, separaciones y nulidades suponen algo más de la mitad respecto el número de matrimonios.
+- Efecto pandemia, pico en 2020.
+   - Disminuye el número de matrimonios y separaciones. Aunque los matrimonios caen mucho más que las separaciones (¿por no poder hacer fiesta?).
+   - En 2021 prácticamente se vuelve a la tendencia en número de separaciones pero no en matrimonios (¿por haber retrasado la fiesta?)
+
+
+Género en matrimonios y divorcios
+
+Datos anuales desde 2005 en matrimonios y desde 2013 en divorcios, hasta 2021:
+- Efecto ley matrimonio mismo sexo, pico en 2006.
+   - Se disparan los matrimonios entre hombres y mujeres (especialmente hombres) por la posibilidad de poder ejercer el derecho.
+- Efecto pandemia.
+   - Tras la pandemia, las mujeres se han casado más y los hombres se han divorciado más.
+- Los hombres se casan más que las mujeres, también se divorcian más.
+- Existe un pico de divorcios entre hombres en 2016, no se ha concluido ningún motivo aparente.
+
+
+Tipos de divorcios por género
+
+Datos anuales desde 2013 hasta 2021:
+
+- Se observa un mayor número de divorcios por mutuo acuerdo, frente a divorcios contenciosos.
+- No se aprecia diferencia significativa en el tipo de divorcio por género del matrimio.

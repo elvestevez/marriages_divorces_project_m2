@@ -49,7 +49,7 @@ Para la elaboración del proyecto se han llevado a cabo los siguientes pasos:
 
 3. Informe.
 
-    Se genera un report de PBI con el análisis de los datos con el objetivo de poder obtener conclusiones para distintos usos como pueden ser de ámbito político, social o económico.
+    Se genera un report en PBI con el análisis de los datos con el objetivo de poder obtener conclusiones para distintos usos como pueden ser de ámbito político, social o económico.
 
 ---
 
@@ -59,6 +59,7 @@ Para la elaboración del proyecto se han llevado a cabo los siguientes pasos:
 └── project
     ├── .gitignore
     ├── README.md
+    ├── Insights.txt
     └── data
         └── INE    
         └── PBI
