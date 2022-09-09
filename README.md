@@ -23,6 +23,8 @@ Por otro lado, se consulta el número de matrimonios anual ocurridos desde 2005 
 
 Se consulta, también, el número anual de divorcios, separaciones y nulidades. En este caso desde 2013, al no haber encontrado información anterior, y hasta el último año publicado, 2021.
 
+No se tienen en cuenta otros tipos de uniones y separaciones como pareja de hecho.
+
 ---
 
 ### **Tecnologías**
