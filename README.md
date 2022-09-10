@@ -15,7 +15,7 @@ En 2005 se aprobó la ley que permite en España el matrimonio entre personas de
 
 ### **Origen de los datos**
 
-Los datos origen se han extraido del portal del Instituto Nacional de Estadística (INE).
+Los datos origen se han extraido del portal del Instituto Nacional de Estadística ([INE](https://www.ine.es/)).
 
 Por un lado, se ha consultado la población anual según género y estado civil desde el año 2005. Se considera la población a partir de 16 años, ya que es la edad legal en España para contraer matrimonio y, por tanto, población para la que aplica el cambio de estado civil.
 
@@ -66,3 +66,17 @@ Para la elaboración del proyecto se han llevado a cabo los siguientes pasos:
     └── notebooks    
     └── reports 
 ```
+
+---
+
+### **Próximos pasos**
+
+- Trabajar la normalización del modelo.
+- Profundizar con nuevas características: 
+    - Localización (provincia, municipio...).
+    - Edad de los cónyuges.
+    - Estado civil previo.
+    - Número de hijos.
+    - Etc.
+- Ampliar la temporalidad de los datos.
+- Automatizar para la incorporación de nuevos datos.
